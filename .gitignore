@@ -1,0 +1,9 @@
+bronze/*/audio/
+bronze/pipeline/chunks/
+bronze/pipeline/.env
+*.mp3
+*.wav
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
