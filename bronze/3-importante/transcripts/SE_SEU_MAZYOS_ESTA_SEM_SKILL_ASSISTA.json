@@ -1,0 +1,835 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6060
+			},
+			"text": " Se você está tentando usar skill barra atualizar ou qualquer outra skill e não está conseguindo, não aparece,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,380",
+				"to": "00:00:09,720"
+			},
+			"offsets": {
+				"from": 6380,
+				"to": 9720
+			},
+			"text": " é porque você não tornou o Masios a sua pasta principal."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,700",
+				"to": "00:00:11,280"
+			},
+			"offsets": {
+				"from": 10700,
+				"to": 11280
+			},
+			"text": " Então vamos lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,520",
+				"to": "00:00:14,900"
+			},
+			"offsets": {
+				"from": 12520,
+				"to": 14900
+			},
+			"text": " Por exemplo, hoje duas pessoas vieram com essa mesma dúvida."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,400",
+				"to": "00:00:20,500"
+			},
+			"offsets": {
+				"from": 15400,
+				"to": 20500
+			},
+			"text": " Então se você abrir aqui, o Davidson criou a pasta Davidson, depois Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,920",
+				"to": "00:00:25,960"
+			},
+			"offsets": {
+				"from": 20920,
+				"to": 25960
+			},
+			"text": " Normal, no começo, quando você está instalando o Masios, ele fica com essa pasta aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,560",
+				"to": "00:00:28,040"
+			},
+			"offsets": {
+				"from": 26560,
+				"to": 28040
+			},
+			"text": " Depois, o que você precisa fazer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,040",
+				"to": "00:00:29,660"
+			},
+			"offsets": {
+				"from": 28040,
+				"to": 29660
+			},
+			"text": " Aí você consegue fazer de duas maneiras."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,400",
+				"to": "00:00:36,400"
+			},
+			"offsets": {
+				"from": 30400,
+				"to": 36400
+			},
+			"text": " Você ou pede para o próprio Cloud transformar o Masios na sua pasta principal,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,780",
+				"to": "00:00:43,440"
+			},
+			"offsets": {
+				"from": 36780,
+				"to": 43440
+			},
+			"text": " ou se já é alguma pasta que você já tem outros arquivos, você joga todos esses arquivos para dentro da pasta Masios"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,440",
+				"to": "00:00:48,580"
+			},
+			"offsets": {
+				"from": 43440,
+				"to": 48580
+			},
+			"text": " e depois transforma essa pasta Masios como sua pasta principal e já abre direto ela."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,900",
+				"to": "00:00:51,380"
+			},
+			"offsets": {
+				"from": 48900,
+				"to": 51380
+			},
+			"text": " Depois você pode só renomear a pasta Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,380",
+				"to": "00:00:56,620"
+			},
+			"offsets": {
+				"from": 51380,
+				"to": 56620
+			},
+			"text": " Mas é importante você entender que quando você está abrindo esse arquivo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,800",
+				"to": "00:01:03,140"
+			},
+			"offsets": {
+				"from": 56800,
+				"to": 63140
+			},
+			"text": " a pasta Masios com memória, cloud, dados, identidade, marketing e por aí vai, ela tem que ser a sua pasta principal."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,340",
+				"to": "00:01:09,520"
+			},
+			"offsets": {
+				"from": 64340,
+				"to": 69520
+			},
+			"text": " Se não, quando você estarta o projeto e conversa ali, pede alguma skill, ele não vai achar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,940",
+				"to": "00:01:14,120"
+			},
+			"offsets": {
+				"from": 69940,
+				"to": 74120
+			},
+			"text": " porque você está abrindo a pasta Davidson e não a pasta Masios, mesmo ela estando ali dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,660",
+				"to": "00:01:18,860"
+			},
+			"offsets": {
+				"from": 74660,
+				"to": 78860
+			},
+			"text": " Então, quando você torna o Masios a sua pasta principal com seus arquivos ali,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,660",
+				"to": "00:01:24,180"
+			},
+			"offsets": {
+				"from": 79660,
+				"to": 84180
+			},
+			"text": " sempre que você pedir um prompt ou tentar usar uma skill, ele vai achar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,760",
+				"to": "00:01:28,020"
+			},
+			"offsets": {
+				"from": 84760,
+				"to": 88020
+			},
+			"text": " porque ele vai ler o seu cloud.md dentro da pasta Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,580",
+				"to": "00:01:32,300"
+			},
+			"offsets": {
+				"from": 88580,
+				"to": 92300
+			},
+			"text": " Se você não está entendendo isso que eu estou falando, assiste o último vídeo que eu postei no YouTube"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,300",
+				"to": "00:01:35,740"
+			},
+			"offsets": {
+				"from": 92300,
+				"to": 95740
+			},
+			"text": " que eu mostro passo a passo, eu explico tudo como que funciona o cloud,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,860",
+				"to": "00:01:37,940"
+			},
+			"offsets": {
+				"from": 95860,
+				"to": 97940
+			},
+			"text": " e lá você vai entender o que é o cloud.md."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,940",
+				"to": "00:01:40,700"
+			},
+			"offsets": {
+				"from": 99940,
+				"to": 100700
+			},
+			"text": " Basicamente é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,840",
+				"to": "00:01:42,960"
+			},
+			"offsets": {
+				"from": 100840,
+				"to": 102960
+			},
+			"text": " Então, quer ver?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,180",
+				"to": "00:01:52,200"
+			},
+			"offsets": {
+				"from": 103180,
+				"to": 112200
+			},
+			"text": " Aqui no nosso grupo de suporte, você percebe que ele estava abrindo a pasta LP Store"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,200",
+				"to": "00:01:55,320"
+			},
+			"offsets": {
+				"from": 112200,
+				"to": 115320
+			},
+			"text": " e dentro da pasta LP Store tem a pasta Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,000",
+				"to": "00:01:56,580"
+			},
+			"offsets": {
+				"from": 116000,
+				"to": 116580
+			},
+			"text": " Está errado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,820",
+				"to": "00:01:57,900"
+			},
+			"offsets": {
+				"from": 116820,
+				"to": 117900
+			},
+			"text": " Então, o que ele fez?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,480",
+				"to": "00:02:06,280"
+			},
+			"offsets": {
+				"from": 119480,
+				"to": 126280
+			},
+			"text": " A gente falou aqui para ele, ele jogou tudo para dentro da pasta, bonitinho, LP Store,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,540",
+				"to": "00:02:13,900"
+			},
+			"offsets": {
+				"from": 126540,
+				"to": 133900
+			},
+			"text": " e daí, antes era LP Store e dentro tinha Masios, ele copiou tudo aqui e jogou dentro da pasta LP Store e pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,300",
+				"to": "00:02:18,580"
+			},
+			"offsets": {
+				"from": 134300,
+				"to": 138580
+			},
+			"text": " Na verdade, ele tornou a pasta Masios a pasta principal dele e aqui resolveu."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,800",
+				"to": "00:02:23,840"
+			},
+			"offsets": {
+				"from": 138800,
+				"to": 143840
+			},
+			"text": " Então, agora ele abre a pasta Masios direto e aqui então tem memória, cloud, por aí vai, tem tudo aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,340",
+				"to": "00:02:27,640"
+			},
+			"offsets": {
+				"from": 144340,
+				"to": 147640
+			},
+			"text": " E ele já jogou as outras pastas que ele tinha criado, marcas que trabalham e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,240",
+				"to": "00:02:28,980"
+			},
+			"offsets": {
+				"from": 148240,
+				"to": 148980
+			},
+			"text": " Deu para entender?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,220",
+				"to": "00:02:31,860"
+			},
+			"offsets": {
+				"from": 149220,
+				"to": 151860
+			},
+			"text": " Então, agora, quando ele tentar usar alguma skill, ele vai conseguir usar."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,720",
+				"to": "00:02:37,240"
+			},
+			"offsets": {
+				"from": 152720,
+				"to": 157240
+			},
+			"text": " Isso é muito importante você entender que, se não, você vai estar usando o cloud normal"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,240",
+				"to": "00:02:38,920"
+			},
+			"offsets": {
+				"from": 157240,
+				"to": 158920
+			},
+			"text": " ao invés de estar usando o cloud com Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,100",
+				"to": "00:02:42,520"
+			},
+			"offsets": {
+				"from": 159100,
+				"to": 162520
+			},
+			"text": " Você vai estar usando o cloud code achando que está usando o Masios e está usando da maneira errada."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,280",
+				"to": "00:02:45,280"
+			},
+			"offsets": {
+				"from": 163280,
+				"to": 165280
+			},
+			"text": " Depois, é só você renomear a pasta Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,440",
+				"to": "00:02:48,300"
+			},
+			"offsets": {
+				"from": 165440,
+				"to": 168300
+			},
+			"text": " Depois você coloca o nome que você quiser do seu projeto."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,880",
+				"to": "00:02:49,240"
+			},
+			"offsets": {
+				"from": 168880,
+				"to": 169240
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,760",
+				"to": "00:02:53,060"
+			},
+			"offsets": {
+				"from": 169760,
+				"to": 173060
+			},
+			"text": " Aqui era o David com o problema também, mas é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,620",
+				"to": "00:02:54,080"
+			},
+			"offsets": {
+				"from": 173620,
+				"to": 174080
+			},
+			"text": " Então, é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,200",
+				"to": "00:02:55,640"
+			},
+			"offsets": {
+				"from": 174200,
+				"to": 175640
+			},
+			"text": " Essa era uma aula simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,640",
+				"to": "00:02:59,480"
+			},
+			"offsets": {
+				"from": 175640,
+				"to": 179480
+			},
+			"text": " Se você está com mais dúvidas e quer esclarecer suas dúvidas de uma maneira mais rápida,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,680",
+				"to": "00:03:04,380"
+			},
+			"offsets": {
+				"from": 179680,
+				"to": 184380
+			},
+			"text": " entra na comunidade do WhatsApp, porque aqui a gente fica conversando."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,500",
+				"to": "00:03:07,220"
+			},
+			"offsets": {
+				"from": 184500,
+				"to": 187220
+			},
+			"text": " Então, às vezes eu vou tirar a sua dúvida ou outra pessoa vai tirar a sua dúvida."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,640",
+				"to": "00:03:15,000"
+			},
+			"offsets": {
+				"from": 187640,
+				"to": 195000
+			},
+			"text": " Tem a sala resenha, tem o grupo suporte aqui, onde normalmente quem está com dúvida."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,300",
+				"to": "00:03:17,100"
+			},
+			"offsets": {
+				"from": 195300,
+				"to": 197100
+			},
+			"text": " Então, por exemplo, aqui o Diogo já deu uma aula."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,380",
+				"to": "00:03:18,440"
+			},
+			"offsets": {
+				"from": 197380,
+				"to": 198440
+			},
+			"text": " Você está usando o cloud puro só."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,540",
+				"to": "00:03:19,200"
+			},
+			"offsets": {
+				"from": 198540,
+				"to": 199200
+			},
+			"text": " Você não está usando o Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,580",
+				"to": "00:03:27,840"
+			},
+			"offsets": {
+				"from": 199580,
+				"to": 207840
+			},
+			"text": " O Masios é uma série de regras, skills e configurações que fazem tudo isso, que organizam."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,980",
+				"to": "00:03:30,740"
+			},
+			"offsets": {
+				"from": 207980,
+				"to": 210740
+			},
+			"text": " Então, você roda ali barra instalada, ele vai te entrevistar, vai fazer perguntas sobre..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,740",
+				"to": "00:03:31,440"
+			},
+			"offsets": {
+				"from": 210740,
+				"to": 211440
+			},
+			"text": " Ou seja, uma aula."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,500",
+				"to": "00:03:32,080"
+			},
+			"offsets": {
+				"from": 211500,
+				"to": 212080
+			},
+			"text": " O cara deu uma aula."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,160",
+				"to": "00:03:34,320"
+			},
+			"offsets": {
+				"from": 212160,
+				"to": 214320
+			},
+			"text": " Ele respondeu tudo aqui que a gente precisava."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:34,880",
+				"to": "00:03:36,680"
+			},
+			"offsets": {
+				"from": 214880,
+				"to": 216680
+			},
+			"text": " Toda dúvida que o amigo estava."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,040",
+				"to": "00:03:41,500"
+			},
+			"offsets": {
+				"from": 217040,
+				"to": 221500
+			},
+			"text": " Então, se você está com mais dúvidas, entra na comunidade do WhatsApp, que lá você vai ser respondido na hora."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,500",
+				"to": "00:03:45,860"
+			},
+			"offsets": {
+				"from": 221500,
+				"to": 225860
+			},
+			"text": " Tanto por mim, como a própria pessoa da comunidade ali, que sabe resolver o seu problema."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,780",
+				"to": "00:03:47,140"
+			},
+			"offsets": {
+				"from": 226780,
+				"to": 227140
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,080",
+				"to": "00:03:49,120"
+			},
+			"offsets": {
+				"from": 228080,
+				"to": 229120
+			},
+			"text": " Muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,300",
+				"to": "00:03:52,720"
+			},
+			"offsets": {
+				"from": 229300,
+				"to": 232720
+			},
+			"text": " Você precisa usar da maneira correta o Masios, instalar da maneira correta."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,400",
+				"to": "00:03:53,660"
+			},
+			"offsets": {
+				"from": 233400,
+				"to": 233660
+			},
+			"text": " Ok?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,980",
+				"to": "00:03:54,580"
+			},
+			"offsets": {
+				"from": 233980,
+				"to": 234580
+			},
+			"text": " Deu para entender?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,360",
+				"to": "00:03:59,540"
+			},
+			"offsets": {
+				"from": 235360,
+				"to": 239540
+			},
+			"text": " Você já estava usando da maneira correta ou ainda estava uma pasta ali dentro?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,680",
+				"to": "00:04:07,760"
+			},
+			"offsets": {
+				"from": 240680,
+				"to": 247760
+			},
+			"text": " Na própria instalação do Masios, chega uma hora que ele mesmo fala para você isso e você fala que sim e transforma ele na pasta principal."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,380",
+				"to": "00:04:10,820"
+			},
+			"offsets": {
+				"from": 248380,
+				"to": 250820
+			},
+			"text": " É só você se atentar ali, ver se você já fez isso ou ainda não."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,220",
+				"to": "00:04:11,680"
+			},
+			"offsets": {
+				"from": 251220,
+				"to": 251680
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,160",
+				"to": "00:04:12,800"
+			},
+			"offsets": {
+				"from": 252160,
+				"to": 252800
+			},
+			"text": " Tamo junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,060",
+				"to": "00:04:13,720"
+			},
+			"offsets": {
+				"from": 253060,
+				"to": 253720
+			},
+			"text": " Até a próxima."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,340",
+				"to": "00:04:15,260"
+			},
+			"offsets": {
+				"from": 254340,
+				"to": 255260
+			},
+			"text": " Tem mais aulas por vir."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,460",
+				"to": "00:04:15,900"
+			},
+			"offsets": {
+				"from": 255460,
+				"to": 255900
+			},
+			"text": " Aguenta aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,440",
+				"to": "00:04:16,880"
+			},
+			"offsets": {
+				"from": 256440,
+				"to": 256880
+			},
+			"text": " É nóis."
+		}
+	]
+}

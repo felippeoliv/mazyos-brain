@@ -1,0 +1,1055 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,280",
+				"to": "00:00:06,540"
+			},
+			"offsets": {
+				"from": 280,
+				"to": 6540
+			},
+			"text": " E aí, meu amigo ou minha amiga, né? Porque temos muitas donzelas aqui com a gente também."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,420",
+				"to": "00:00:10,800"
+			},
+			"offsets": {
+				"from": 7420,
+				"to": 10800
+			},
+			"text": " Nesse vídeo eu quero te mostrar o seguinte, é uma ferramenta que eu tô utilizando."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,960",
+				"to": "00:00:13,620"
+			},
+			"offsets": {
+				"from": 10960,
+				"to": 13620
+			},
+			"text": " Eu não tô utilizando há muito tempo, comecei a utilizar agora há pouco."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,700",
+				"to": "00:00:17,540"
+			},
+			"offsets": {
+				"from": 13700,
+				"to": 17540
+			},
+			"text": " Foi um amigo meu, uma recomendação de um amigo que manja muito de IA e ele tá usando."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,020",
+				"to": "00:00:22,080"
+			},
+			"offsets": {
+				"from": 18020,
+				"to": 22080
+			},
+			"text": " E cara, eu tô apaixonado por essa ferramenta e muitos de vocês estão com dúvidas."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,220",
+				"to": "00:00:27,960"
+			},
+			"offsets": {
+				"from": 22220,
+				"to": 27960
+			},
+			"text": " Ah, já coloquei o VS Code em português, mesmo assim quando eu gravo o áudio sai em inglês"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,960",
+				"to": "00:00:30,940"
+			},
+			"offsets": {
+				"from": 27960,
+				"to": 30940
+			},
+			"text": " ou sai com problema, ou não sai do jeito que eu quero e não sei o que lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,420",
+				"to": "00:00:34,620"
+			},
+			"offsets": {
+				"from": 31420,
+				"to": 34620
+			},
+			"text": " Essa ferramenta aqui, se eu não me engano, ela tem 15 dias grátis, depois ela é paga."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,940",
+				"to": "00:00:39,320"
+			},
+			"offsets": {
+				"from": 34940,
+				"to": 39320
+			},
+			"text": " Mas eu recomendo pelo menos você usar os 15 dias grátis que você vai ver que ela vai já mudar"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,320",
+				"to": "00:00:43,000"
+			},
+			"offsets": {
+				"from": 39320,
+				"to": 43000
+			},
+			"text": " o jeito com que você conversa com a IA e cria seus prompts, fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,260",
+				"to": "00:00:45,480"
+			},
+			"offsets": {
+				"from": 43260,
+				"to": 45480
+			},
+			"text": " E eu vou te mostrar aqui porque ela é muito interessante."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,940",
+				"to": "00:00:52,380"
+			},
+			"offsets": {
+				"from": 45940,
+				"to": 52380
+			},
+			"text": " Mas, primeira coisa, você baixa no seu computador e daí ele fica essa linhazinha preta aqui embaixo, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,380",
+				"to": "00:01:02,180"
+			},
+			"offsets": {
+				"from": 53380,
+				"to": 62180
+			},
+			"text": " Então, o legal é que daí você aperta o botão que você configurou e ele já começa a gravar aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,740",
+				"to": "00:01:10,800"
+			},
+			"offsets": {
+				"from": 62740,
+				"to": 70800
+			},
+			"text": " Então, Claudio, eu quero criar um aplicativo e nesse aplicativo eu quero que ele seja conectado com a Apple."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,460",
+				"to": "00:01:12,120"
+			},
+			"offsets": {
+				"from": 71460,
+				"to": 72120
+			},
+			"text": " Então, vamos lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,340",
+				"to": "00:01:15,380"
+			},
+			"offsets": {
+				"from": 72340,
+				"to": 75380
+			},
+			"text": " O ponto 1 é que eu quero que ele tenha a cor rosa."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,100",
+				"to": "00:01:20,400"
+			},
+			"offsets": {
+				"from": 76100,
+				"to": 80400
+			},
+			"text": " O ponto 2 é que eu quero que ele voe."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,980",
+				"to": "00:01:26,300"
+			},
+			"offsets": {
+				"from": 80980,
+				"to": 86300
+			},
+			"text": " O ponto 3 é que eu acho interessante ter extensões assim, assim, assada."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,260",
+				"to": "00:01:34,380"
+			},
+			"offsets": {
+				"from": 87260,
+				"to": 94380
+			},
+			"text": " O ponto 4 e o 5 é que ele tem que ser conectado com o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,480",
+				"to": "00:01:36,060"
+			},
+			"offsets": {
+				"from": 95480,
+				"to": 96060
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,180",
+				"to": "00:01:37,880"
+			},
+			"offsets": {
+				"from": 96180,
+				"to": 97880
+			},
+			"text": " Espero que você tenha entendido o meu prompt."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,400",
+				"to": "00:01:40,560"
+			},
+			"offsets": {
+				"from": 98400,
+				"to": 100560
+			},
+			"text": " Óbvio que aqui, pelo amor de Deus, eu fiz um exemplo, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,920",
+				"to": "00:01:45,820"
+			},
+			"offsets": {
+				"from": 100920,
+				"to": 105820
+			},
+			"text": " Mas, ó, o que eu acho interessante é que ele, diferente de você só ter gravado o prompt,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,340",
+				"to": "00:01:49,820"
+			},
+			"offsets": {
+				"from": 106340,
+				"to": 109820
+			},
+			"text": " ele cria sessões aqui, ele é inteligente, sabe?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,180",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 110180,
+				"to": 117000
+			},
+			"text": " Primeiro que as palavras já ficam bem mais certeirazinha do que se você só gravasse com o áudio do Windows mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,260",
+				"to": "00:02:00,220"
+			},
+			"offsets": {
+				"from": 118260,
+				"to": 120220
+			},
+			"text": " Mas, então, ó, o legal é que ele criou aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,360",
+				"to": "00:02:02,280"
+			},
+			"offsets": {
+				"from": 120360,
+				"to": 122280
+			},
+			"text": " Então, um, eu quero que ele tenha a cor rosa."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,700",
+				"to": "00:02:04,040"
+			},
+			"offsets": {
+				"from": 122700,
+				"to": 124040
+			},
+			"text": " Dois, eu quero que ele voe."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,820",
+				"to": "00:02:07,260"
+			},
+			"offsets": {
+				"from": 124820,
+				"to": 127260
+			},
+			"text": " Três, eu acho interessante ter extensões assim, assim, assada."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,480",
+				"to": "00:02:10,000"
+			},
+			"offsets": {
+				"from": 127480,
+				"to": 130000
+			},
+			"text": " Então, isso daqui é algumas coisas, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,240",
+				"to": "00:02:13,640"
+			},
+			"offsets": {
+				"from": 130240,
+				"to": 133640
+			},
+			"text": " Tem também outras funções que eu ainda nem utilizei da maneira correta."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,280",
+				"to": "00:02:16,760"
+			},
+			"offsets": {
+				"from": 134280,
+				"to": 136760
+			},
+			"text": " Mas, por exemplo, aqui, ó, você consegue prompt engineer."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,620",
+				"to": "00:02:22,760"
+			},
+			"offsets": {
+				"from": 137620,
+				"to": 142760
+			},
+			"text": " Quando eu gravar agora, ele vai gravar o prompt como se fosse um engenheiro de prompt mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,480",
+				"to": "00:02:25,700"
+			},
+			"offsets": {
+				"from": 144480,
+				"to": 145700
+			},
+			"text": " Aqui tá o polish, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,760",
+				"to": "00:02:26,540"
+			},
+			"offsets": {
+				"from": 145760,
+				"to": 146540
+			},
+			"text": " Então, é polido."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,820",
+				"to": "00:02:29,020"
+			},
+			"offsets": {
+				"from": 146820,
+				"to": 149020
+			},
+			"text": " Então, ele faz essas coisinhas legais."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,820",
+				"to": "00:02:32,620"
+			},
+			"offsets": {
+				"from": 150820,
+				"to": 152620
+			},
+			"text": " Se eu não me engano, você consegue também."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,720",
+				"to": "00:02:33,320"
+			},
+			"offsets": {
+				"from": 152720,
+				"to": 153320
+			},
+			"text": " Deixa eu ver, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,660",
+				"to": "00:02:35,500"
+			},
+			"offsets": {
+				"from": 153660,
+				"to": 155500
+			},
+			"text": " Você seleciona o texto e clica em polish."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,220",
+				"to": "00:02:38,360"
+			},
+			"offsets": {
+				"from": 156220,
+				"to": 158360
+			},
+			"text": " E daí ele vai dar uma polida, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,380",
+				"to": "00:02:38,600"
+			},
+			"offsets": {
+				"from": 158380,
+				"to": 158600
+			},
+			"text": " Tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,660",
+				"to": "00:02:41,520"
+			},
+			"offsets": {
+				"from": 158660,
+				"to": 161520
+			},
+			"text": " Ele diminui o seu prompt pra você gastar menos tokens."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,880",
+				"to": "00:02:43,520"
+			},
+			"offsets": {
+				"from": 161880,
+				"to": 163520
+			},
+			"text": " Então, cara, é uma ferramenta muito completa."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,040",
+				"to": "00:02:46,240"
+			},
+			"offsets": {
+				"from": 164040,
+				"to": 166240
+			},
+			"text": " Óbvio que aqui eu te mostrei o básico, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,780",
+				"to": "00:02:48,220"
+			},
+			"offsets": {
+				"from": 166780,
+				"to": 168220
+			},
+			"text": " É bom você dar uma fuçada."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,460",
+				"to": "00:02:51,380"
+			},
+			"offsets": {
+				"from": 168460,
+				"to": 171380
+			},
+			"text": " Mas, você usando o básico, você vai ver que você já vai ter um resultado bem melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,700",
+				"to": "00:02:52,020"
+			},
+			"offsets": {
+				"from": 171700,
+				"to": 172020
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,700",
+				"to": "00:02:58,960"
+			},
+			"offsets": {
+				"from": 172700,
+				"to": 178960
+			},
+			"text": " Por que que é importante você usar um SAS de voz ou que seja usando ali o do Windows mesmo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,520",
+				"to": "00:03:02,960"
+			},
+			"offsets": {
+				"from": 180520,
+				"to": 182960
+			},
+			"text": " Primeiro, porque às vezes, você falando..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,580",
+				"to": "00:03:05,140"
+			},
+			"offsets": {
+				"from": 183580,
+				"to": 185140
+			},
+			"text": " Eu, eu funciono muito bem assim, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,560",
+				"to": "00:03:08,940"
+			},
+			"offsets": {
+				"from": 185560,
+				"to": 188940
+			},
+			"text": " Os meus prompts mais elaborados, eu gosto de conversar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,940",
+				"to": "00:03:10,960"
+			},
+			"offsets": {
+				"from": 188940,
+				"to": 190960
+			},
+			"text": " Porque a ideia tá na minha cabeça, eu gosto de falar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,260",
+				"to": "00:03:11,880"
+			},
+			"offsets": {
+				"from": 191260,
+				"to": 191880
+			},
+			"text": " Eu gosto de falar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,300",
+				"to": "00:03:15,660"
+			},
+			"offsets": {
+				"from": 192300,
+				"to": 195660
+			},
+			"text": " Dá pra vocês me verem aqui nos vídeos, gravando meus vídeos, fazendo minhas coisas."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,720",
+				"to": "00:03:17,040"
+			},
+			"offsets": {
+				"from": 195720,
+				"to": 197040
+			},
+			"text": " Eu gosto de me expressar, eu gosto de falar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,720",
+				"to": "00:03:24,020"
+			},
+			"offsets": {
+				"from": 197720,
+				"to": 204020
+			},
+			"text": " Então, você usar esse SAS aqui de áudio, eu acho bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,120",
+				"to": "00:03:25,580"
+			},
+			"offsets": {
+				"from": 204120,
+				"to": 205580
+			},
+			"text": " Porque às vezes, você tá com uma ideia na cabeça."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,020",
+				"to": "00:03:28,500"
+			},
+			"offsets": {
+				"from": 206020,
+				"to": 208500
+			},
+			"text": " Quando você para pra escrever ela, você já começa..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,500",
+				"to": "00:03:29,600"
+			},
+			"offsets": {
+				"from": 208500,
+				"to": 209600
+			},
+			"text": " Hum..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,600",
+				"to": "00:03:30,160"
+			},
+			"offsets": {
+				"from": 209600,
+				"to": 210160
+			},
+			"text": " Hum..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,160",
+				"to": "00:03:31,560"
+			},
+			"offsets": {
+				"from": 210160,
+				"to": 211560
+			},
+			"text": " Aí, às vezes, você fica meio..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,560",
+				"to": "00:03:35,760"
+			},
+			"offsets": {
+				"from": 211560,
+				"to": 215760
+			},
+			"text": " Agora, o bom é que, cara, grava ali e vai soltando tudo que tá na sua cabeça."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,920",
+				"to": "00:03:36,760"
+			},
+			"offsets": {
+				"from": 215920,
+				"to": 216760
+			},
+			"text": " Solta tudo, entendeu?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,400",
+				"to": "00:03:38,340"
+			},
+			"offsets": {
+				"from": 217400,
+				"to": 218340
+			},
+			"text": " Aí, muitas pessoas vão falar..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,340",
+				"to": "00:03:40,340"
+			},
+			"offsets": {
+				"from": 218340,
+				"to": 220340
+			},
+			"text": " Ah, mas daí vai gastar muito token."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,900",
+				"to": "00:03:43,220"
+			},
+			"offsets": {
+				"from": 220900,
+				"to": 223220
+			},
+			"text": " Toma cuidado com essa questão de economia de token, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,520",
+				"to": "00:03:43,860"
+			},
+			"offsets": {
+				"from": 223520,
+				"to": 223860
+			},
+			"text": " Eu sei."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,940",
+				"to": "00:03:46,680"
+			},
+			"offsets": {
+				"from": 223940,
+				"to": 226680
+			},
+			"text": " Às vezes, você tá com o plano mais barato e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,040",
+				"to": "00:03:55,720"
+			},
+			"offsets": {
+				"from": 227040,
+				"to": 235720
+			},
+			"text": " Mas, cara, às vezes, você ter um prompt mais elaborado, você falar mais, você se expressar ali melhor, vai sair um output melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,840",
+				"to": "00:03:57,260"
+			},
+			"offsets": {
+				"from": 235840,
+				"to": 237260
+			},
+			"text": " Vai sair uma resposta melhor daí, ah."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,540",
+				"to": "00:04:00,600"
+			},
+			"offsets": {
+				"from": 237540,
+				"to": 240600
+			},
+			"text": " Então, não fique com essa brisa de, ah, vou economizar prompt."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,760",
+				"to": "00:04:02,660"
+			},
+			"offsets": {
+				"from": 240760,
+				"to": 242660
+			},
+			"text": " Cara, quanto mais você fala, é melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,760",
+				"to": "00:04:03,720"
+			},
+			"offsets": {
+				"from": 242760,
+				"to": 243720
+			},
+			"text": " Quanto mais você escreve, é melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,340",
+				"to": "00:04:08,820"
+			},
+			"offsets": {
+				"from": 244340,
+				"to": 248820
+			},
+			"text": " Esquece esses caras falando pra você, ah, cavemanzão, prompt cru."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,240",
+				"to": "00:04:10,100"
+			},
+			"offsets": {
+				"from": 249240,
+				"to": 250100
+			},
+			"text": " Cara, esquece isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,300",
+				"to": "00:04:11,500"
+			},
+			"offsets": {
+				"from": 250300,
+				"to": 251500
+			},
+			"text": " Confia em mim, pelo menos nesse começo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,840",
+				"to": "00:04:18,060"
+			},
+			"offsets": {
+				"from": 251840,
+				"to": 258060
+			},
+			"text": " Vai pra um caveman, se você já estiver num nível de programação melhor, se você já estiver acertando mais seus prompts."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,460",
+				"to": "00:04:22,740"
+			},
+			"offsets": {
+				"from": 258460,
+				"to": 262740
+			},
+			"text": " Nesse começo, ou nesses projetos que você estiver usando com o Masios, fale o máximo possível."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,100",
+				"to": "00:04:24,300"
+			},
+			"offsets": {
+				"from": 263100,
+				"to": 264300
+			},
+			"text": " Se expresse, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,520",
+				"to": "00:04:26,140"
+			},
+			"offsets": {
+				"from": 264520,
+				"to": 266140
+			},
+			"text": " Que você vai ver que a resposta vai ser melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,800",
+				"to": "00:04:27,660"
+			},
+			"offsets": {
+				"from": 266800,
+				"to": 267660
+			},
+			"text": " Ok, deu pra você entender?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,780",
+				"to": "00:04:28,780"
+			},
+			"offsets": {
+				"from": 267780,
+				"to": 268780
+			},
+			"text": " Essa ferramenta é muito legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,600",
+				"to": "00:04:31,760"
+			},
+			"offsets": {
+				"from": 269600,
+				"to": 271760
+			},
+			"text": " Eu acho muito importante você ter ela aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,220",
+				"to": "00:04:37,860"
+			},
+			"offsets": {
+				"from": 272220,
+				"to": 277860
+			},
+			"text": " Fora que você tem um bloquinho de notas aqui, onde você pode ficar falando, escrevendo, e depois copia e joga."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,780",
+				"to": "00:04:40,940"
+			},
+			"offsets": {
+				"from": 278780,
+				"to": 280940
+			},
+			"text": " Sei lá, tem várias funcionalidades bem legais."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,940",
+				"to": "00:04:44,300"
+			},
+			"offsets": {
+				"from": 280940,
+				"to": 284300
+			},
+			"text": " Mas o mais importante é essa questão de ele ser mais inteligente."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,500",
+				"to": "00:04:50,220"
+			},
+			"offsets": {
+				"from": 284500,
+				"to": 290220
+			},
+			"text": " Ele deixa o seu prompt mais categorizadinho, bonitinho, e fica melhor o seu resultado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,700",
+				"to": "00:04:51,080"
+			},
+			"offsets": {
+				"from": 290700,
+				"to": 291080
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,400",
+				"to": "00:04:55,880"
+			},
+			"offsets": {
+				"from": 291400,
+				"to": 295880
+			},
+			"text": " Aula curta, simples, mas que muitas pessoas estão mandando que estão com dúvida nessa questão."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,200",
+				"to": "00:04:57,080"
+			},
+			"offsets": {
+				"from": 296200,
+				"to": 297080
+			},
+			"text": " Tamo junto, até a próxima."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,220",
+				"to": "00:04:58,420"
+			},
+			"offsets": {
+				"from": 297220,
+				"to": 298420
+			},
+			"text": " Os links estão todos aqui embaixo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,760",
+				"to": "00:04:59,160"
+			},
+			"offsets": {
+				"from": 298760,
+				"to": 299160
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,360",
+				"to": "00:04:59,920"
+			},
+			"offsets": {
+				"from": 299360,
+				"to": 299920
+			},
+			"text": " Let's go."
+		}
+	]
+}

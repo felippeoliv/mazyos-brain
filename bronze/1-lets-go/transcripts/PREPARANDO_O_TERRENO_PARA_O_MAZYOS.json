@@ -1,0 +1,1715 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,360",
+				"to": "00:00:06,020"
+			},
+			"offsets": {
+				"from": 360,
+				"to": 6020
+			},
+			"text": " Olá, nesse vídeo aqui eu vou te mostrar como você prepara o terreno para você instalar o MasiOS."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,400",
+				"to": "00:00:12,080"
+			},
+			"offsets": {
+				"from": 6400,
+				"to": 12080
+			},
+			"text": " Então, eu formatei meu computador, eu só baixei o meu usual paperzinho que eu gosto, baixei no Discord"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,080",
+				"to": "00:00:16,260"
+			},
+			"offsets": {
+				"from": 12080,
+				"to": 16260
+			},
+			"text": " e baixei o Loom, que é para que eu gravo essas aulas."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:20,900"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 20900
+			},
+			"text": " E agora o que a gente vai fazer? A gente vai fazer o seguinte, a primeira coisa é baixar o VS Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,580",
+				"to": "00:00:24,440"
+			},
+			"offsets": {
+				"from": 21580,
+				"to": 24440
+			},
+			"text": " Então eu vou pesquisar no Google Download VS Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,040",
+				"to": "00:00:28,780"
+			},
+			"offsets": {
+				"from": 25040,
+				"to": 28780
+			},
+			"text": " Você clica nesse primeirinho aqui, qualquer um, é da Microsoft, é tranquilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,140",
+				"to": "00:00:34,180"
+			},
+			"offsets": {
+				"from": 29140,
+				"to": 34180
+			},
+			"text": " Eu vou baixar para o Windows, mas dependendo se você está no Linux ou no Mac, você baixa aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,480",
+				"to": "00:00:38,340"
+			},
+			"offsets": {
+				"from": 35480,
+				"to": 38340
+			},
+			"text": " Vou começar a baixar aqui, tranquilamente, vamos abrir."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,880",
+				"to": "00:00:43,320"
+			},
+			"offsets": {
+				"from": 39880,
+				"to": 43320
+			},
+			"text": " Aqui é só, né? Pelo amor de Deus, não preciso ensinar você a instalar, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,400",
+				"to": "00:00:47,540"
+			},
+			"offsets": {
+				"from": 43400,
+				"to": 47540
+			},
+			"text": " Só clicar em avançar aqui, avançar, avançar, instalar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,160",
+				"to": "00:00:57,840"
+			},
+			"offsets": {
+				"from": 51160,
+				"to": 57840
+			},
+			"text": " A gente precisa do VS Code e... o que mais a gente pensar? Mais nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,280",
+				"to": "00:01:01,860"
+			},
+			"offsets": {
+				"from": 58280,
+				"to": 61860
+			},
+			"text": " No caso aqui, eu vou conectar com o Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,060",
+				"to": "00:01:09,640"
+			},
+			"offsets": {
+				"from": 62060,
+				"to": 69640
+			},
+			"text": " Você pode conectar com o Codex, com Antigravity, cursor, aí você escolhe."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,880",
+				"to": "00:01:15,360"
+			},
+			"offsets": {
+				"from": 69880,
+				"to": 75360
+			},
+			"text": " No caso aqui, eu prefiro esse daqui, que é o Visual Studio, mas você usa o que você preferir."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,320",
+				"to": "00:01:18,880"
+			},
+			"offsets": {
+				"from": 76320,
+				"to": 78880
+			},
+			"text": " Se quiser seguir a minha recomendação, siga."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,320",
+				"to": "00:01:22,900"
+			},
+			"offsets": {
+				"from": 79320,
+				"to": 82900
+			},
+			"text": " Agora aqui, ele vai falar para a gente conectar ou com o GitHub ou com o Google."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,100",
+				"to": "00:01:24,280"
+			},
+			"offsets": {
+				"from": 83100,
+				"to": 84280
+			},
+			"text": " Eu vou conectar com o GitHub."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,540",
+				"to": "00:01:25,740"
+			},
+			"offsets": {
+				"from": 84540,
+				"to": 85740
+			},
+			"text": " Abriu na minha outra tela aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,320",
+				"to": "00:01:33,420"
+			},
+			"offsets": {
+				"from": 91320,
+				"to": 93420
+			},
+			"text": " Só seguir aqui com o Google."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,100",
+				"to": "00:01:35,900"
+			},
+			"offsets": {
+				"from": 94100,
+				"to": 95900
+			},
+			"text": " Chegou no meu Gmail aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,900",
+				"to": "00:01:37,980"
+			},
+			"offsets": {
+				"from": 96900,
+				"to": 97980
+			},
+			"text": " Um código."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,800",
+				"to": "00:01:41,320"
+			},
+			"offsets": {
+				"from": 100800,
+				"to": 101320
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,740",
+				"to": "00:01:42,300"
+			},
+			"offsets": {
+				"from": 101740,
+				"to": 102300
+			},
+			"text": " Continuar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,440",
+				"to": "00:01:48,900"
+			},
+			"offsets": {
+				"from": 104440,
+				"to": 108900
+			},
+			"text": " Vai falar para abrir."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,900",
+				"to": "00:01:49,740"
+			},
+			"offsets": {
+				"from": 108900,
+				"to": 109740
+			},
+			"text": " Vou clicar em abrir."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,700",
+				"to": "00:01:51,260"
+			},
+			"offsets": {
+				"from": 110700,
+				"to": 111260
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,520",
+				"to": "00:01:52,260"
+			},
+			"offsets": {
+				"from": 111520,
+				"to": 112260
+			},
+			"text": " Aqui já abriu."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,260",
+				"to": "00:01:54,600"
+			},
+			"offsets": {
+				"from": 113260,
+				"to": 114600
+			},
+			"text": " Aqui você escolhe o tema."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,880",
+				"to": "00:01:55,860"
+			},
+			"offsets": {
+				"from": 114880,
+				"to": 115860
+			},
+			"text": " Vou deixar isso daqui mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,960",
+				"to": "00:01:56,860"
+			},
+			"offsets": {
+				"from": 115960,
+				"to": 116860
+			},
+			"text": " Depois eu troco."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,860",
+				"to": "00:01:59,900"
+			},
+			"offsets": {
+				"from": 118860,
+				"to": 119900
+			},
+			"text": " Tanto faz."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,020",
+				"to": "00:02:00,260"
+			},
+			"offsets": {
+				"from": 120020,
+				"to": 120260
+			},
+			"text": " Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,580",
+				"to": "00:02:00,920"
+			},
+			"offsets": {
+				"from": 120580,
+				"to": 120920
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,120",
+				"to": "00:02:03,900"
+			},
+			"offsets": {
+				"from": 121120,
+				"to": 123900
+			},
+			"text": " Aqui já temos o nosso Visual Studio."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,000",
+				"to": "00:02:08,380"
+			},
+			"offsets": {
+				"from": 125000,
+				"to": 128380
+			},
+			"text": " Agora, eu venho aqui do lado em Extensões."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,120",
+				"to": "00:02:12,920"
+			},
+			"offsets": {
+				"from": 130120,
+				"to": 132920
+			},
+			"text": " E eu já vou baixar algumas extensões que eu gosto de usar."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,620",
+				"to": "00:02:15,640"
+			},
+			"offsets": {
+				"from": 133620,
+				"to": 135640
+			},
+			"text": " No caso aqui, eu vou baixar o Drácula."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,860",
+				"to": "00:02:22,260"
+			},
+			"offsets": {
+				"from": 136860,
+				"to": 142260
+			},
+			"text": " Que é uma extensão que muda as cores aqui do código e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,400",
+				"to": "00:02:23,640"
+			},
+			"offsets": {
+				"from": 142400,
+				"to": 143640
+			},
+			"text": " Então, eu só venho aqui em Install."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,080",
+				"to": "00:02:26,340"
+			},
+			"offsets": {
+				"from": 145080,
+				"to": 146340
+			},
+			"text": " Ele vai falar se eu confio."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,420",
+				"to": "00:02:27,020"
+			},
+			"offsets": {
+				"from": 146420,
+				"to": 147020
+			},
+			"text": " Vou clicar aqui sim."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,360",
+				"to": "00:02:29,920"
+			},
+			"offsets": {
+				"from": 147360,
+				"to": 149920
+			},
+			"text": " Então, você pode ver que já mudou um pouco os temas, a cor aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,340",
+				"to": "00:02:34,960"
+			},
+			"offsets": {
+				"from": 150340,
+				"to": 154960
+			},
+			"text": " Outra extensão que eu vou baixar, que é principal aqui porque a gente vai usar, é o Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,000",
+				"to": "00:02:38,660"
+			},
+			"offsets": {
+				"from": 155000,
+				"to": 158660
+			},
+			"text": " Então, eu venho nessa primeirinha aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,520",
+				"to": "00:02:40,260"
+			},
+			"offsets": {
+				"from": 159520,
+				"to": 160260
+			},
+			"text": " Install também."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,740",
+				"to": "00:02:41,560"
+			},
+			"offsets": {
+				"from": 160740,
+				"to": 161560
+			},
+			"text": " Muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,680",
+				"to": "00:02:42,760"
+			},
+			"offsets": {
+				"from": 161680,
+				"to": 162760
+			},
+			"text": " Você precisa do Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,120",
+				"to": "00:02:44,680"
+			},
+			"offsets": {
+				"from": 163120,
+				"to": 164680
+			},
+			"text": " Vou explicar melhor nas próximas aulas."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,280",
+				"to": "00:02:49,600"
+			},
+			"offsets": {
+				"from": 165280,
+				"to": 169600
+			},
+			"text": " E se você não viu o meu vídeo no YouTube explicando o Cloud Code do zero, assista."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,640",
+				"to": "00:02:50,800"
+			},
+			"offsets": {
+				"from": 169640,
+				"to": 170800
+			},
+			"text": " Vou deixar ele aqui embaixo para você assistir."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,120",
+				"to": "00:02:54,640"
+			},
+			"offsets": {
+				"from": 172120,
+				"to": 174640
+			},
+			"text": " Daí você começa a entender mais como funciona o Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,220",
+				"to": "00:02:57,160"
+			},
+			"offsets": {
+				"from": 175220,
+				"to": 177160
+			},
+			"text": " E o que a gente está fazendo aqui, instalando ele aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,280",
+				"to": "00:02:59,660"
+			},
+			"offsets": {
+				"from": 178280,
+				"to": 179660
+			},
+			"text": " Aqui o Drácula apareceu."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,760",
+				"to": "00:03:01,660"
+			},
+			"offsets": {
+				"from": 179760,
+				"to": 181660
+			},
+			"text": " Se eu quero esse tema ou o tema de baixo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,700",
+				"to": "00:03:05,080"
+			},
+			"offsets": {
+				"from": 182700,
+				"to": 185080
+			},
+			"text": " Eu vou colocar esse primeirinho aqui mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,220",
+				"to": "00:03:05,320"
+			},
+			"offsets": {
+				"from": 185220,
+				"to": 185320
+			},
+			"text": " Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,140",
+				"to": "00:03:07,900"
+			},
+			"offsets": {
+				"from": 186140,
+				"to": 187900
+			},
+			"text": " Então, instalamos o Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,000",
+				"to": "00:03:09,540"
+			},
+			"offsets": {
+				"from": 188000,
+				"to": 189540
+			},
+			"text": " Já dá para ver que ele aparece aqui do lado."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,980",
+				"to": "00:03:11,140"
+			},
+			"offsets": {
+				"from": 189980,
+				"to": 191140
+			},
+			"text": " Agora, eu vou baixar esse icon."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,860",
+				"to": "00:03:13,180"
+			},
+			"offsets": {
+				"from": 191860,
+				"to": 193180
+			},
+			"text": " Material Icon Team."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,380",
+				"to": "00:03:17,760"
+			},
+			"offsets": {
+				"from": 193380,
+				"to": 197760
+			},
+			"text": " Eu gosto dele porque ele fica com as pastinhas bem bonitinhas."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,740",
+				"to": "00:03:19,860"
+			},
+			"offsets": {
+				"from": 198740,
+				"to": 199860
+			},
+			"text": " Então, vou instalar também."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,740",
+				"to": "00:03:23,480"
+			},
+			"offsets": {
+				"from": 202740,
+				"to": 203480
+			},
+			"text": " E pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,480",
+				"to": "00:03:32,300"
+			},
+			"offsets": {
+				"from": 203480,
+				"to": 212300
+			},
+			"text": " Já estamos com o nosso setup montado aqui para a gente começar a trabalhar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,780",
+				"to": "00:03:34,300"
+			},
+			"offsets": {
+				"from": 212780,
+				"to": 214300
+			},
+			"text": " Outra coisa que eu vou baixar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,260",
+				"to": "00:03:38,080"
+			},
+			"offsets": {
+				"from": 215260,
+				"to": 218080
+			},
+			"text": " Vou baixar o Whisper Flow."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,020",
+				"to": "00:03:43,180"
+			},
+			"offsets": {
+				"from": 221020,
+				"to": 223180
+			},
+			"text": " Porque esse daqui eu gosto para gravar meus áudios para IA."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,460",
+				"to": "00:03:44,400"
+			},
+			"offsets": {
+				"from": 223460,
+				"to": 224400
+			},
+			"text": " Esse daqui é opcional, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,540",
+				"to": "00:03:45,960"
+			},
+			"offsets": {
+				"from": 224540,
+				"to": 225960
+			},
+			"text": " Se você não quiser, não precisa baixar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,200",
+				"to": "00:03:49,620"
+			},
+			"offsets": {
+				"from": 227200,
+				"to": 229620
+			},
+			"text": " No Extras tem uma aula só..."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,620",
+				"to": "00:03:51,500"
+			},
+			"offsets": {
+				"from": 229620,
+				"to": 231500
+			},
+			"text": " Tem um videozinho só explicando o Spur Flow."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,680",
+				"to": "00:03:52,820"
+			},
+			"offsets": {
+				"from": 231680,
+				"to": 232820
+			},
+			"text": " E por que eu gosto de usar ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,280",
+				"to": "00:03:55,480"
+			},
+			"offsets": {
+				"from": 233280,
+				"to": 235480
+			},
+			"text": " Mas você pode usar o microfone do Windows."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,840",
+				"to": "00:03:57,680"
+			},
+			"offsets": {
+				"from": 235840,
+				"to": 237680
+			},
+			"text": " Você pode usar direto do VS Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,920",
+				"to": "00:03:59,280"
+			},
+			"offsets": {
+				"from": 237920,
+				"to": 239280
+			},
+			"text": " Você usa do jeito que você preferir."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,280",
+				"to": "00:04:05,560"
+			},
+			"offsets": {
+				"from": 241280,
+				"to": 245560
+			},
+			"text": " Eu prefiro ele porque você consegue gravar o áudio ali, o prompt."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,020",
+				"to": "00:04:08,360"
+			},
+			"offsets": {
+				"from": 246020,
+				"to": 248360
+			},
+			"text": " Enquanto você está navegando em outras abas."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,800",
+				"to": "00:04:11,580"
+			},
+			"offsets": {
+				"from": 248800,
+				"to": 251580
+			},
+			"text": " Você consegue enxugar seu prompt para economizar mais token."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,280",
+				"to": "00:04:15,680"
+			},
+			"offsets": {
+				"from": 252280,
+				"to": 255680
+			},
+			"text": " O prompt, o áudio que você grava ali, ele sai bem bonitinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,720",
+				"to": "00:04:18,160"
+			},
+			"offsets": {
+				"from": 257720,
+				"to": 258160
+			},
+			"text": " Categorizado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,420",
+				"to": "00:04:19,920"
+			},
+			"offsets": {
+				"from": 258420,
+				"to": 259920
+			},
+			"text": " Mas é opcional porque ele é pago, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,980",
+				"to": "00:04:21,620"
+			},
+			"offsets": {
+				"from": 259980,
+				"to": 261620
+			},
+			"text": " Mas você tem acho que uns 15 dias de batas aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,720",
+				"to": "00:04:22,420"
+			},
+			"offsets": {
+				"from": 261720,
+				"to": 262420
+			},
+			"text": " Eu aproveitaria."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,300",
+				"to": "00:04:23,700"
+			},
+			"offsets": {
+				"from": 263300,
+				"to": 263700
+			},
+			"text": " Fechou."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,780",
+				"to": "00:04:24,720"
+			},
+			"offsets": {
+				"from": 263780,
+				"to": 264720
+			},
+			"text": " Agora eu configuro aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,160",
+				"to": "00:04:27,560"
+			},
+			"offsets": {
+				"from": 267160,
+				"to": 267560
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,560",
+				"to": "00:04:29,180"
+			},
+			"offsets": {
+				"from": 267560,
+				"to": 269180
+			},
+			"text": " Agora um ponto muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,580",
+				"to": "00:04:31,120"
+			},
+			"offsets": {
+				"from": 269580,
+				"to": 271120
+			},
+			"text": " Eu vou vir aqui novamente em extensão."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,280",
+				"to": "00:04:32,240"
+			},
+			"offsets": {
+				"from": 271280,
+				"to": 272240
+			},
+			"text": " Vou vir aqui no Cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,740",
+				"to": "00:04:34,680"
+			},
+			"offsets": {
+				"from": 272740,
+				"to": 274680
+			},
+			"text": " Clicar aqui em cima em Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,060",
+				"to": "00:04:36,220"
+			},
+			"offsets": {
+				"from": 275060,
+				"to": 276220
+			},
+			"text": " Vai abrir ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,300",
+				"to": "00:04:41,060"
+			},
+			"offsets": {
+				"from": 277300,
+				"to": 281060
+			},
+			"text": " Agora a gente tem que vir e conectar a nossa conta do Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,320",
+				"to": "00:04:42,600"
+			},
+			"offsets": {
+				"from": 281320,
+				"to": 282600
+			},
+			"text": " Então eu vou clicar Open."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,220",
+				"to": "00:04:46,880"
+			},
+			"offsets": {
+				"from": 285220,
+				"to": 286880
+			},
+			"text": " Ele vai falar aqui para conectar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,060",
+				"to": "00:04:48,140"
+			},
+			"offsets": {
+				"from": 287060,
+				"to": 288140
+			},
+			"text": " Eu vou clicar em Autorizar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,160",
+				"to": "00:04:51,600"
+			},
+			"offsets": {
+				"from": 291160,
+				"to": 291600
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,700",
+				"to": "00:04:52,640"
+			},
+			"offsets": {
+				"from": 291700,
+				"to": 292640
+			},
+			"text": " Falou que já posso fechar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,880",
+				"to": "00:04:54,180"
+			},
+			"offsets": {
+				"from": 293880,
+				"to": 294180
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,300",
+				"to": "00:04:56,260"
+			},
+			"offsets": {
+				"from": 294300,
+				"to": 296260
+			},
+			"text": " Já está conectado a nossa conta do Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,260",
+				"to": "00:04:59,280"
+			},
+			"offsets": {
+				"from": 296260,
+				"to": 299280
+			},
+			"text": " Se você ainda não pegou um plano no Cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,780",
+				"to": "00:05:03,060"
+			},
+			"offsets": {
+				"from": 299780,
+				"to": 303060
+			},
+			"text": " Eu já vou até explicar aqui para você."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,640",
+				"to": "00:05:07,280"
+			},
+			"offsets": {
+				"from": 303640,
+				"to": 307280
+			},
+			"text": " Dentro dessa minha aula no YouTube eu explico certinho sobre cada plano."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,360",
+				"to": "00:05:12,800"
+			},
+			"offsets": {
+				"from": 308360,
+				"to": 312800
+			},
+			"text": " Mas aqui tem o de graça, o plano de graça do Cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,320",
+				"to": "00:05:17,360"
+			},
+			"offsets": {
+				"from": 313320,
+				"to": 317360
+			},
+			"text": " que você não tem acesso ao Cloud Code e tem acesso ao Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,080",
+				"to": "00:05:23,700"
+			},
+			"offsets": {
+				"from": 318080,
+				"to": 323700
+			},
+			"text": " O Pro, ele chega a ser, deixa eu ver aqui, 20 dólares por mês."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,400",
+				"to": "00:05:29,400"
+			},
+			"offsets": {
+				"from": 327400,
+				"to": 329400
+			},
+			"text": " Então dá cerca de cento e poucos reais ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,860",
+				"to": "00:05:33,920"
+			},
+			"offsets": {
+				"from": 329860,
+				"to": 333920
+			},
+			"text": " E você já tem acesso ao Cloud Code, que é o que a gente vai usar aqui no curso, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,100",
+				"to": "00:05:37,880"
+			},
+			"offsets": {
+				"from": 334100,
+				"to": 337880
+			},
+			"text": " Para conseguir desenvolver nossas coisas, para criar carrossel, para criar site, por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,940",
+				"to": "00:05:41,780"
+			},
+			"offsets": {
+				"from": 337940,
+				"to": 341780
+			},
+			"text": " Hoje eu utilizo esse plano Max, que é uns 500 reais por mês, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,000",
+				"to": "00:05:44,820"
+			},
+			"offsets": {
+				"from": 342000,
+				"to": 344820
+			},
+			"text": " Mas ele é muito mais poderoso que esse plano Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,980",
+				"to": "00:05:47,340"
+			},
+			"offsets": {
+				"from": 345980,
+				"to": 347340
+			},
+			"text": " Dura muito mais."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,460",
+				"to": "00:05:49,300"
+			},
+			"offsets": {
+				"from": 347460,
+				"to": 349300
+			},
+			"text": " Eu consigo cuidar de todos os meus clientes só com ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,740",
+				"to": "00:05:51,860"
+			},
+			"offsets": {
+				"from": 349740,
+				"to": 351860
+			},
+			"text": " Se você está começando, começa pelo Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,260",
+				"to": "00:05:55,040"
+			},
+			"offsets": {
+				"from": 352260,
+				"to": 355040
+			},
+			"text": " Testa, faz ali suas paradinhas, vai aprendendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,400",
+				"to": "00:05:58,760"
+			},
+			"offsets": {
+				"from": 355400,
+				"to": 358760
+			},
+			"text": " Quando começar a chegar muito rápido no limite dele, aí você vai para o Max."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,840",
+				"to": "00:06:00,800"
+			},
+			"offsets": {
+				"from": 358840,
+				"to": 360800
+			},
+			"text": " Quando você já pegar seus primeiros clientes e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,220",
+				"to": "00:06:02,480"
+			},
+			"offsets": {
+				"from": 362220,
+				"to": 362480
+			},
+			"text": " Ok?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,120",
+				"to": "00:06:07,200"
+			},
+			"offsets": {
+				"from": 365120,
+				"to": 367200
+			},
+			"text": " Mas sim, o Max, ele é bem melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,380",
+				"to": "00:06:09,100"
+			},
+			"offsets": {
+				"from": 367380,
+				"to": 369100
+			},
+			"text": " Você consegue executar as suas tarefas melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,540",
+				"to": "00:06:12,880"
+			},
+			"offsets": {
+				"from": 369540,
+				"to": 372880
+			},
+			"text": " Porque o Pro, a cada tantas horas lá, vai acabar seus tokens."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,980",
+				"to": "00:06:16,260"
+			},
+			"offsets": {
+				"from": 372980,
+				"to": 376260
+			},
+			"text": " Você tem que esperar não sei quantas horas para voltar, para você conseguir terminar seu trabalho."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,880",
+				"to": "00:06:19,520"
+			},
+			"offsets": {
+				"from": 376880,
+				"to": 379520
+			},
+			"text": " Então o Max, ele é melhor para isso, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,880",
+				"to": "00:06:21,720"
+			},
+			"offsets": {
+				"from": 380880,
+				"to": 381720
+			},
+			"text": " O que mais?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,720",
+				"to": "00:06:24,720"
+			},
+			"offsets": {
+				"from": 381720,
+				"to": 384720
+			},
+			"text": " Então, depois que você cria a sua conta, pega seu plano Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,940",
+				"to": "00:06:26,520"
+			},
+			"offsets": {
+				"from": 384940,
+				"to": 386520
+			},
+			"text": " Aí você conecta, igual eu conectei aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,660",
+				"to": "00:06:29,200"
+			},
+			"offsets": {
+				"from": 386660,
+				"to": 389200
+			},
+			"text": " Você quer só clicar em um botão, ele já abre lá e conecta."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,800",
+				"to": "00:06:31,500"
+			},
+			"offsets": {
+				"from": 390800,
+				"to": 391500
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,600",
+				"to": "00:06:33,940"
+			},
+			"offsets": {
+				"from": 391600,
+				"to": 393940
+			},
+			"text": " Deixa eu pensar o que mais que precisamos da nossa estrutura."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,840",
+				"to": "00:06:37,280"
+			},
+			"offsets": {
+				"from": 394840,
+				"to": 397280
+			},
+			"text": " Para instalar o MasiOS."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,820",
+				"to": "00:06:39,720"
+			},
+			"offsets": {
+				"from": 398820,
+				"to": 399720
+			},
+			"text": " Eu acho que é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,680",
+				"to": "00:06:42,840"
+			},
+			"offsets": {
+				"from": 400680,
+				"to": 402840
+			},
+			"text": " Depois que você instalou, você vem em Open Folder."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,400",
+				"to": "00:06:46,340"
+			},
+			"offsets": {
+				"from": 403400,
+				"to": 406340
+			},
+			"text": " Seleciona o projeto que você vai querer mexer."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,440",
+				"to": "00:06:47,980"
+			},
+			"offsets": {
+				"from": 406440,
+				"to": 407980
+			},
+			"text": " No caso, o meu vai ser o Tubalir aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,060",
+				"to": "00:06:49,720"
+			},
+			"offsets": {
+				"from": 408060,
+				"to": 409720
+			},
+			"text": " Que eu tenho uma coisa para fazer para esse cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,720",
+				"to": "00:06:53,440"
+			},
+			"offsets": {
+				"from": 409720,
+				"to": 413440
+			},
+			"text": " E ele vai abrir aqui, já com as pastinhas bonitinhas aqui do lado."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,600",
+				"to": "00:06:55,380"
+			},
+			"offsets": {
+				"from": 413600,
+				"to": 415380
+			},
+			"text": " Já está com o MasiOS instalado."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,120",
+				"to": "00:06:57,320"
+			},
+			"offsets": {
+				"from": 416120,
+				"to": 417320
+			},
+			"text": " E por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,000",
+				"to": "00:07:01,900"
+			},
+			"offsets": {
+				"from": 418000,
+				"to": 421900
+			},
+			"text": " Eu já criei a nossa área de trabalho aqui que a gente vai utilizar."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,200",
+				"to": "00:07:04,300"
+			},
+			"offsets": {
+				"from": 422200,
+				"to": 424300
+			},
+			"text": " Que é o VS Code junto com o Cloud Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,640",
+				"to": "00:07:08,660"
+			},
+			"offsets": {
+				"from": 424640,
+				"to": 428660
+			},
+			"text": " Lembrando, se você prefere cursor, se você prefere Antigravit, use o que você prefere."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,820",
+				"to": "00:07:09,840"
+			},
+			"offsets": {
+				"from": 428820,
+				"to": 429840
+			},
+			"text": " Eu utilizo isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,220",
+				"to": "00:07:13,580"
+			},
+			"offsets": {
+				"from": 430220,
+				"to": 433580
+			},
+			"text": " E se você caiu de paraquedas e não sabe nada disso, só segue o passo a passo."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,680",
+				"to": "00:07:17,220"
+			},
+			"offsets": {
+				"from": 433680,
+				"to": 437220
+			},
+			"text": " Instala o VS Code, pega um plano no Cloud Code, conecta ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,120",
+				"to": "00:07:23,720"
+			},
+			"offsets": {
+				"from": 438120,
+				"to": 443720
+			},
+			"text": " E você vai ter bonitinho aqui para você ir para a próxima aula que é ensinando a instalar o MasiOS."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,200",
+				"to": "00:07:24,520"
+			},
+			"offsets": {
+				"from": 444200,
+				"to": 444520
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,100",
+				"to": "00:07:26,000"
+			},
+			"offsets": {
+				"from": 445100,
+				"to": 446000
+			},
+			"text": " Por aqui está tudo certo."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,340",
+				"to": "00:07:27,140"
+			},
+			"offsets": {
+				"from": 446340,
+				"to": 447140
+			},
+			"text": " Vamos para a próxima aula."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,240",
+				"to": "00:07:27,700"
+			},
+			"offsets": {
+				"from": 447240,
+				"to": 447700
+			},
+			"text": " Tamo junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:27,820",
+				"to": "00:07:28,320"
+			},
+			"offsets": {
+				"from": 447820,
+				"to": 448320
+			},
+			"text": " Let's go."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,720",
+				"to": "00:07:29,580"
+			},
+			"offsets": {
+				"from": 448720,
+				"to": 449580
+			},
+			"text": " Vai dar bom, meu amigo."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,960",
+				"to": "00:07:30,280"
+			},
+			"offsets": {
+				"from": 449960,
+				"to": 450280
+			},
+			"text": " Confia."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,360",
+				"to": "00:07:31,040"
+			},
+			"offsets": {
+				"from": 450360,
+				"to": 451040
+			},
+			"text": " Confia que vai dar bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,340",
+				"to": "00:07:31,780"
+			},
+			"offsets": {
+				"from": 451340,
+				"to": 451780
+			},
+			"text": " É nóis."
+		}
+	]
+}

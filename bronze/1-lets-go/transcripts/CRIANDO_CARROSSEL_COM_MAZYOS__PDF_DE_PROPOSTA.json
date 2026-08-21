@@ -1,0 +1,7468 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,720"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4720
+			},
+			"text": " Bonitinho os carrosséis, com imagem, sem imagem, preto, branco."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,100",
+				"to": "00:00:07,100"
+			},
+			"offsets": {
+				"from": 5100,
+				"to": 7100
+			},
+			"text": " E futuramente eu vou mostrar como que você deixa automático, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,460",
+				"to": "00:00:09,900"
+			},
+			"offsets": {
+				"from": 7460,
+				"to": 9900
+			},
+			"text": " Onde ele vai gerar o carrossel, você vai aprovar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,700",
+				"to": "00:00:13,300"
+			},
+			"offsets": {
+				"from": 10700,
+				"to": 13300
+			},
+			"text": " Ele vai postar no Instagram, no Facebook e até LinkedIn."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,860",
+				"to": "00:00:16,540"
+			},
+			"offsets": {
+				"from": 13860,
+				"to": 16540
+			},
+			"text": " E ele já pega essa legenda e já bota automático ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,540",
+				"to": "00:00:20,740"
+			},
+			"offsets": {
+				"from": 16540,
+				"to": 20740
+			},
+			"text": " Eu queria também esse PDF, que dependendo de como for a cal, eu já solto pra ela."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,200",
+				"to": "00:00:22,140"
+			},
+			"offsets": {
+				"from": 21200,
+				"to": 22140
+			},
+			"text": " Mas olha isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,520",
+				"to": "00:00:26,180"
+			},
+			"offsets": {
+				"from": 23520,
+				"to": 26180
+			},
+			"text": " Mano, os caras tão quente."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,800",
+				"to": "00:00:28,680"
+			},
+			"offsets": {
+				"from": 26800,
+				"to": 28680
+			},
+			"text": " Marketing digital completo para StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,800",
+				"to": "00:00:30,760"
+			},
+			"offsets": {
+				"from": 28800,
+				"to": 30760
+			},
+			"text": " Proposta comercial ou confidencial?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,940",
+				"to": "00:00:31,320"
+			},
+			"offsets": {
+				"from": 30940,
+				"to": 31320
+			},
+			"text": " Gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,420",
+				"to": "00:00:32,360"
+			},
+			"offsets": {
+				"from": 31420,
+				"to": 32360
+			},
+			"text": " Parceria com o Mazel IA."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,620",
+				"to": "00:00:33,980"
+			},
+			"offsets": {
+				"from": 32620,
+				"to": 33980
+			},
+			"text": " Agora é 8h16 da manhã."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,660",
+				"to": "00:00:37,360"
+			},
+			"offsets": {
+				"from": 34660,
+				"to": 37360
+			},
+			"text": " Eu tenho a cal com a Cristiane 10 horas."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,600",
+				"to": "00:00:40,440"
+			},
+			"offsets": {
+				"from": 37600,
+				"to": 40440
+			},
+			"text": " A gente parou aqui, terminei de criar o site dela, ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,780",
+				"to": "00:00:42,600"
+			},
+			"offsets": {
+				"from": 40780,
+				"to": 42600
+			},
+			"text": " Já tem imagens que a gente gerou."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,440",
+				"to": "00:00:43,840"
+			},
+			"offsets": {
+				"from": 43440,
+				"to": 43840
+			},
+			"text": " Mochila."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,080",
+				"to": "00:00:48,120"
+			},
+			"offsets": {
+				"from": 44080,
+				"to": 48120
+			},
+			"text": " Aqui no caso eu vou falar pra ele, use a skill atualizar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,400",
+				"to": "00:00:49,740"
+			},
+			"offsets": {
+				"from": 48400,
+				"to": 49740
+			},
+			"text": " O que é essa skill atualizar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,040",
+				"to": "00:00:51,380"
+			},
+			"offsets": {
+				"from": 50040,
+				"to": 51380
+			},
+			"text": " Ele vai atualizar todo o contexto."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,640",
+				"to": "00:00:54,740"
+			},
+			"offsets": {
+				"from": 51640,
+				"to": 54740
+			},
+			"text": " Ele já tá fazendo uma varredura em tudo que a gente fez aqui nesse chat, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,200",
+				"to": "00:00:57,880"
+			},
+			"offsets": {
+				"from": 55200,
+				"to": 57880
+			},
+			"text": " Então a gente criou o site, as imagens que a gente criou."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,600",
+				"to": "00:01:02,220"
+			},
+			"offsets": {
+				"from": 58600,
+				"to": 62220
+			},
+			"text": " Os textos que a gente usou, a logo, tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,380",
+				"to": "00:01:07,880"
+			},
+			"offsets": {
+				"from": 62380,
+				"to": 67880
+			},
+			"text": " Tudo que a gente fez aqui, ele faz uma varredura e ele vai atualizar a nossa estratégia, o nosso design."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,160",
+				"to": "00:01:10,500"
+			},
+			"offsets": {
+				"from": 68160,
+				"to": 70500
+			},
+			"text": " Ele vai atualizar tudo aqui, o nosso .md do cloud."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,900",
+				"to": "00:01:12,440"
+			},
+			"offsets": {
+				"from": 70900,
+				"to": 72440
+			},
+			"text": " Ele faz essa varredura, salva tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,560",
+				"to": "00:01:13,680"
+			},
+			"offsets": {
+				"from": 72560,
+				"to": 73680
+			},
+			"text": " Por que que isso é importante?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,460",
+				"to": "00:01:20,120"
+			},
+			"offsets": {
+				"from": 74460,
+				"to": 80120
+			},
+			"text": " Porque agora, pra gente abrir outro chat aqui, se eu falar pra ele, ah, o que que tem escrito no site em tal parte?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,240",
+				"to": "00:01:20,800"
+			},
+			"offsets": {
+				"from": 80240,
+				"to": 80800
+			},
+			"text": " Ele vai saber."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,260",
+				"to": "00:01:26,460"
+			},
+			"offsets": {
+				"from": 81260,
+				"to": 86460
+			},
+			"text": " Se a gente não faz essa varredura, se a gente não vai falando pra ele guardar as coisas, ele esquece."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,600",
+				"to": "00:01:30,340"
+			},
+			"offsets": {
+				"from": 86600,
+				"to": 90340
+			},
+			"text": " Então isso é muito importante quando você for criar anúncios e coisas mais específicas, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,460",
+				"to": "00:01:36,080"
+			},
+			"offsets": {
+				"from": 90460,
+				"to": 96080
+			},
+			"text": " O MasiOS, ele de tempos em tempos, ou quando é algo importante, ele mesmo já salva o contexto automático."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,500",
+				"to": "00:01:41,140"
+			},
+			"offsets": {
+				"from": 96500,
+				"to": 101140
+			},
+			"text": " Mas é bom você criar esse hábito de sempre ir atualizando o contexto, saber o que é importante e o que não é."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,320",
+				"to": "00:01:42,040"
+			},
+			"offsets": {
+				"from": 101320,
+				"to": 102040
+			},
+			"text": " Agora o que eu vou fazer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,520",
+				"to": "00:01:47,520"
+			},
+			"offsets": {
+				"from": 102520,
+				"to": 107520
+			},
+			"text": " Como ele já salvou o contexto, eu vou ir pra outro chat, porque tá vendo que aqui a gente conversou muito, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,020",
+				"to": "00:01:52,820"
+			},
+			"offsets": {
+				"from": 109020,
+				"to": 112820
+			},
+			"text": " Cada prompt que eu escrevo aqui, o que que ele faz?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,220",
+				"to": "00:01:58,060"
+			},
+			"offsets": {
+				"from": 113220,
+				"to": 118060
+			},
+			"text": " Ele pega tudo que a gente já conversou, lê tudo e dá a resposta."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,560",
+				"to": "00:02:06,780"
+			},
+			"offsets": {
+				"from": 118560,
+				"to": 126780
+			},
+			"text": " Se eu escrevo assim, oi, ele pega tudo que a gente escreveu, pega o contexto, pega tudo, bum, joga e me responde."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,960",
+				"to": "00:02:13,080"
+			},
+			"offsets": {
+				"from": 126960,
+				"to": 133080
+			},
+			"text": " Então é sempre importante, ó, se você der um barra context aqui, você vai ver aqui o quanto está sendo usado dos seus tokens, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,580",
+				"to": "00:02:16,740"
+			},
+			"offsets": {
+				"from": 133580,
+				"to": 136740
+			},
+			"text": " Então aqui, ó, só de mensagens, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,860",
+				"to": "00:02:18,760"
+			},
+			"offsets": {
+				"from": 136860,
+				"to": 138760
+			},
+			"text": " Olha o quanto que tá sendo gasto só de mensagens."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,520",
+				"to": "00:02:21,600"
+			},
+			"offsets": {
+				"from": 139520,
+				"to": 141600
+			},
+			"text": " 21.3%."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,600",
+				"to": "00:02:24,680"
+			},
+			"offsets": {
+				"from": 141600,
+				"to": 144680
+			},
+			"text": " Então, isso daqui é token que você tá gastando a mais."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,800",
+				"to": "00:02:30,460"
+			},
+			"offsets": {
+				"from": 144800,
+				"to": 150460
+			},
+			"text": " É sempre bom, de tempos em tempos, você entender que você já tá muito tempo ali naquele mesmo chat,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,780",
+				"to": "00:02:32,980"
+			},
+			"offsets": {
+				"from": 150780,
+				"to": 152980
+			},
+			"text": " você limpar, você ir pra novos chats, fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,980",
+				"to": "00:02:36,780"
+			},
+			"offsets": {
+				"from": 152980,
+				"to": 156780
+			},
+			"text": " Então aqui você pode dar um barra clear, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,960",
+				"to": "00:02:37,360"
+			},
+			"offsets": {
+				"from": 156960,
+				"to": 157360
+			},
+			"text": " Limpei."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,900",
+				"to": "00:02:42,980"
+			},
+			"offsets": {
+				"from": 157900,
+				"to": 162980
+			},
+			"text": " Então se eu der um barra context de novo, ó, aqui ó, o messages já foi pra 0,1."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,240",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 163240,
+				"to": 166000
+			},
+			"text": " Lembra que tava 20, acho que 23% aqui?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,440",
+				"to": "00:02:48,460"
+			},
+			"offsets": {
+				"from": 166440,
+				"to": 168460
+			},
+			"text": " Agora não, agora ele já tá 0,1."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,620",
+				"to": "00:02:53,620"
+			},
+			"offsets": {
+				"from": 168620,
+				"to": 173620
+			},
+			"text": " Ou seja, aumentou aqui o meu espaço, eu estou gastando menos token por não ter mensagens."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,040",
+				"to": "00:02:58,560"
+			},
+			"offsets": {
+				"from": 174040,
+				"to": 178560
+			},
+			"text": " Então é sempre bom você olhar aqui e ver o que que tá fazendo você gastar mais token, fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,560",
+				"to": "00:03:08,020"
+			},
+			"offsets": {
+				"from": 178560,
+				"to": 188020
+			},
+			"text": " Então agora que a gente limpou aqui, eu vou escrever o seguinte, vamos começar a criar os carrosséis da StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,380",
+				"to": "00:03:09,600"
+			},
+			"offsets": {
+				"from": 188380,
+				"to": 189600
+			},
+			"text": " Pronto, só vou escrever isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,740",
+				"to": "00:03:11,360"
+			},
+			"offsets": {
+				"from": 189740,
+				"to": 191360
+			},
+			"text": " Vamos começar a criar os carrosséis da StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,720",
+				"to": "00:03:20,300"
+			},
+			"offsets": {
+				"from": 191720,
+				"to": 200300
+			},
+			"text": " Aqui, você pode dar um barra carrossel, você pode dar um vamos criar os carrosséis, vamos começar a criar os carrosséis."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,420",
+				"to": "00:03:24,460"
+			},
+			"offsets": {
+				"from": 200420,
+				"to": 204460
+			},
+			"text": " Qualquer coisa você escrever, carrossel, ele já vai ativar a skill de carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,700",
+				"to": "00:03:26,020"
+			},
+			"offsets": {
+				"from": 204700,
+				"to": 206020
+			},
+			"text": " Que cafezinho gostoso, hein?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,220",
+				"to": "00:03:31,540"
+			},
+			"offsets": {
+				"from": 207220,
+				"to": 211540
+			},
+			"text": " Vou começar pelo carrossel institucional de apresentação da StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,760",
+				"to": "00:03:32,220"
+			},
+			"offsets": {
+				"from": 211760,
+				"to": 212220
+			},
+			"text": " Legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,780",
+				"to": "00:03:36,800"
+			},
+			"offsets": {
+				"from": 212780,
+				"to": 216800
+			},
+			"text": " Introduz a empresa pra quem nunca ouviu falar e funciona em LinkedIn mais Instagram."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,400",
+				"to": "00:03:41,320"
+			},
+			"offsets": {
+				"from": 217400,
+				"to": 221320
+			},
+			"text": " Carrossel texto puro, mais rápido pra entregar e zero dependência de geração de imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,440",
+				"to": "00:03:41,740"
+			},
+			"offsets": {
+				"from": 221440,
+				"to": 221740
+			},
+			"text": " Legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,100",
+				"to": "00:03:43,640"
+			},
+			"offsets": {
+				"from": 222100,
+				"to": 223640
+			},
+			"text": " Texto do carrossel, a proposta."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,440",
+				"to": "00:03:50,580"
+			},
+			"offsets": {
+				"from": 224440,
+				"to": 230580
+			},
+			"text": " Apresentação institucional, 25 anos, 3 linhas de produto, fabricação própria como diferencial, clientes âncora como prova."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,960",
+				"to": "00:03:52,900"
+			},
+			"offsets": {
+				"from": 230960,
+				"to": 232900
+			},
+			"text": " Slide, capa, 3 opções de título."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,300",
+				"to": "00:03:55,440"
+			},
+			"offsets": {
+				"from": 233300,
+				"to": 235440
+			},
+			"text": " 25 anos abastecendo empresas no Brasil."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,600",
+				"to": "00:03:56,020"
+			},
+			"offsets": {
+				"from": 235600,
+				"to": 236020
+			},
+			"text": " Legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,860",
+				"to": "00:04:00,740"
+			},
+			"offsets": {
+				"from": 236860,
+				"to": 240740
+			},
+			"text": " Fornecedor B2B, Santo André, papelaria, suprimentos e fábrica própria."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,180",
+				"to": "00:04:02,180"
+			},
+			"offsets": {
+				"from": 241180,
+				"to": 242180
+			},
+			"text": " Com o fornecedor só."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,260",
+				"to": "00:04:03,360"
+			},
+			"offsets": {
+				"from": 242260,
+				"to": 243360
+			},
+			"text": " Eu gostei mais do B."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,080",
+				"to": "00:04:05,740"
+			},
+			"offsets": {
+				"from": 244080,
+				"to": 245740
+			},
+			"text": " Então aqui você primeiro dá uma olhada."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,320",
+				"to": "00:04:08,180"
+			},
+			"offsets": {
+				"from": 246320,
+				"to": 248180
+			},
+			"text": " O básico que toda empresa precisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,360",
+				"to": "00:04:09,540"
+			},
+			"offsets": {
+				"from": 249360,
+				"to": 249540
+			},
+			"text": " Tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,680",
+				"to": "00:04:11,540"
+			},
+			"offsets": {
+				"from": 249680,
+				"to": 251540
+			},
+			"text": " Eu já vou ir falando aqui pra ele o seguinte."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,020",
+				"to": "00:04:15,400"
+			},
+			"offsets": {
+				"from": 252020,
+				"to": 255400
+			},
+			"text": " Gostei mais da opção B de capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,080",
+				"to": "00:04:18,920"
+			},
+			"offsets": {
+				"from": 256080,
+				"to": 258920
+			},
+			"text": " Eu gostei muito de abastece."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,420",
+				"to": "00:04:21,000"
+			},
+			"offsets": {
+				"from": 259420,
+				"to": 261000
+			},
+			"text": " Fica parecendo posto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,000",
+				"to": "00:04:24,840"
+			},
+			"offsets": {
+				"from": 261000,
+				"to": 264840
+			},
+			"text": " Tem que ter cara de papelaria B2B."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,380",
+				"to": "00:04:25,620"
+			},
+			"offsets": {
+				"from": 265380,
+				"to": 265620
+			},
+			"text": " Tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,860",
+				"to": "00:04:26,720"
+			},
+			"offsets": {
+				"from": 265860,
+				"to": 266720
+			},
+			"text": " Vou falar perfeito."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,660",
+				"to": "00:04:28,400"
+			},
+			"offsets": {
+				"from": 267660,
+				"to": 268400
+			},
+			"text": " Pode gerar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,940",
+				"to": "00:04:29,760"
+			},
+			"offsets": {
+				"from": 268940,
+				"to": 269760
+			},
+			"text": " Pode gerar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,920",
+				"to": "00:04:30,900"
+			},
+			"offsets": {
+				"from": 269920,
+				"to": 270900
+			},
+			"text": " Vamos ver como é que vai ficar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,540",
+				"to": "00:04:33,540"
+			},
+			"offsets": {
+				"from": 271540,
+				"to": 273540
+			},
+			"text": " Lembrando que a gente sempre tem que fazer alguns ajustes."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,600",
+				"to": "00:04:34,680"
+			},
+			"offsets": {
+				"from": 273600,
+				"to": 274680
+			},
+			"text": " Se eu quiser trocar a fonte."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,780",
+				"to": "00:04:35,840"
+			},
+			"offsets": {
+				"from": 274780,
+				"to": 275840
+			},
+			"text": " Se eu quiser fazer não sei o que."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,300",
+				"to": "00:04:38,500"
+			},
+			"offsets": {
+				"from": 276300,
+				"to": 278500
+			},
+			"text": " Lembrando que esse primeiro carrossel que ele tá gerando é só texto."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,680",
+				"to": "00:04:39,740"
+			},
+			"offsets": {
+				"from": 278680,
+				"to": 279740
+			},
+			"text": " A gente não vai usar imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,040",
+				"to": "00:04:43,200"
+			},
+			"offsets": {
+				"from": 280040,
+				"to": 283200
+			},
+			"text": " Depois eu vou pedir pra ele gerar outros com capa, com imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,540",
+				"to": "00:04:44,580"
+			},
+			"offsets": {
+				"from": 283540,
+				"to": 284580
+			},
+			"text": " É um processo, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,640",
+				"to": "00:04:45,580"
+			},
+			"offsets": {
+				"from": 284640,
+				"to": 285580
+			},
+			"text": " Pra deixar ele melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,940",
+				"to": "00:04:46,460"
+			},
+			"offsets": {
+				"from": 285940,
+				"to": 286460
+			},
+			"text": " E lembre-se."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,640",
+				"to": "00:04:49,940"
+			},
+			"offsets": {
+				"from": 286640,
+				"to": 289940
+			},
+			"text": " Cada carrossel que ele gera, ele melhora o design."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,120",
+				"to": "00:04:51,520"
+			},
+			"offsets": {
+				"from": 290120,
+				"to": 291520
+			},
+			"text": " Ele vai entendendo o que você quer."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,860",
+				"to": "00:04:54,240"
+			},
+			"offsets": {
+				"from": 291860,
+				"to": 294240
+			},
+			"text": " E depois ele vai só acertando um atrás do outro."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,240",
+				"to": "00:05:02,060"
+			},
+			"offsets": {
+				"from": 294240,
+				"to": 302060
+			},
+			"text": " Outra coisa que é bom frisar é que a maioria das empresas que eu pego, eu não fico gerando carrossel pro cara infinito."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,520",
+				"to": "00:05:04,120"
+			},
+			"offsets": {
+				"from": 302520,
+				"to": 304120
+			},
+			"text": " Ainda mais se for empresa B2B assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,400",
+				"to": "00:05:07,300"
+			},
+			"offsets": {
+				"from": 304400,
+				"to": 307300
+			},
+			"text": " Ela não precisa ficar postando todo dia carrosselzinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,700",
+				"to": "00:05:09,160"
+			},
+			"offsets": {
+				"from": 307700,
+				"to": 309160
+			},
+			"text": " Ela precisa de uma estrutura fixa."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,440",
+				"to": "00:05:15,380"
+			},
+			"offsets": {
+				"from": 309440,
+				"to": 315380
+			},
+			"text": " Ela precisa que o cliente entre no LinkedIn e tenha posts perfeitos, direcionados pra aquela pessoa."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,720",
+				"to": "00:05:16,380"
+			},
+			"offsets": {
+				"from": 315720,
+				"to": 316380
+			},
+			"text": " Pra aquela empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,960",
+				"to": "00:05:23,260"
+			},
+			"offsets": {
+				"from": 316960,
+				"to": 323260
+			},
+			"text": " Ela precisa que dentro do Google Meu Negócio tenha o Instagram, tenha a página no Facebook, tenha o LinkedIn."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,660",
+				"to": "00:05:27,740"
+			},
+			"offsets": {
+				"from": 323660,
+				"to": 327740
+			},
+			"text": " Onde quando o cara entre nessas redes sociais, tenha posts bonitinhos."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,000",
+				"to": "00:05:29,400"
+			},
+			"offsets": {
+				"from": 328000,
+				"to": 329400
+			},
+			"text": " Que faça sentido pra aquela empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,580",
+				"to": "00:05:32,240"
+			},
+			"offsets": {
+				"from": 329580,
+				"to": 332240
+			},
+			"text": " Às vezes não vai ser de ficar postando quantidade."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,660",
+				"to": "00:05:37,260"
+			},
+			"offsets": {
+				"from": 332660,
+				"to": 337260
+			},
+			"text": " É posts direcionados, específicos, pra estrutura em si."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,640",
+				"to": "00:05:38,500"
+			},
+			"offsets": {
+				"from": 337640,
+				"to": 338500
+			},
+			"text": " Não sei se deu pra você entender."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,880",
+				"to": "00:05:39,880"
+			},
+			"offsets": {
+				"from": 338880,
+				"to": 339880
+			},
+			"text": " Então vamos deixar ele criando."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,180",
+				"to": "00:05:41,060"
+			},
+			"offsets": {
+				"from": 340180,
+				"to": 341060
+			},
+			"text": " Aqui do lado, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,220",
+				"to": "00:05:42,880"
+			},
+			"offsets": {
+				"from": 341220,
+				"to": 342880
+			},
+			"text": " A gente já pode fechar aqui o site."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,020",
+				"to": "00:05:46,100"
+			},
+			"offsets": {
+				"from": 343020,
+				"to": 346100
+			},
+			"text": " E assim, eu tô criando tudo isso antes de ter feito a calca cliente, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,220",
+				"to": "00:05:47,620"
+			},
+			"offsets": {
+				"from": 346220,
+				"to": 347620
+			},
+			"text": " Então eu não sei se ela vai gostar da logo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,680",
+				"to": "00:05:49,020"
+			},
+			"offsets": {
+				"from": 347680,
+				"to": 349020
+			},
+			"text": " Eu não sei se ela vai gostar dessa estrela."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,620",
+				"to": "00:05:51,300"
+			},
+			"offsets": {
+				"from": 349620,
+				"to": 351300
+			},
+			"text": " Às vezes ela vai querer usar a logo antiga."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,520",
+				"to": "00:05:54,660"
+			},
+			"offsets": {
+				"from": 351520,
+				"to": 354660
+			},
+			"text": " Então é coisas que você vai sentindo ali, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,660",
+				"to": "00:05:56,620"
+			},
+			"offsets": {
+				"from": 354660,
+				"to": 356620
+			},
+			"text": " Então aqui ele já tá criando a pasta do carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,000",
+				"to": "00:05:57,920"
+			},
+			"offsets": {
+				"from": 357000,
+				"to": 357920
+			},
+			"text": " Com sete slides."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,300",
+				"to": "00:05:59,200"
+			},
+			"offsets": {
+				"from": 358300,
+				"to": 359200
+			},
+			"text": " Então aqui vamos ver, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,600",
+				"to": "00:06:01,120"
+			},
+			"offsets": {
+				"from": 359600,
+				"to": 361120
+			},
+			"text": " Marketing, conteúdo."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,420",
+				"to": "00:06:02,500"
+			},
+			"offsets": {
+				"from": 361420,
+				"to": 362500
+			},
+			"text": " Aqui ele já criou, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,400",
+				"to": "00:06:04,800"
+			},
+			"offsets": {
+				"from": 363400,
+				"to": 364800
+			},
+			"text": " Legenda, carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,680",
+				"to": "00:06:07,200"
+			},
+			"offsets": {
+				"from": 365680,
+				"to": 367200
+			},
+			"text": " Se eu clicar aqui em Instagram, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,360",
+				"to": "00:06:07,600"
+			},
+			"offsets": {
+				"from": 367360,
+				"to": 367600
+			},
+			"text": " Ah lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,840",
+				"to": "00:06:09,020"
+			},
+			"offsets": {
+				"from": 367840,
+				"to": 369020
+			},
+			"text": " Ah lá, o bicho saindo."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,880",
+				"to": "00:06:12,460"
+			},
+			"offsets": {
+				"from": 370880,
+				"to": 372460
+			},
+			"text": " 25 anos de mercado, StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,560",
+				"to": "00:06:12,820"
+			},
+			"offsets": {
+				"from": 372560,
+				"to": 372820
+			},
+			"text": " Nossa."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,240",
+				"to": "00:06:15,760"
+			},
+			"offsets": {
+				"from": 373240,
+				"to": 375760
+			},
+			"text": " Gostei desse quadriculadinho atrás."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,760",
+				"to": "00:06:20,580"
+			},
+			"offsets": {
+				"from": 377760,
+				"to": 380580
+			},
+			"text": " Empresas que não aceitam atraso confiam na StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,580",
+				"to": "00:06:21,540"
+			},
+			"offsets": {
+				"from": 380580,
+				"to": 381540
+			},
+			"text": " Inclusive a Fiat."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,780",
+				"to": "00:06:22,900"
+			},
+			"offsets": {
+				"from": 381780,
+				"to": 382900
+			},
+			"text": " Nossa, ele meteu essa."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,060",
+				"to": "00:06:24,620"
+			},
+			"offsets": {
+				"from": 384060,
+				"to": 384620
+			},
+			"text": " StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,620",
+				"to": "00:06:27,280"
+			},
+			"offsets": {
+				"from": 385620,
+				"to": 387280
+			},
+			"text": " Sua empresa, um fornecedor só."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,480",
+				"to": "00:06:28,340"
+			},
+			"offsets": {
+				"from": 387480,
+				"to": 388340
+			},
+			"text": " Peça sua cotação."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,600",
+				"to": "00:06:29,020"
+			},
+			"offsets": {
+				"from": 388600,
+				"to": 389020
+			},
+			"text": " Nossa."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,660",
+				"to": "00:06:31,300"
+			},
+			"offsets": {
+				"from": 390660,
+				"to": 391300
+			},
+			"text": " Gostei, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,320",
+				"to": "00:06:33,060"
+			},
+			"offsets": {
+				"from": 392320,
+				"to": 393060
+			},
+			"text": " Pro primeiro."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,860",
+				"to": "00:06:34,200"
+			},
+			"offsets": {
+				"from": 393860,
+				"to": 394200
+			},
+			"text": " Vamos lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,360",
+				"to": "00:06:36,000"
+			},
+			"offsets": {
+				"from": 394360,
+				"to": 396000
+			},
+			"text": " Vamos já começar a fazer uns ajustes aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,180",
+				"to": "00:06:36,620"
+			},
+			"offsets": {
+				"from": 396180,
+				"to": 396620
+			},
+			"text": " Mas, cara."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,040",
+				"to": "00:06:38,880"
+			},
+			"offsets": {
+				"from": 397040,
+				"to": 398880
+			},
+			"text": " Pelo primeiro, já gostei muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,380",
+				"to": "00:06:40,060"
+			},
+			"offsets": {
+				"from": 399380,
+				"to": 400060
+			},
+			"text": " Gostei muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,700",
+				"to": "00:06:42,920"
+			},
+			"offsets": {
+				"from": 400700,
+				"to": 402920
+			},
+			"text": " Vamos só fazer alguns ajustes."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,360",
+				"to": "00:06:49,620"
+			},
+			"offsets": {
+				"from": 403360,
+				"to": 409620
+			},
+			"text": " Mova as estrelinhas do canto superior direito."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,180",
+				"to": "00:06:54,680"
+			},
+			"offsets": {
+				"from": 410180,
+				"to": 414680
+			},
+			"text": " Eu sempre gosto de, quando eu tô criando o carrossel, eu escrevo assim, tipo, slide 1 pra ele entender, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,380",
+				"to": "00:06:57,040"
+			},
+			"offsets": {
+				"from": 415380,
+				"to": 417040
+			},
+			"text": " Depois, slide 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,540",
+				"to": "00:06:58,420"
+			},
+			"offsets": {
+				"from": 417540,
+				"to": 418420
+			},
+			"text": " Vamos ver o slide 2."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,640",
+				"to": "00:07:02,080"
+			},
+			"offsets": {
+				"from": 418640,
+				"to": 422080
+			},
+			"text": " Por isso que é bom você usar o VS Code aqui, ou qualquer outra IDE, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,240",
+				"to": "00:07:12,820"
+			},
+			"offsets": {
+				"from": 422240,
+				"to": 432820
+			},
+			"text": " Porque aqui você vai se locomovendo 25 anos de mercado, atendendo empresas brasileiras desde 2001, em 3 linhas que poucos fornecedores conseguem entregar juntos."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,920",
+				"to": "00:07:13,320"
+			},
+			"offsets": {
+				"from": 432920,
+				"to": 433320
+			},
+			"text": " Gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,540",
+				"to": "00:07:14,220"
+			},
+			"offsets": {
+				"from": 433540,
+				"to": 434220
+			},
+			"text": " Gostei do layout."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,340",
+				"to": "00:07:15,580"
+			},
+			"offsets": {
+				"from": 434340,
+				"to": 435580
+			},
+			"text": " Não vou mudar nada nesse daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,420",
+				"to": "00:07:17,040"
+			},
+			"offsets": {
+				"from": 436420,
+				"to": 437040
+			},
+			"text": " Não vou mudar nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:17,320",
+				"to": "00:07:17,760"
+			},
+			"offsets": {
+				"from": 437320,
+				"to": 437760
+			},
+			"text": " Muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,380",
+				"to": "00:07:20,220"
+			},
+			"offsets": {
+				"from": 438380,
+				"to": 440220
+			},
+			"text": " Linha 1, papelaria e material de escritório."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,320",
+				"to": "00:07:22,060"
+			},
+			"offsets": {
+				"from": 440320,
+				"to": 442060
+			},
+			"text": " Tô pensando em subir isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,420",
+				"to": "00:07:30,860"
+			},
+			"offsets": {
+				"from": 442420,
+				"to": 450860
+			},
+			"text": " Remova as estrelinhas e suba um pouco o texto principal deste como o slide 3."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,580",
+				"to": "00:07:33,720"
+			},
+			"offsets": {
+				"from": 451580,
+				"to": 453720
+			},
+			"text": " Slide 2 tá perfeito."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,940",
+				"to": "00:07:38,020"
+			},
+			"offsets": {
+				"from": 453940,
+				"to": 458020
+			},
+			"text": " Slide 3, o básico que toda empresa precisa, com cotação rápida."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,020",
+				"to": "00:07:43,840"
+			},
+			"offsets": {
+				"from": 458020,
+				"to": 463840
+			},
+			"text": " Eu vou deixar aqui embaixo assim, é, aumente o arroba StarCard Brasil."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,160",
+				"to": "00:07:46,280"
+			},
+			"offsets": {
+				"from": 464160,
+				"to": 466280
+			},
+			"text": " Aumente o tamanho."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,380",
+				"to": "00:07:48,900"
+			},
+			"offsets": {
+				"from": 467380,
+				"to": 468900
+			},
+			"text": " Tá, por ora eu vou deixar assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,640",
+				"to": "00:07:53,460"
+			},
+			"offsets": {
+				"from": 469640,
+				"to": 473460
+			},
+			"text": " Slide 4, suprimentos de informática e impressão."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,660",
+				"to": "00:07:55,840"
+			},
+			"offsets": {
+				"from": 473660,
+				"to": 475840
+			},
+			"text": " Tôners, cartuchos, papéis pra plotter."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,380",
+				"to": "00:07:59,980"
+			},
+			"offsets": {
+				"from": 476380,
+				"to": 479980
+			},
+			"text": " Já vou falar assim, tire também esses traços."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,260",
+				"to": "00:08:01,660"
+			},
+			"offsets": {
+				"from": 480260,
+				"to": 481660
+			},
+			"text": " Todos os slides."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,000",
+				"to": "00:08:03,500"
+			},
+			"offsets": {
+				"from": 482000,
+				"to": 483500
+			},
+			"text": " Não gosto desse extravessão aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,700",
+				"to": "00:08:05,020"
+			},
+			"offsets": {
+				"from": 483700,
+				"to": 485020
+			},
+			"text": " Esse extravessão é muito cara de A."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,200",
+				"to": "00:08:06,960"
+			},
+			"offsets": {
+				"from": 485200,
+				"to": 486960
+			},
+			"text": " Fabricação própria de personalizados."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,960",
+				"to": "00:08:09,180"
+			},
+			"offsets": {
+				"from": 486960,
+				"to": 489180
+			},
+			"text": " Esse slide 6 aqui eu não gostei, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,500",
+				"to": "00:08:12,700"
+			},
+			"offsets": {
+				"from": 489500,
+				"to": 492700
+			},
+			"text": " É, vou falar assim, o slide 6 pode remover."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,180",
+				"to": "00:08:14,880"
+			},
+			"offsets": {
+				"from": 493180,
+				"to": 494880
+			},
+			"text": " E o 7 está arcado Brasil."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,620",
+				"to": "00:08:20,980"
+			},
+			"offsets": {
+				"from": 495620,
+				"to": 500980
+			},
+			"text": " Slide 7, o e-mail está longe da escrita e-mail."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,180",
+				"to": "00:08:22,160"
+			},
+			"offsets": {
+				"from": 501180,
+				"to": 502160
+			},
+			"text": " Vamos ver se ele vai entender assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,700",
+				"to": "00:08:24,820"
+			},
+			"offsets": {
+				"from": 502700,
+				"to": 504820
+			},
+			"text": " Você pode mandar um print também, né, e tal."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,420",
+				"to": "00:08:26,820"
+			},
+			"offsets": {
+				"from": 505420,
+				"to": 506820
+			},
+			"text": " Ficou bem bonitinho, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,060",
+				"to": "00:08:29,180"
+			},
+			"offsets": {
+				"from": 507060,
+				"to": 509180
+			},
+			"text": " Será que eu tiro esse slidesão vermelho aqui?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:29,700",
+				"to": "00:08:30,780"
+			},
+			"offsets": {
+				"from": 509700,
+				"to": 510780
+			},
+			"text": " Tá, eu vou dar um enter."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,960",
+				"to": "00:08:31,840"
+			},
+			"offsets": {
+				"from": 510960,
+				"to": 511840
+			},
+			"text": " Vamos ver como é que fica."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,280",
+				"to": "00:08:37,780"
+			},
+			"offsets": {
+				"from": 512280,
+				"to": 517780
+			},
+			"text": " O legal é que nessa skill de carrossel, ele já gera aqui, ó, se você olhar, ó, legenda.md, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:38,320",
+				"to": "00:08:41,600"
+			},
+			"offsets": {
+				"from": 518320,
+				"to": 521600
+			},
+			"text": " Então aqui você aperta Ctrl Shift V, você já vê a legendinha que ele criou."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:42,120",
+				"to": "00:08:43,220"
+			},
+			"offsets": {
+				"from": 522120,
+				"to": 523220
+			},
+			"text": " Quem é a StarCard?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,660",
+				"to": "00:08:46,400"
+			},
+			"offsets": {
+				"from": 523660,
+				"to": 526400
+			},
+			"text": " Então aqui já tem a legenda pra Instagram mais Facebook."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,540",
+				"to": "00:08:51,240"
+			},
+			"offsets": {
+				"from": 526540,
+				"to": 531240
+			},
+			"text": " Se uma empresa compra a papelaria de um fornecedor, toner de outro e mochila personalizada de um terceiro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,620",
+				"to": "00:08:54,100"
+			},
+			"offsets": {
+				"from": 531620,
+				"to": 534100
+			},
+			"text": " a StarCard resolve as três frentes em um lugar só."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,500",
+				"to": "00:08:58,000"
+			},
+			"offsets": {
+				"from": 534500,
+				"to": 538000
+			},
+			"text": " Então aqui você só vem, copia, pum, posta no Instagram."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,320",
+				"to": "00:09:00,480"
+			},
+			"offsets": {
+				"from": 538320,
+				"to": 540480
+			},
+			"text": " E futuramente eu vou mostrar como que você deixa automático, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:00,840",
+				"to": "00:09:06,700"
+			},
+			"offsets": {
+				"from": 540840,
+				"to": 546700
+			},
+			"text": " Onde ele vai gerar o carrossel, você vai aprovar, ele vai postar no Instagram, no Facebook e até LinkedIn"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:06,700",
+				"to": "00:09:10,060"
+			},
+			"offsets": {
+				"from": 546700,
+				"to": 550060
+			},
+			"text": " e ele já pega essa legenda e já bota automático ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,580",
+				"to": "00:09:11,220"
+			},
+			"offsets": {
+				"from": 550580,
+				"to": 551220
+			},
+			"text": " Calma, meus amigos."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:11,660",
+				"to": "00:09:14,680"
+			},
+			"offsets": {
+				"from": 551660,
+				"to": 554680
+			},
+			"text": " Aqui é só o começo, é só o gostinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,860",
+				"to": "00:09:16,040"
+			},
+			"offsets": {
+				"from": 554860,
+				"to": 556040
+			},
+			"text": " Vocês vão ver a mágica ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:16,120",
+				"to": "00:09:19,180"
+			},
+			"offsets": {
+				"from": 556120,
+				"to": 559180
+			},
+			"text": " Isso daqui é a raspa da bala."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:19,560",
+				"to": "00:09:21,800"
+			},
+			"offsets": {
+				"from": 559560,
+				"to": 561800
+			},
+			"text": " Tá, então ele fez os ajustes, vamos dar uma olhada aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,460",
+				"to": "00:09:24,100"
+			},
+			"offsets": {
+				"from": 562460,
+				"to": 564100
+			},
+			"text": " Ele subiu, né? Eu pedi pra ele subir."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:24,280",
+				"to": "00:09:27,880"
+			},
+			"offsets": {
+				"from": 564280,
+				"to": 567880
+			},
+			"text": " Ficou melhor do que sua empresa precisa, com um fornecedor só."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:28,460",
+				"to": "00:09:28,820"
+			},
+			"offsets": {
+				"from": 568460,
+				"to": 568820
+			},
+			"text": " Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:30,320",
+				"to": "00:09:33,000"
+			},
+			"offsets": {
+				"from": 570320,
+				"to": 573000
+			},
+			"text": " Eu acho que eu vou tirar esse slide vermelho."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:33,400",
+				"to": "00:09:41,020"
+			},
+			"offsets": {
+				"from": 573400,
+				"to": 581020
+			},
+			"text": " O slide 5, vamos deixar ele no estilo preto, sem esse fundo vermelho."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:41,460",
+				"to": "00:09:44,120"
+			},
+			"offsets": {
+				"from": 581460,
+				"to": 584120
+			},
+			"text": " Achei muito forte."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,120",
+				"to": "00:09:47,240"
+			},
+			"offsets": {
+				"from": 584120,
+				"to": 587240
+			},
+			"text": " Tá, ele arrancou o slide quero 6, ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,900",
+				"to": "00:09:49,260"
+			},
+			"offsets": {
+				"from": 587900,
+				"to": 589260
+			},
+			"text": " Quer mais alguns ajustes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:50,040",
+				"to": "00:09:52,220"
+			},
+			"offsets": {
+				"from": 590040,
+				"to": 592220
+			},
+			"text": " E daí podemos ir para o próximo."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:52,460",
+				"to": "00:09:53,500"
+			},
+			"offsets": {
+				"from": 592460,
+				"to": 593500
+			},
+			"text": " Tá conseguindo acompanhar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,900",
+				"to": "00:09:58,140"
+			},
+			"offsets": {
+				"from": 593900,
+				"to": 598140
+			},
+			"text": " Você entendeu que eu só escrevi, vamos começar a criar os carrosséis da StarCard?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:58,340",
+				"to": "00:09:59,100"
+			},
+			"offsets": {
+				"from": 598340,
+				"to": 599100
+			},
+			"text": " Eu não escrevi mais nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,200",
+				"to": "00:09:59,520"
+			},
+			"offsets": {
+				"from": 599200,
+				"to": 599520
+			},
+			"text": " Olha aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,840",
+				"to": "00:10:01,440"
+			},
+			"offsets": {
+				"from": 599840,
+				"to": 601440
+			},
+			"text": " Vamos começar a criar os carrosséis da StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:01,580",
+				"to": "00:10:04,100"
+			},
+			"offsets": {
+				"from": 601580,
+				"to": 604100
+			},
+			"text": " Ele já veio, ele ativou a skill de carrossel, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:04,320",
+				"to": "00:10:07,200"
+			},
+			"offsets": {
+				"from": 604320,
+				"to": 607200
+			},
+			"text": " Ele já criou a pasta carrossel, quem é StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:07,620",
+				"to": "00:10:08,240"
+			},
+			"offsets": {
+				"from": 607620,
+				"to": 608240
+			},
+			"text": " Ele disse, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:08,240",
+				"to": "00:10:11,540"
+			},
+			"offsets": {
+				"from": 608240,
+				"to": 611540
+			},
+			"text": " Vamos começar pelo carrossel inaugural, que é um institucional."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:11,540",
+				"to": "00:10:13,620"
+			},
+			"offsets": {
+				"from": 611540,
+				"to": 613620
+			},
+			"text": " Ele já criou aqui, o set slides."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:14,080",
+				"to": "00:10:15,960"
+			},
+			"offsets": {
+				"from": 614080,
+				"to": 615960
+			},
+			"text": " Então, capa, número e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:16,280",
+				"to": "00:10:17,920"
+			},
+			"offsets": {
+				"from": 616280,
+				"to": 617920
+			},
+			"text": " Aqui ele me deu as opções, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:17,920",
+				"to": "00:10:18,640"
+			},
+			"offsets": {
+				"from": 617920,
+				"to": 618640
+			},
+			"text": " De capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:18,780",
+				"to": "00:10:20,120"
+			},
+			"offsets": {
+				"from": 618780,
+				"to": 620120
+			},
+			"text": " Todos os slides, ele criou tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:20,440",
+				"to": "00:10:21,640"
+			},
+			"offsets": {
+				"from": 620440,
+				"to": 621640
+			},
+			"text": " Até aqui eu só tinha escrito isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:21,720",
+				"to": "00:10:23,040"
+			},
+			"offsets": {
+				"from": 621720,
+				"to": 623040
+			},
+			"text": " Vamos começar a criar os carrosséis."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,420",
+				"to": "00:10:24,000"
+			},
+			"offsets": {
+				"from": 623420,
+				"to": 624000
+			},
+			"text": " Ele foi criando."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:24,120",
+				"to": "00:10:25,400"
+			},
+			"offsets": {
+				"from": 624120,
+				"to": 625400
+			},
+			"text": " Depois eu falei, gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,540",
+				"to": "00:10:27,200"
+			},
+			"offsets": {
+				"from": 625540,
+				"to": 627200
+			},
+			"text": " Aí eu falei a opção da capa que eu queria."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:27,500",
+				"to": "00:10:28,140"
+			},
+			"offsets": {
+				"from": 627500,
+				"to": 628140
+			},
+			"text": " Só escrevi isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:28,560",
+				"to": "00:10:28,940"
+			},
+			"offsets": {
+				"from": 628560,
+				"to": 628940
+			},
+			"text": " Aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,340",
+				"to": "00:10:30,080"
+			},
+			"offsets": {
+				"from": 629340,
+				"to": 630080
+			},
+			"text": " Ele gerou tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:30,700",
+				"to": "00:10:32,260"
+			},
+			"offsets": {
+				"from": 630700,
+				"to": 632260
+			},
+			"text": " Aí depois eu falei os ajustes."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:32,400",
+				"to": "00:10:36,540"
+			},
+			"offsets": {
+				"from": 632400,
+				"to": 636540
+			},
+			"text": " E agora, mais esse prompt aqui, pra deixar preto, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,120",
+				"to": "00:10:37,560"
+			},
+			"offsets": {
+				"from": 637120,
+				"to": 637560
+			},
+			"text": " Aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,720",
+				"to": "00:10:40,760"
+			},
+			"offsets": {
+				"from": 637720,
+				"to": 640760
+			},
+			"text": " Porque aquele vermelho, eu acho que ficou muito..."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:40,760",
+				"to": "00:10:43,320"
+			},
+			"offsets": {
+				"from": 640760,
+				"to": 643320
+			},
+			"text": " Eu gostei mais desse estilo preto e branco, assim, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:44,240",
+				"to": "00:10:45,360"
+			},
+			"offsets": {
+				"from": 644240,
+				"to": 645360
+			},
+			"text": " Acho que faz mais sentido."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:45,860",
+				"to": "00:10:47,820"
+			},
+			"offsets": {
+				"from": 645860,
+				"to": 647820
+			},
+			"text": " Não, a dona vai ficar louca, véi."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:47,820",
+				"to": "00:10:48,580"
+			},
+			"offsets": {
+				"from": 647820,
+				"to": 648580
+			},
+			"text": " Vocês vão ver a cal."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:48,740",
+				"to": "00:10:50,020"
+			},
+			"offsets": {
+				"from": 648740,
+				"to": 650020
+			},
+			"text": " Eu vou gravar a cal pra vocês verem."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:50,240",
+				"to": "00:10:51,580"
+			},
+			"offsets": {
+				"from": 650240,
+				"to": 651580
+			},
+			"text": " Tenho certeza que ela vai ficar louca, véi."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,640",
+				"to": "00:10:53,200"
+			},
+			"offsets": {
+				"from": 651640,
+				"to": 653200
+			},
+			"text": " Esse daqui, quem que entrega esse trabalho?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:53,860",
+				"to": "00:10:58,540"
+			},
+			"offsets": {
+				"from": 653860,
+				"to": 658540
+			},
+			"text": " Que agência que você vai chamar, vai marcar uma cal, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:58,540",
+				"to": "00:11:02,740"
+			},
+			"offsets": {
+				"from": 658540,
+				"to": 662740
+			},
+			"text": " E você já vai chegar na cal, sem ter falado o contexto da sua empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,100",
+				"to": "00:11:04,060"
+			},
+			"offsets": {
+				"from": 663100,
+				"to": 664060
+			},
+			"text": " Sem ter falado nada."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,640",
+				"to": "00:11:06,200"
+			},
+			"offsets": {
+				"from": 664640,
+				"to": 666200
+			},
+			"text": " E o cara já vai chegar na cal com isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:06,880",
+				"to": "00:11:09,220"
+			},
+			"offsets": {
+				"from": 666880,
+				"to": 669220
+			},
+			"text": " Ele vai chegar com posts pro seu Instagram, pro seu Facebook."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,580",
+				"to": "00:11:11,480"
+			},
+			"offsets": {
+				"from": 669580,
+				"to": 671480
+			},
+			"text": " Já vai falar que você precisa de um Google Meu Negócio."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,800",
+				"to": "00:11:13,280"
+			},
+			"offsets": {
+				"from": 671800,
+				"to": 673280
+			},
+			"text": " Já vai falar que você precisa de um LinkedIn."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:13,820",
+				"to": "00:11:16,020"
+			},
+			"offsets": {
+				"from": 673820,
+				"to": 676020
+			},
+			"text": " Já vai ter que recriar do seu site."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,920",
+				"to": "00:11:17,680"
+			},
+			"offsets": {
+				"from": 676920,
+				"to": 677680
+			},
+			"text": " Quem que faz isso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:18,360",
+				"to": "00:11:19,180"
+			},
+			"offsets": {
+				"from": 678360,
+				"to": 679180
+			},
+			"text": " Próximo carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,320",
+				"to": "00:11:21,200"
+			},
+			"offsets": {
+				"from": 679320,
+				"to": 681200
+			},
+			"text": " Flight 5 Escuro ficou muito mais sóbrio."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:21,760",
+				"to": "00:11:26,160"
+			},
+			"offsets": {
+				"from": 681760,
+				"to": 686160
+			},
+			"text": " Então, ele também concordou que o vermelhão não fazia muito sentido, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,160",
+				"to": "00:11:28,080"
+			},
+			"offsets": {
+				"from": 686160,
+				"to": 688080
+			},
+			"text": " Assim ficou uma coisa mais séria."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:28,280",
+				"to": "00:11:29,420"
+			},
+			"offsets": {
+				"from": 688280,
+				"to": 689420
+			},
+			"text": " Aí, ele já dá a recomendação."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,640",
+				"to": "00:11:31,700"
+			},
+			"offsets": {
+				"from": 689640,
+				"to": 691700
+			},
+			"text": " Minha recomendação é A, que é o diferencial dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:31,840",
+				"to": "00:11:32,440"
+			},
+			"offsets": {
+				"from": 691840,
+				"to": 692440
+			},
+			"text": " Então, já vou falar."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:33,120",
+				"to": "00:11:35,240"
+			},
+			"offsets": {
+				"from": 693120,
+				"to": 695240
+			},
+			"text": " Pode seguir sua recomendação."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:35,500",
+				"to": "00:11:36,260"
+			},
+			"offsets": {
+				"from": 695500,
+				"to": 696260
+			},
+			"text": " Aqui, eu poderia falar."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,360",
+				"to": "00:11:37,260"
+			},
+			"offsets": {
+				"from": 696360,
+				"to": 697260
+			},
+			"text": " Pode seguir sua recomendação."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:37,380",
+				"to": "00:11:38,280"
+			},
+			"offsets": {
+				"from": 697380,
+				"to": 698280
+			},
+			"text": " Eu poderia falar OK."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,480",
+				"to": "00:11:39,360"
+			},
+			"offsets": {
+				"from": 698480,
+				"to": 699360
+			},
+			"text": " Eu poderia falar SIM."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,620",
+				"to": "00:11:42,100"
+			},
+			"offsets": {
+				"from": 699620,
+				"to": 702100
+			},
+			"text": " Qualquer coisa que eu escrevesse, ele já ia seguir a recomendação."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:42,680",
+				"to": "00:11:43,720"
+			},
+			"offsets": {
+				"from": 702680,
+				"to": 703720
+			},
+			"text": " É muito simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:43,860",
+				"to": "00:11:44,560"
+			},
+			"offsets": {
+				"from": 703860,
+				"to": 704560
+			},
+			"text": " É muito simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:44,980",
+				"to": "00:11:45,600"
+			},
+			"offsets": {
+				"from": 704980,
+				"to": 705600
+			},
+			"text": " Capa clara."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,680",
+				"to": "00:11:46,620"
+			},
+			"offsets": {
+				"from": 705680,
+				"to": 706620
+			},
+			"text": " A última foi escura."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:46,880",
+				"to": "00:11:48,780"
+			},
+			"offsets": {
+				"from": 706880,
+				"to": 708780
+			},
+			"text": " Então, o legal é que ele vai entendendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:49,100",
+				"to": "00:11:51,180"
+			},
+			"offsets": {
+				"from": 709100,
+				"to": 711180
+			},
+			"text": " Pô, esse daqui começou com capa clara."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:52,020",
+				"to": "00:11:53,180"
+			},
+			"offsets": {
+				"from": 712020,
+				"to": 713180
+			},
+			"text": " Ou capa escura."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,280",
+				"to": "00:11:54,240"
+			},
+			"offsets": {
+				"from": 713280,
+				"to": 714240
+			},
+			"text": " Ele vai intercalando."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:55,600",
+				"to": "00:11:56,760"
+			},
+			"offsets": {
+				"from": 715600,
+				"to": 716760
+			},
+			"text": " Texto do carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:56,860",
+				"to": "00:11:57,360"
+			},
+			"offsets": {
+				"from": 716860,
+				"to": 717360
+			},
+			"text": " Slide 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:57,600",
+				"to": "00:11:57,960"
+			},
+			"offsets": {
+				"from": 717600,
+				"to": 717960
+			},
+			"text": " Capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:58,960",
+				"to": "00:11:59,360"
+			},
+			"offsets": {
+				"from": 718960,
+				"to": 719360
+			},
+			"text": " Tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,740",
+				"to": "00:12:00,700"
+			},
+			"offsets": {
+				"from": 719740,
+				"to": 720700
+			},
+			"text": " Eu nem vou ler o resto."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:00,920",
+				"to": "00:12:01,640"
+			},
+			"offsets": {
+				"from": 720920,
+				"to": 721640
+			},
+			"text": " Então, aqui ele deu."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:01,880",
+				"to": "00:12:02,660"
+			},
+			"offsets": {
+				"from": 721880,
+				"to": 722660
+			},
+			"text": " Sugestão é o B."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:02,860",
+				"to": "00:12:03,860"
+			},
+			"offsets": {
+				"from": 722860,
+				"to": 723860
+			},
+			"text": " Sem intermediário."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:04,020",
+				"to": "00:12:08,440"
+			},
+			"offsets": {
+				"from": 724020,
+				"to": 728440
+			},
+			"text": " Bate forte em comprador corporativo que conhece a dor de cadeia de fornecedor longa."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:09,080",
+				"to": "00:12:09,560"
+			},
+			"offsets": {
+				"from": 729080,
+				"to": 729560
+			},
+			"text": " Pode seguir."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,020",
+				"to": "00:12:10,340"
+			},
+			"offsets": {
+				"from": 730020,
+				"to": 730340
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,680",
+				"to": "00:12:11,720"
+			},
+			"offsets": {
+				"from": 730680,
+				"to": 731720
+			},
+			"text": " Preciso nem falar muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,720",
+				"to": "00:12:12,560"
+			},
+			"offsets": {
+				"from": 731720,
+				"to": 732560
+			},
+			"text": " Pode seguir, meu amigo."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:12,640",
+				"to": "00:12:13,180"
+			},
+			"offsets": {
+				"from": 732640,
+				"to": 733180
+			},
+			"text": " Pode fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:13,440",
+				"to": "00:12:13,980"
+			},
+			"offsets": {
+				"from": 733440,
+				"to": 733980
+			},
+			"text": " Pode fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:14,440",
+				"to": "00:12:16,320"
+			},
+			"offsets": {
+				"from": 734440,
+				"to": 736320
+			},
+			"text": " E aqui, eu tô indo devagar, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,320",
+				"to": "00:12:17,340"
+			},
+			"offsets": {
+				"from": 736320,
+				"to": 737340
+			},
+			"text": " Pra você ir pegando."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:17,540",
+				"to": "00:12:19,180"
+			},
+			"offsets": {
+				"from": 737540,
+				"to": 739180
+			},
+			"text": " Tem pessoas que já estão mais avançadas."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:19,280",
+				"to": "00:12:20,960"
+			},
+			"offsets": {
+				"from": 739280,
+				"to": 740960
+			},
+			"text": " Tem pessoas que estão ainda entendendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:21,220",
+				"to": "00:12:24,320"
+			},
+			"offsets": {
+				"from": 741220,
+				"to": 744320
+			},
+			"text": " Mas eu, quando eu tô na bala, na pegada mesmo, eu já clico aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:24,720",
+				"to": "00:12:28,020"
+			},
+			"offsets": {
+				"from": 744720,
+				"to": 748020
+			},
+			"text": " Eu já abro outro chat e aqui eu já vou gerando outra coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,360",
+				"to": "00:12:31,260"
+			},
+			"offsets": {
+				"from": 748360,
+				"to": 751260
+			},
+			"text": " Ou eu venho aqui, clico no botão direito, New Window."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:31,560",
+				"to": "00:12:34,100"
+			},
+			"offsets": {
+				"from": 751560,
+				"to": 754100
+			},
+			"text": " Abro outro projeto meu e já vou."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,280",
+				"to": "00:12:35,700"
+			},
+			"offsets": {
+				"from": 754280,
+				"to": 755700
+			},
+			"text": " Então, eu já deixo aqui no meu PC."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,220",
+				"to": "00:12:37,900"
+			},
+			"offsets": {
+				"from": 756220,
+				"to": 757900
+			},
+			"text": " Um, resolvendo coisa do meu YouTube."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:38,440",
+				"to": "00:12:39,560"
+			},
+			"offsets": {
+				"from": 758440,
+				"to": 759560
+			},
+			"text": " Outro, uma empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:39,760",
+				"to": "00:12:41,580"
+			},
+			"offsets": {
+				"from": 759760,
+				"to": 761580
+			},
+			"text": " Outro, fazendo fechamento de uma reunião."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:41,920",
+				"to": "00:12:44,700"
+			},
+			"offsets": {
+				"from": 761920,
+				"to": 764700
+			},
+			"text": " Eu já vou deixando vários projetos tocando ao mesmo tempo."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:44,700",
+				"to": "00:12:48,220"
+			},
+			"offsets": {
+				"from": 764700,
+				"to": 768220
+			},
+			"text": " Aqui, eu tô indo devagarzinho, passo a passo com você, pra você entender."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:48,420",
+				"to": "00:12:50,580"
+			},
+			"offsets": {
+				"from": 768420,
+				"to": 770580
+			},
+			"text": " Porque senão, até eu me perco aqui na aula também."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:50,740",
+				"to": "00:12:53,960"
+			},
+			"offsets": {
+				"from": 770740,
+				"to": 773960
+			},
+			"text": " Então, se a gente olhar aqui, conteúdo, ele já criou a outra pasta, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:55,120",
+				"to": "00:12:56,080"
+			},
+			"offsets": {
+				"from": 775120,
+				"to": 776080
+			},
+			"text": " Fabricação própria."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:56,520",
+				"to": "00:12:59,640"
+			},
+			"offsets": {
+				"from": 776520,
+				"to": 779640
+			},
+			"text": " Ele ainda não colocou os materiais, mas ele já criou a pastinha."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:59,800",
+				"to": "00:13:01,980"
+			},
+			"offsets": {
+				"from": 779800,
+				"to": 781980
+			},
+			"text": " O legal é que fica tudo segmentado por data, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,540",
+				"to": "00:13:06,980"
+			},
+			"offsets": {
+				"from": 782540,
+				"to": 786980
+			},
+			"text": " Então, depois que, quando for um projeto que você já tem muitos posts, você consegue"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,980",
+				"to": "00:13:10,660"
+			},
+			"offsets": {
+				"from": 786980,
+				"to": 790660
+			},
+			"text": " buscar só pela data aqui e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,740",
+				"to": "00:13:13,020"
+			},
+			"offsets": {
+				"from": 790740,
+				"to": 793020
+			},
+			"text": " Cara, eu gostei desse carroçãozinho que ele criou, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,320",
+				"to": "00:13:14,680"
+			},
+			"offsets": {
+				"from": 793320,
+				"to": 794680
+			},
+			"text": " Vamos ver se esse..."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:14,680",
+				"to": "00:13:15,480"
+			},
+			"offsets": {
+				"from": 794680,
+				"to": 795480
+			},
+			"text": " Olha, ele já criou, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,820",
+				"to": "00:13:17,440"
+			},
+			"offsets": {
+				"from": 796820,
+				"to": 797440
+			},
+			"text": " Já criou."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:18,020",
+				"to": "00:13:19,480"
+			},
+			"offsets": {
+				"from": 798020,
+				"to": 799480
+			},
+			"text": " Esse daqui, eu vou colocar a imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:19,640",
+				"to": "00:13:20,800"
+			},
+			"offsets": {
+				"from": 799640,
+				"to": 800800
+			},
+			"text": " Bonito, preto."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,480",
+				"to": "00:13:25,720"
+			},
+			"offsets": {
+				"from": 801480,
+				"to": 805720
+			},
+			"text": " Slide 3, o porcento está cortado."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:26,320",
+				"to": "00:13:27,740"
+			},
+			"offsets": {
+				"from": 806320,
+				"to": 807740
+			},
+			"text": " Deixe um pouco menor."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:28,080",
+				"to": "00:13:31,000"
+			},
+			"offsets": {
+				"from": 808080,
+				"to": 811000
+			},
+			"text": " Tire os traços dos slides."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:31,000",
+				"to": "00:13:33,760"
+			},
+			"offsets": {
+				"from": 811000,
+				"to": 813760
+			},
+			"text": " Vou colocar esse tracinho assim, entre aspas."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:34,220",
+				"to": "00:13:40,220"
+			},
+			"offsets": {
+				"from": 814220,
+				"to": 820220
+			},
+			"text": " Já ajuste isso no contexto para todos os outros slides."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:40,540",
+				"to": "00:13:42,000"
+			},
+			"offsets": {
+				"from": 820540,
+				"to": 822000
+			},
+			"text": " Não gosto desses traços."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:42,940",
+				"to": "00:13:45,180"
+			},
+			"offsets": {
+				"from": 822940,
+				"to": 825180
+			},
+			"text": " Então, o 3, silk, bordado e transfer."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,520",
+				"to": "00:13:48,820"
+			},
+			"offsets": {
+				"from": 825520,
+				"to": 828820
+			},
+			"text": " Slide 5, o cronograma é nosso, o prazo também."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:48,980",
+				"to": "00:13:49,760"
+			},
+			"offsets": {
+				"from": 828980,
+				"to": 829760
+			},
+			"text": " StarCard, ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:50,160",
+				"to": "00:13:58,800"
+			},
+			"offsets": {
+				"from": 830160,
+				"to": 838800
+			},
+			"text": " Você não acha interessante esse slide, a capa ter a foto que criamos com os produtos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,040",
+				"to": "00:14:00,700"
+			},
+			"offsets": {
+				"from": 839040,
+				"to": 840700
+			},
+			"text": " com a logo da StarCard?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:00,900",
+				"to": "00:14:03,100"
+			},
+			"offsets": {
+				"from": 840900,
+				"to": 843100
+			},
+			"text": " As mochilas personalizadas?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,100",
+				"to": "00:14:07,940"
+			},
+			"offsets": {
+				"from": 843100,
+				"to": 847940
+			},
+			"text": " Vou mandar, porque eu acho legal essa capa aqui já ser uma imagem, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:08,020",
+				"to": "00:14:09,360"
+			},
+			"offsets": {
+				"from": 848020,
+				"to": 849360
+			},
+			"text": " Eu acho que já vai ficar mais bonito."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:09,640",
+				"to": "00:14:09,920"
+			},
+			"offsets": {
+				"from": 849640,
+				"to": 849920
+			},
+			"text": " Aí, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,140",
+				"to": "00:14:10,880"
+			},
+			"offsets": {
+				"from": 850140,
+				"to": 850880
+			},
+			"text": " Boa observação."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,980",
+				"to": "00:14:14,060"
+			},
+			"offsets": {
+				"from": 850980,
+				"to": 854060
+			},
+			"text": " A foto do Hero do site já tem os produtos personalizados com a marca."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,160",
+				"to": "00:14:14,480"
+			},
+			"offsets": {
+				"from": 854160,
+				"to": 854480
+			},
+			"text": " Perfeito."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:14,580",
+				"to": "00:14:17,460"
+			},
+			"offsets": {
+				"from": 854580,
+				"to": 857460
+			},
+			"text": " Talvez eu tenha que gerar outra, porque aquela lá eu queria um bannerzão, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:17,720",
+				"to": "00:14:18,040"
+			},
+			"offsets": {
+				"from": 857720,
+				"to": 858040
+			},
+			"text": " Ah, não."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:18,100",
+				"to": "00:14:19,580"
+			},
+			"offsets": {
+				"from": 858100,
+				"to": 859580
+			},
+			"text": " Eu tenho aqui, eu coloquei no card, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:19,840",
+				"to": "00:14:20,600"
+			},
+			"offsets": {
+				"from": 859840,
+				"to": 860600
+			},
+			"text": " Vamos ver se fica bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:20,860",
+				"to": "00:14:22,300"
+			},
+			"offsets": {
+				"from": 860860,
+				"to": 862300
+			},
+			"text": " Se não ficar, a gente gera outro."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,520",
+				"to": "00:14:22,600"
+			},
+			"offsets": {
+				"from": 862520,
+				"to": 862600
+			},
+			"text": " Né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:22,600",
+				"to": "00:14:23,380"
+			},
+			"offsets": {
+				"from": 862600,
+				"to": 863380
+			},
+			"text": " Isso aqui é teste."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:23,600",
+				"to": "00:14:23,920"
+			},
+			"offsets": {
+				"from": 863600,
+				"to": 863920
+			},
+			"text": " Gerou."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:24,320",
+				"to": "00:14:25,060"
+			},
+			"offsets": {
+				"from": 864320,
+				"to": 865060
+			},
+			"text": " Ficou meio torto."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:25,200",
+				"to": "00:14:26,420"
+			},
+			"offsets": {
+				"from": 865200,
+				"to": 866420
+			},
+			"text": " Ah, mas eu acho que ele vai ajustar ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:26,820",
+				"to": "00:14:29,100"
+			},
+			"offsets": {
+				"from": 866820,
+				"to": 869100
+			},
+			"text": " Verificar slides renderizados e atualizar o texto."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:29,300",
+				"to": "00:14:32,340"
+			},
+			"offsets": {
+				"from": 869300,
+				"to": 872340
+			},
+			"text": " Slide 3, ficou certinho 100%."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:32,340",
+				"to": "00:14:34,880"
+			},
+			"offsets": {
+				"from": 872340,
+				"to": 874880
+			},
+			"text": " Só tem que ajustar aqui, que ficou muito pra direita."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:35,220",
+				"to": "00:14:37,100"
+			},
+			"offsets": {
+				"from": 875220,
+				"to": 877100
+			},
+			"text": " Deixa eu ver aqui em Site, Assets."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:37,680",
+				"to": "00:14:40,300"
+			},
+			"offsets": {
+				"from": 877680,
+				"to": 880300
+			},
+			"text": " Eu acho que ele pode usar essa imagem aqui, não?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:40,900",
+				"to": "00:14:45,240"
+			},
+			"offsets": {
+				"from": 880900,
+				"to": 885240
+			},
+			"text": " Lembrando que, assim, aqui eu peguei uma imagem que eu gerei no ChatGPT e joguei aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:45,500",
+				"to": "00:14:52,820"
+			},
+			"offsets": {
+				"from": 885500,
+				"to": 892820
+			},
+			"text": " Depois, o próximo passo pra você melhorar a skill do carrossel é conectar alguma API de outro gerador de imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:53,060",
+				"to": "00:14:59,260"
+			},
+			"offsets": {
+				"from": 893060,
+				"to": 899260
+			},
+			"text": " Então, você pode conectar com a API do ChatGPT, ou com o NanoBanana, ou Higgs Field, qualquer outro IA."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:59,520",
+				"to": "00:15:02,100"
+			},
+			"offsets": {
+				"from": 899520,
+				"to": 902100
+			},
+			"text": " E daí, quando a gente vai criando aqui, eu posso falar assim pra ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:02,520",
+				"to": "00:15:09,340"
+			},
+			"offsets": {
+				"from": 902520,
+				"to": 909340
+			},
+			"text": " Use a API do Gemini ou do ChatGPT pra criar uma imagem assim, assim, assado."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:09,680",
+				"to": "00:15:15,640"
+			},
+			"offsets": {
+				"from": 909680,
+				"to": 915640
+			},
+			"text": " Então, quando ele estiver criando o carrossel, ele já gera a imagem com o ChatGPT e já utiliza na capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,780",
+				"to": "00:15:17,900"
+			},
+			"offsets": {
+				"from": 915780,
+				"to": 917900
+			},
+			"text": " Aí já começa a ficar mais interessante as coisas, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:17,960",
+				"to": "00:15:19,960"
+			},
+			"offsets": {
+				"from": 917960,
+				"to": 919960
+			},
+			"text": " Aqui a gente ainda tá no nível 1, pra você entender."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:20,160",
+				"to": "00:15:21,320"
+			},
+			"offsets": {
+				"from": 920160,
+				"to": 921320
+			},
+			"text": " Aqui é o básico do básico."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,320",
+				"to": "00:15:22,580"
+			},
+			"offsets": {
+				"from": 921320,
+				"to": 922580
+			},
+			"text": " Tem vários níveis, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:22,580",
+				"to": "00:15:26,220"
+			},
+			"offsets": {
+				"from": 922580,
+				"to": 926220
+			},
+			"text": " Foto da linha de produtos personalizados, mochila, sacostila."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,580",
+				"to": "00:15:28,620"
+			},
+			"offsets": {
+				"from": 926580,
+				"to": 928620
+			},
+			"text": " Mas eu acho que eu vou tirar esse bottom aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,780",
+				"to": "00:15:29,720"
+			},
+			"offsets": {
+				"from": 928780,
+				"to": 929720
+			},
+			"text": " Acho que fica muita informação."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:30,120",
+				"to": "00:15:33,640"
+			},
+			"offsets": {
+				"from": 930120,
+				"to": 933640
+			},
+			"text": " A imagem de fundo ficou muito pra direita."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:33,960",
+				"to": "00:15:36,100"
+			},
+			"offsets": {
+				"from": 933960,
+				"to": 936100
+			},
+			"text": " Tem que centralizar melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,660",
+				"to": "00:15:42,420"
+			},
+			"offsets": {
+				"from": 936660,
+				"to": 942420
+			},
+			"text": " Pode tirar esse rodapé com arroba StarCAD e arraste."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:42,660",
+				"to": "00:15:43,980"
+			},
+			"offsets": {
+				"from": 942660,
+				"to": 943980
+			},
+			"text": " Vou colocar pode remover."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,240",
+				"to": "00:15:49,560"
+			},
+			"offsets": {
+				"from": 944240,
+				"to": 949560
+			},
+			"text": " Acho que eu vou até tirar aquele 1 de 6, porque às vezes a pessoa confunde, achando que é a data 1 do 6."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,280",
+				"to": "00:15:57,020"
+			},
+			"offsets": {
+				"from": 950280,
+				"to": 957020
+			},
+			"text": " Arroba também o 01 do 06 do topo somente na capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:15:57,220",
+				"to": "00:16:00,000"
+			},
+			"offsets": {
+				"from": 957220,
+				"to": 960000
+			},
+			"text": " Os outros slides pode deixar."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,160",
+				"to": "00:16:00,480"
+			},
+			"offsets": {
+				"from": 960160,
+				"to": 960480
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,840",
+				"to": "00:16:02,880"
+			},
+			"offsets": {
+				"from": 960840,
+				"to": 962880
+			},
+			"text": " Vamos deixar ele gerando e arrumando essa capa."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:03,080",
+				"to": "00:16:03,920"
+			},
+			"offsets": {
+				"from": 963080,
+				"to": 963920
+			},
+			"text": " Agora o que eu vou fazer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:04,000",
+				"to": "00:16:05,000"
+			},
+			"offsets": {
+				"from": 964000,
+				"to": 965000
+			},
+			"text": " Eu vou abrir outro chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:05,200",
+				"to": "00:16:06,300"
+			},
+			"offsets": {
+				"from": 965200,
+				"to": 966300
+			},
+			"text": " Então, eu vou vir aqui e vou falar assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,480",
+				"to": "00:16:10,800"
+			},
+			"offsets": {
+				"from": 966480,
+				"to": 970800
+			},
+			"text": " A Cal com a Cristiane é 10 horas da manhã."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,800",
+				"to": "00:16:27,720"
+			},
+			"offsets": {
+				"from": 970800,
+				"to": 987720
+			},
+			"text": " Eu quero criar um material em PDF com a logo da StarCAD, estética da StarCAD, com a logo da StarCAD e estética, mais Mazeu e A ou Mazios, que é a minha empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:27,980",
+				"to": "00:16:32,000"
+			},
+			"offsets": {
+				"from": 987980,
+				"to": 992000
+			},
+			"text": " Quero apresentar pra ela Google Meu Negócio."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:32,180",
+				"to": "00:16:33,120"
+			},
+			"offsets": {
+				"from": 992180,
+				"to": 993120
+			},
+			"text": " Na verdade, eu vou colocar assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:33,760",
+				"to": "00:16:40,940"
+			},
+			"offsets": {
+				"from": 993760,
+				"to": 1000940
+			},
+			"text": " Quero apresentar pra ela site completo, mais Google Meu Negócio, mais redes sociais."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,120",
+				"to": "00:16:41,640"
+			},
+			"offsets": {
+				"from": 1001120,
+				"to": 1001640
+			},
+			"text": " Vai ser isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,780",
+				"to": "00:16:43,800"
+			},
+			"offsets": {
+				"from": 1001780,
+				"to": 1003800
+			},
+			"text": " Tudo por 10k no Pix."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:44,320",
+				"to": "00:16:46,040"
+			},
+			"offsets": {
+				"from": 1004320,
+				"to": 1006040
+			},
+			"text": " 3x de 4 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:46,580",
+				"to": "00:16:57,240"
+			},
+			"offsets": {
+				"from": 1006580,
+				"to": 1017240
+			},
+			"text": " Pensei também, não sei se faz sentido, falar pra ela que desses 10k, 1k vai ser para tráfego no Google."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:57,540",
+				"to": "00:17:00,940"
+			},
+			"offsets": {
+				"from": 1017540,
+				"to": 1020940
+			},
+			"text": " Para trazer os primeiros clientes dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:01,720",
+				"to": "00:17:02,080"
+			},
+			"offsets": {
+				"from": 1021720,
+				"to": 1022080
+			},
+			"text": " Mandei."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:02,380",
+				"to": "00:17:02,820"
+			},
+			"offsets": {
+				"from": 1022380,
+				"to": 1022820
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:03,580",
+				"to": "00:17:06,880"
+			},
+			"offsets": {
+				"from": 1023580,
+				"to": 1026880
+			},
+			"text": " Depois eu vou pensar certinho se eu vou cobrar alguma recorrência, se não vou."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,960",
+				"to": "00:17:08,420"
+			},
+			"offsets": {
+				"from": 1026960,
+				"to": 1028420
+			},
+			"text": " Mas eu acho que eu não vou cobrar recorrência."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:08,700",
+				"to": "00:17:10,840"
+			},
+			"offsets": {
+				"from": 1028700,
+				"to": 1030840
+			},
+			"text": " Porque assim, por exemplo, a pessoa vai me pagar 10 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:11,380",
+				"to": "00:17:15,120"
+			},
+			"offsets": {
+				"from": 1031380,
+				"to": 1035120
+			},
+			"text": " Eu vou pegar 9 mil por ter criado isso daqui, que eu mostrei tudo pra vocês que eu tô criando."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:15,420",
+				"to": "00:17:16,640"
+			},
+			"offsets": {
+				"from": 1035420,
+				"to": 1036640
+			},
+			"text": " Vai ter mais coisas que eu vou ter que criar."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:17,100",
+				"to": "00:17:22,420"
+			},
+			"offsets": {
+				"from": 1037100,
+				"to": 1042420
+			},
+			"text": " E desse 1k, eu ainda entrego de graça em anúncio pra ela no Google pra trazer mais clientes."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,680",
+				"to": "00:17:23,940"
+			},
+			"offsets": {
+				"from": 1042680,
+				"to": 1043940
+			},
+			"text": " Por que que isso é interessante?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,500",
+				"to": "00:17:26,100"
+			},
+			"offsets": {
+				"from": 1044500,
+				"to": 1046100
+			},
+			"text": " Ela vai ver o cliente chegando."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:26,100",
+				"to": "00:17:27,440"
+			},
+			"offsets": {
+				"from": 1046100,
+				"to": 1047440
+			},
+			"text": " Ela vai ver gente chegando."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,540",
+				"to": "00:17:28,560"
+			},
+			"offsets": {
+				"from": 1047540,
+				"to": 1048560
+			},
+			"text": " Gente qualificada."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:28,860",
+				"to": "00:17:30,740"
+			},
+			"offsets": {
+				"from": 1048860,
+				"to": 1050740
+			},
+			"text": " Depois eu consigo vender outras soluções pra ela."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,060",
+				"to": "00:17:31,380"
+			},
+			"offsets": {
+				"from": 1051060,
+				"to": 1051380
+			},
+			"text": " Entendeu?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:31,880",
+				"to": "00:17:34,140"
+			},
+			"offsets": {
+				"from": 1051880,
+				"to": 1054140
+			},
+			"text": " Nesse primeiro momento, você tem que ficar pensando muito em lucro."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:34,520",
+				"to": "00:17:35,940"
+			},
+			"offsets": {
+				"from": 1054520,
+				"to": 1055940
+			},
+			"text": " Óbvio que eu já vou estar lucrando muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:36,140",
+				"to": "00:17:37,240"
+			},
+			"offsets": {
+				"from": 1056140,
+				"to": 1057240
+			},
+			"text": " É 9 mil reais, pô."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:37,420",
+				"to": "00:17:39,720"
+			},
+			"offsets": {
+				"from": 1057420,
+				"to": 1059720
+			},
+			"text": " Eu fiz em menos de um dia com vocês, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,960",
+				"to": "00:17:43,060"
+			},
+			"offsets": {
+				"from": 1059960,
+				"to": 1063060
+			},
+			"text": " Aí começa a chegar gente, ela já não vai estar dando conta de responder no WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,160",
+				"to": "00:17:44,320"
+			},
+			"offsets": {
+				"from": 1063160,
+				"to": 1064320
+			},
+			"text": " Eu já vendo uma solução pra ela."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:44,580",
+				"to": "00:17:45,980"
+			},
+			"offsets": {
+				"from": 1064580,
+				"to": 1065980
+			},
+			"text": " Por exemplo, já é 9h20."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:46,360",
+				"to": "00:17:49,420"
+			},
+			"offsets": {
+				"from": 1066360,
+				"to": 1069420
+			},
+			"text": " Eu mandei mensagem no sábado pro WhatsApp e ninguém respondeu."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:49,560",
+				"to": "00:17:51,900"
+			},
+			"offsets": {
+				"from": 1069560,
+				"to": 1071900
+			},
+			"text": " Então eu já posso vender uma solução pra ela de ligação."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,260",
+				"to": "00:17:54,920"
+			},
+			"offsets": {
+				"from": 1072260,
+				"to": 1074920
+			},
+			"text": " Ou o WhatsApp recebeu uma resposta."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:55,320",
+				"to": "00:17:57,440"
+			},
+			"offsets": {
+				"from": 1075320,
+				"to": 1077440
+			},
+			"text": " Você já mandar alguma coisa pra pessoa."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,580",
+				"to": "00:17:58,580"
+			},
+			"offsets": {
+				"from": 1077580,
+				"to": 1078580
+			},
+			"text": " Ou você pelo menos avisar."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:58,640",
+				"to": "00:17:59,620"
+			},
+			"offsets": {
+				"from": 1078640,
+				"to": 1079620
+			},
+			"text": " Ó, estamos fechados."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:59,940",
+				"to": "00:18:01,620"
+			},
+			"offsets": {
+				"from": 1079940,
+				"to": 1081620
+			},
+			"text": " Mas aguenta aí que a gente já vai te mandar uma mensagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:01,820",
+				"to": "00:18:02,960"
+			},
+			"offsets": {
+				"from": 1081820,
+				"to": 1082960
+			},
+			"text": " Tudo isso faz não perder o lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,440",
+				"to": "00:18:04,880"
+			},
+			"offsets": {
+				"from": 1083440,
+				"to": 1084880
+			},
+			"text": " Porque recebeu uma mensagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:05,020",
+				"to": "00:18:07,300"
+			},
+			"offsets": {
+				"from": 1085020,
+				"to": 1087300
+			},
+			"text": " Não ser respondido, o cliente já vai no concorrente."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:07,560",
+				"to": "00:18:09,120"
+			},
+			"offsets": {
+				"from": 1087560,
+				"to": 1089120
+			},
+			"text": " Você consegue vender outras soluções."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:09,600",
+				"to": "00:18:10,460"
+			},
+			"offsets": {
+				"from": 1089600,
+				"to": 1090460
+			},
+			"text": " E basicamente é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:10,480",
+				"to": "00:18:12,260"
+			},
+			"offsets": {
+				"from": 1090480,
+				"to": 1092260
+			},
+			"text": " Quanto eu tô gerando aqui, já tô fazendo outras coisas."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:12,340",
+				"to": "00:18:14,740"
+			},
+			"offsets": {
+				"from": 1092340,
+				"to": 1094740
+			},
+			"text": " Vamos ver aqui o material que ele já tá criando."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:15,080",
+				"to": "00:18:16,080"
+			},
+			"offsets": {
+				"from": 1095080,
+				"to": 1096080
+			},
+			"text": " Dá pra gerar carrossel."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:16,500",
+				"to": "00:18:17,460"
+			},
+			"offsets": {
+				"from": 1096500,
+				"to": 1097460
+			},
+			"text": " Dá pra gerar slide."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:17,680",
+				"to": "00:18:18,800"
+			},
+			"offsets": {
+				"from": 1097680,
+				"to": 1098800
+			},
+			"text": " Dá pra gerar apresentação."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,120",
+				"to": "00:18:20,400"
+			},
+			"offsets": {
+				"from": 1099120,
+				"to": 1100400
+			},
+			"text": " Dá pra gerar stories."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:20,580",
+				"to": "00:18:21,460"
+			},
+			"offsets": {
+				"from": 1100580,
+				"to": 1101460
+			},
+			"text": " Formato stories."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:21,920",
+				"to": "00:18:23,920"
+			},
+			"offsets": {
+				"from": 1101920,
+				"to": 1103920
+			},
+			"text": " Dá pra gerar post pro Insta."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:24,280",
+				"to": "00:18:25,080"
+			},
+			"offsets": {
+				"from": 1104280,
+				"to": 1105080
+			},
+			"text": " Dá pra gerar PDF."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:25,460",
+				"to": "00:18:26,240"
+			},
+			"offsets": {
+				"from": 1105460,
+				"to": 1106240
+			},
+			"text": " Dá pra gerar PowerPoint."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:26,600",
+				"to": "00:18:27,960"
+			},
+			"offsets": {
+				"from": 1106600,
+				"to": 1107960
+			},
+			"text": " Dá pra gerar..."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:27,960",
+				"to": "00:18:29,540"
+			},
+			"offsets": {
+				"from": 1107960,
+				"to": 1109540
+			},
+			"text": " Entende que não é só carrossel, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:29,800",
+				"to": "00:18:31,280"
+			},
+			"offsets": {
+				"from": 1109800,
+				"to": 1111280
+			},
+			"text": " Você cria o que você quiser."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:31,280",
+				"to": "00:18:32,460"
+			},
+			"offsets": {
+				"from": 1111280,
+				"to": 1112460
+			},
+			"text": " É só você pedir pro bicho."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:32,820",
+				"to": "00:18:34,020"
+			},
+			"offsets": {
+				"from": 1112820,
+				"to": 1114020
+			},
+			"text": " Quando cair essa ficha, acabou."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:34,660",
+				"to": "00:18:35,520"
+			},
+			"offsets": {
+				"from": 1114660,
+				"to": 1115520
+			},
+			"text": " Você vai voar, meu amigo."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:36,040",
+				"to": "00:18:36,600"
+			},
+			"offsets": {
+				"from": 1116040,
+				"to": 1116600
+			},
+			"text": " Ou minha amiga."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:37,500",
+				"to": "00:18:38,200"
+			},
+			"offsets": {
+				"from": 1117500,
+				"to": 1118200
+			},
+			"text": " Ó, criou, hein?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,240",
+				"to": "00:18:39,080"
+			},
+			"offsets": {
+				"from": 1118240,
+				"to": 1119080
+			},
+			"text": " Dá uma olhada."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:39,600",
+				"to": "00:18:41,380"
+			},
+			"offsets": {
+				"from": 1119600,
+				"to": 1121380
+			},
+			"text": " Marketing digital completo para StarCard."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:41,500",
+				"to": "00:18:43,460"
+			},
+			"offsets": {
+				"from": 1121500,
+				"to": 1123460
+			},
+			"text": " Proposta comercial ou confidencial?"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:43,640",
+				"to": "00:18:44,020"
+			},
+			"offsets": {
+				"from": 1123640,
+				"to": 1124020
+			},
+			"text": " Gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,140",
+				"to": "00:18:45,080"
+			},
+			"offsets": {
+				"from": 1124140,
+				"to": 1125080
+			},
+			"text": " Parceria com o Mazel IA."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:45,600",
+				"to": "00:18:46,200"
+			},
+			"offsets": {
+				"from": 1125600,
+				"to": 1126200
+			},
+			"text": " Site novo."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:46,360",
+				"to": "00:18:48,220"
+			},
+			"offsets": {
+				"from": 1126360,
+				"to": 1128220
+			},
+			"text": " Presença no Google e nas redes sociais."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,360",
+				"to": "00:18:50,660"
+			},
+			"offsets": {
+				"from": 1128360,
+				"to": 1130660
+			},
+			"text": " Funcionando juntos pra trazer cliente novo todo mês."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:50,780",
+				"to": "00:18:53,980"
+			},
+			"offsets": {
+				"from": 1130780,
+				"to": 1133980
+			},
+			"text": " Tudo entregue, ativado e pronto pra usar em até 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,180",
+				"to": "00:18:54,320"
+			},
+			"offsets": {
+				"from": 1134180,
+				"to": 1134320
+			},
+			"text": " Não."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:54,420",
+				"to": "00:18:55,460"
+			},
+			"offsets": {
+				"from": 1134420,
+				"to": 1135460
+			},
+			"text": " Isso daqui eu vou tirar 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,540",
+				"to": "00:18:56,280"
+			},
+			"offsets": {
+				"from": 1135540,
+				"to": 1136280
+			},
+			"text": " Tem que ser instantâneo."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:56,620",
+				"to": "00:18:58,980"
+			},
+			"offsets": {
+				"from": 1136620,
+				"to": 1138980
+			},
+			"text": " Tire esse 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:59,340",
+				"to": "00:19:00,260"
+			},
+			"offsets": {
+				"from": 1139340,
+				"to": 1140260
+			},
+			"text": " Fala que já é instantâneo."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,260",
+				"to": "00:19:00,600"
+			},
+			"offsets": {
+				"from": 1140260,
+				"to": 1140600
+			},
+			"text": " Sei lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:00,900",
+				"to": "00:19:02,700"
+			},
+			"offsets": {
+				"from": 1140900,
+				"to": 1142700
+			},
+			"text": " Cristiano, empresa StarCard Brasil."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,860",
+				"to": "00:19:04,340"
+			},
+			"offsets": {
+				"from": 1142860,
+				"to": 1144340
+			},
+			"text": " Data 18 do 5."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:04,640",
+				"to": "00:19:06,600"
+			},
+			"offsets": {
+				"from": 1144640,
+				"to": 1146600
+			},
+			"text": " Diagnóstico que vemos na presença digital hoje."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,820",
+				"to": "00:19:08,580"
+			},
+			"offsets": {
+				"from": 1146820,
+				"to": 1148580
+			},
+			"text": " Site 2016, sem rastreamento."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,020",
+				"to": "00:19:10,900"
+			},
+			"offsets": {
+				"from": 1149020,
+				"to": 1150900
+			},
+			"text": " Site atual, um template local web antigo."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:11,400",
+				"to": "00:19:12,680"
+			},
+			"offsets": {
+				"from": 1151400,
+				"to": 1152680
+			},
+			"text": " Comprador corporativo abre."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,760",
+				"to": "00:19:13,280"
+			},
+			"offsets": {
+				"from": 1152760,
+				"to": 1153280
+			},
+			"text": " Não confia."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:13,380",
+				"to": "00:19:15,700"
+			},
+			"offsets": {
+				"from": 1153380,
+				"to": 1155700
+			},
+			"text": " Ainda precisa ligar pra saber onde está o pedido."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,140",
+				"to": "00:19:17,020"
+			},
+			"offsets": {
+				"from": 1156140,
+				"to": 1157020
+			},
+			"text": " Hoje isso pesa."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:17,400",
+				"to": "00:19:18,700"
+			},
+			"offsets": {
+				"from": 1157400,
+				"to": 1158700
+			},
+			"text": " Não aparece no Google local."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:19,060",
+				"to": "00:19:20,040"
+			},
+			"offsets": {
+				"from": 1159060,
+				"to": 1160040
+			},
+			"text": " Sem presença no LinkedIn."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,940",
+				"to": "00:19:22,320"
+			},
+			"offsets": {
+				"from": 1160940,
+				"to": 1162320
+			},
+			"text": " Sem conteúdo recorrente."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,160",
+				"to": "00:19:25,340"
+			},
+			"offsets": {
+				"from": 1163160,
+				"to": 1165340
+			},
+			"text": " Mas esse recorrente, eu vou trocar."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:25,340",
+				"to": "00:19:53,800"
+			},
+			"offsets": {
+				"from": 1165340,
+				"to": 1193800
+			},
+			"text": " Quero que ela tenha uma base no Instagram, LinkedIn e Facebook de posts que fazem sentido quando o cliente encontrá-la."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,800",
+				"to": "00:19:55,980"
+			},
+			"offsets": {
+				"from": 1193800,
+				"to": 1195980
+			},
+			"text": " Três pilares trabalhando junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:56,180",
+				"to": "00:19:58,320"
+			},
+			"offsets": {
+				"from": 1196180,
+				"to": 1198320
+			},
+			"text": " Site completo, moderno, responsivo."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,860",
+				"to": "00:20:00,560"
+			},
+			"offsets": {
+				"from": 1198860,
+				"to": 1200560
+			},
+			"text": " Aba de rastreamento do Correios."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,520",
+				"to": "00:20:03,380"
+			},
+			"offsets": {
+				"from": 1201520,
+				"to": 1203380
+			},
+			"text": " Google o meu negócio, cadastro."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,200",
+				"to": "00:20:06,840"
+			},
+			"offsets": {
+				"from": 1204200,
+				"to": 1206840
+			},
+			"text": " StarCard passa a aparecer no Google e redes sociais."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,980",
+				"to": "00:20:08,380"
+			},
+			"offsets": {
+				"from": 1206980,
+				"to": 1208380
+			},
+			"text": " LinkedIn, presença digital."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,260",
+				"to": "00:20:11,140"
+			},
+			"offsets": {
+				"from": 1209260,
+				"to": 1211140
+			},
+			"text": " No cronograma, tudo no ar em 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:11,140",
+				"to": "00:20:15,040"
+			},
+			"offsets": {
+				"from": 1211140,
+				"to": 1215040
+			},
+			"text": " No cronograma, diminua 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:15,380",
+				"to": "00:20:17,220"
+			},
+			"offsets": {
+				"from": 1215380,
+				"to": 1217220
+			},
+			"text": " Tem que ser bem mais rápido."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:17,520",
+				"to": "00:20:19,180"
+			},
+			"offsets": {
+				"from": 1217520,
+				"to": 1219180
+			},
+			"text": " Renião de briefing, coleta de dados."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:19,860",
+				"to": "00:20:21,940"
+			},
+			"offsets": {
+				"from": 1219860,
+				"to": 1221940
+			},
+			"text": " Está muito complexo."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:22,560",
+				"to": "00:20:23,360"
+			},
+			"offsets": {
+				"from": 1222560,
+				"to": 1223360
+			},
+			"text": " Kick-off."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,140",
+				"to": "00:20:27,920"
+			},
+			"offsets": {
+				"from": 1225140,
+				"to": 1227920
+			},
+			"text": " Deixe mais simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,360",
+				"to": "00:20:35,040"
+			},
+			"offsets": {
+				"from": 1228360,
+				"to": 1235040
+			},
+			"text": " Do dia da assinatura até a StarCard estar com o pacote completo rodando."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:35,580",
+				"to": "00:20:36,740"
+			},
+			"offsets": {
+				"from": 1235580,
+				"to": 1236740
+			},
+			"text": " E aqui investimento."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,860",
+				"to": "00:20:39,740"
+			},
+			"offsets": {
+				"from": 1236860,
+				"to": 1239740
+			},
+			"text": " Pacote completo, entrega única, sem mensalidade obrigatória."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,820",
+				"to": "00:20:41,140"
+			},
+			"offsets": {
+				"from": 1239820,
+				"to": 1241140
+			},
+			"text": " Você escolhe a forma de pagamento."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:41,280",
+				"to": "00:20:42,500"
+			},
+			"offsets": {
+				"from": 1241280,
+				"to": 1242500
+			},
+			"text": " Pix à vista, 10 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:42,820",
+				"to": "00:20:47,900"
+			},
+			"offsets": {
+				"from": 1242820,
+				"to": 1247900
+			},
+			"text": " Remova os dois últimos zeros do Pix à vista."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:48,280",
+				"to": "00:20:50,240"
+			},
+			"offsets": {
+				"from": 1248280,
+				"to": 1250240
+			},
+			"text": " Pagamento único, nota da assinatura."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,580",
+				"to": "00:20:51,660"
+			},
+			"offsets": {
+				"from": 1250580,
+				"to": 1251660
+			},
+			"text": " Início imediato no projeto."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,820",
+				"to": "00:20:53,540"
+			},
+			"offsets": {
+				"from": 1251820,
+				"to": 1253540
+			},
+			"text": " Economia de 2 mil, frente parcelado."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:53,640",
+				"to": "00:20:55,500"
+			},
+			"offsets": {
+				"from": 1253640,
+				"to": 1255500
+			},
+			"text": " Início até 48 horas."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,640",
+				"to": "00:20:56,580"
+			},
+			"offsets": {
+				"from": 1255640,
+				"to": 1256580
+			},
+			"text": " Legal, ficou bom assim."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,040",
+				"to": "00:20:58,740"
+			},
+			"offsets": {
+				"from": 1257040,
+				"to": 1258740
+			},
+			"text": " Parcelado, 3 de 4 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,460",
+				"to": "00:21:00,720"
+			},
+			"offsets": {
+				"from": 1259460,
+				"to": 1260720
+			},
+			"text": " Total, 12 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:01,280",
+				"to": "00:21:04,200"
+			},
+			"offsets": {
+				"from": 1261280,
+				"to": 1264200
+			},
+			"text": " Início imediato, sem espera entre parcelas."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,760",
+				"to": "00:21:08,600"
+			},
+			"offsets": {
+				"from": 1264760,
+				"to": 1268600
+			},
+			"text": " Bônus de ativação, mil reais em Google Ads por nossa conta."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,260",
+				"to": "00:21:14,500"
+			},
+			"offsets": {
+				"from": 1269260,
+				"to": 1274500
+			},
+			"text": " Para não entregar site parado, uma ZEUIA inclui mil de investimento inicial de Google Ads."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,900",
+				"to": "00:21:17,300"
+			},
+			"offsets": {
+				"from": 1274900,
+				"to": 1277300
+			},
+			"text": " No primeiro mês, configurado e gerenciado pela gente."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,400",
+				"to": "00:21:18,680"
+			},
+			"offsets": {
+				"from": 1277400,
+				"to": 1278680
+			},
+			"text": " Focado em palavras-chave de fornecedor."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,760",
+				"to": "00:21:20,040"
+			},
+			"offsets": {
+				"from": 1278760,
+				"to": 1280040
+			},
+			"text": " Nossa, isso daqui é muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:20,520",
+				"to": "00:21:21,300"
+			},
+			"offsets": {
+				"from": 1280520,
+				"to": 1281300
+			},
+			"text": " Isso daqui é muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,580",
+				"to": "00:21:22,300"
+			},
+			"offsets": {
+				"from": 1281580,
+				"to": 1282300
+			},
+			"text": " Isso daqui é muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:22,760",
+				"to": "00:21:24,020"
+			},
+			"offsets": {
+				"from": 1282760,
+				"to": 1284020
+			},
+			"text": " Caraca, isso daqui é muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:24,180",
+				"to": "00:21:25,720"
+			},
+			"offsets": {
+				"from": 1284180,
+				"to": 1285720
+			},
+			"text": " Próximos passos, como começa."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,720",
+				"to": "00:21:28,840"
+			},
+			"offsets": {
+				"from": 1285720,
+				"to": 1288840
+			},
+			"text": " Três passos simples e StarCard já entra no novo posicionamento."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,240",
+				"to": "00:21:30,400"
+			},
+			"offsets": {
+				"from": 1289240,
+				"to": 1290400
+			},
+			"text": " Aprovação da proposta."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,060",
+				"to": "00:21:32,120"
+			},
+			"offsets": {
+				"from": 1291060,
+				"to": 1292120
+			},
+			"text": " Esse kickoff eu vou tirar."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,400",
+				"to": "00:21:33,680"
+			},
+			"offsets": {
+				"from": 1292400,
+				"to": 1293680
+			},
+			"text": " Pagamento e kickoff."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:34,160",
+				"to": "00:21:38,300"
+			},
+			"offsets": {
+				"from": 1294160,
+				"to": 1298300
+			},
+			"text": " No passo 05, pode deixar o entrega em 30 dias."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:38,740",
+				"to": "00:21:40,280"
+			},
+			"offsets": {
+				"from": 1298740,
+				"to": 1300280
+			},
+			"text": " Vamos colocar StarCard de volta no mapa."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:40,660",
+				"to": "00:21:44,400"
+			},
+			"offsets": {
+				"from": 1300660,
+				"to": 1304400
+			},
+			"text": " Essa proposta é válida por 7 dias a partir da data de envio."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,580",
+				"to": "00:21:46,020"
+			},
+			"offsets": {
+				"from": 1304580,
+				"to": 1306020
+			},
+			"text": " Aprovação por WhatsApp ou e-mail."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,140",
+				"to": "00:21:46,420"
+			},
+			"offsets": {
+				"from": 1306140,
+				"to": 1306420
+			},
+			"text": " Legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:47,480",
+				"to": "00:21:48,860"
+			},
+			"offsets": {
+				"from": 1307480,
+				"to": 1308860
+			},
+			"text": " MazelIA, marketing digital com IA."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:49,020",
+				"to": "00:21:50,640"
+			},
+			"offsets": {
+				"from": 1309020,
+				"to": 1310640
+			},
+			"text": " Wagner, Mazel, MazelMarket."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,720",
+				"to": "00:21:50,920"
+			},
+			"offsets": {
+				"from": 1310720,
+				"to": 1310920
+			},
+			"text": " Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:51,560",
+				"to": "00:21:54,720"
+			},
+			"offsets": {
+				"from": 1311560,
+				"to": 1314720
+			},
+			"text": " Troque o meu e-mail, contato ao MazelIA."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:54,720",
+				"to": "00:21:55,720"
+			},
+			"offsets": {
+				"from": 1314720,
+				"to": 1315720
+			},
+			"text": " Vou mandar isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:55,900",
+				"to": "00:21:59,300"
+			},
+			"offsets": {
+				"from": 1315900,
+				"to": 1319300
+			},
+			"text": " Agora vamos terminar de ajustar o carrossel, porque eu ainda tenho outro carrossel para gerar."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:59,520",
+				"to": "00:22:02,380"
+			},
+			"offsets": {
+				"from": 1319520,
+				"to": 1322380
+			},
+			"text": " Pode deixar mais para a esquerda."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,720",
+				"to": "00:22:10,320"
+			},
+			"offsets": {
+				"from": 1322720,
+				"to": 1330320
+			},
+			"text": " Troque mochila com a sua marca por personalizado com a sua marca."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:10,660",
+				"to": "00:22:15,220"
+			},
+			"offsets": {
+				"from": 1330660,
+				"to": 1335220
+			},
+			"text": " Fica melhor, porque daí no segundo slide já vem mochila, sacochila, estojo, bolsa térmica, necessário."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,740",
+				"to": "00:22:16,880"
+			},
+			"offsets": {
+				"from": 1335740,
+				"to": 1336880
+			},
+			"text": " Se não fica redundante, tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,120",
+				"to": "00:22:20,380"
+			},
+			"offsets": {
+				"from": 1337120,
+				"to": 1340380
+			},
+			"text": " Mochila com a sua marca e depois mochila, sacochila."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,640",
+				"to": "00:22:21,160"
+			},
+			"offsets": {
+				"from": 1340640,
+				"to": 1341160
+			},
+			"text": " Então é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,540",
+				"to": "00:22:21,780"
+			},
+			"offsets": {
+				"from": 1341540,
+				"to": 1341780
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,880",
+				"to": "00:22:22,400"
+			},
+			"offsets": {
+				"from": 1341880,
+				"to": 1342400
+			},
+			"text": " Já vou mandar."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:22,900",
+				"to": "00:22:25,200"
+			},
+			"offsets": {
+				"from": 1342900,
+				"to": 1345200
+			},
+			"text": " O certo aqui seria eu cortar essa imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:25,340",
+				"to": "00:22:26,400"
+			},
+			"offsets": {
+				"from": 1345340,
+				"to": 1346400
+			},
+			"text": " É que aqui eu estou fazendo patetada."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,540",
+				"to": "00:22:33,100"
+			},
+			"offsets": {
+				"from": 1347540,
+				"to": 1353100
+			},
+			"text": " O certo seria eu cortar essa imagem, porque daí ele só utilizava bonitinho centralizado."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:33,540",
+				"to": "00:22:36,280"
+			},
+			"offsets": {
+				"from": 1353540,
+				"to": 1356280
+			},
+			"text": " Aqui eu estou fazendo na pressa."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,600",
+				"to": "00:22:37,500"
+			},
+			"offsets": {
+				"from": 1356600,
+				"to": 1357500
+			},
+			"text": " Mano, olha isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:37,580",
+				"to": "00:22:41,900"
+			},
+			"offsets": {
+				"from": 1357580,
+				"to": 1361900
+			},
+			"text": " O grupo VIP do MazelIA, rapaziada."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:42,240",
+				"to": "00:22:44,200"
+			},
+			"offsets": {
+				"from": 1362240,
+				"to": 1364200
+			},
+			"text": " Mano, os caras estão voando."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,660",
+				"to": "00:22:45,040"
+			},
+			"offsets": {
+				"from": 1364660,
+				"to": 1365040
+			},
+			"text": " Olha isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,680",
+				"to": "00:22:48,720"
+			},
+			"offsets": {
+				"from": 1366680,
+				"to": 1368720
+			},
+			"text": " Olha aqui o que os caras estão gerando, rapaziada."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:50,700",
+				"to": "00:22:52,180"
+			},
+			"offsets": {
+				"from": 1370700,
+				"to": 1372180
+			},
+			"text": " Daqui é com o Gemini, o cara falou."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:53,160",
+				"to": "00:22:54,080"
+			},
+			"offsets": {
+				"from": 1373160,
+				"to": 1374080
+			},
+			"text": " Mas olha isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:55,580",
+				"to": "00:22:58,120"
+			},
+			"offsets": {
+				"from": 1375580,
+				"to": 1378120
+			},
+			"text": " Mano, os caras estão quentes."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,640",
+				"to": "00:22:59,480"
+			},
+			"offsets": {
+				"from": 1378640,
+				"to": 1379480
+			},
+			"text": " Os caras estão quentes."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:59,660",
+				"to": "00:23:00,040"
+			},
+			"offsets": {
+				"from": 1379660,
+				"to": 1380040
+			},
+			"text": " Olha isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,580",
+				"to": "00:23:02,360"
+			},
+			"offsets": {
+				"from": 1381580,
+				"to": 1382360
+			},
+			"text": " Que isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:02,960",
+				"to": "00:23:04,100"
+			},
+			"offsets": {
+				"from": 1382960,
+				"to": 1384100
+			},
+			"text": " Olha aí, o cara está tuchando, hein."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,340",
+				"to": "00:23:05,620"
+			},
+			"offsets": {
+				"from": 1384340,
+				"to": 1385620
+			},
+			"text": " Isso é louco da hora, hein."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:07,880",
+				"to": "00:23:11,920"
+			},
+			"offsets": {
+				"from": 1387880,
+				"to": 1391920
+			},
+			"text": " Se você não está no nosso grupo VIP do WhatsApp, pelo amor de Deus, já entra também, né, meu amigo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,160",
+				"to": "00:23:13,280"
+			},
+			"offsets": {
+				"from": 1392160,
+				"to": 1393280
+			},
+			"text": " Você está moscando."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:13,900",
+				"to": "00:23:16,840"
+			},
+			"offsets": {
+				"from": 1393900,
+				"to": 1396840
+			},
+			"text": " Tá, deixa eu voltar para o meu foco aqui, que eu tenho minha reunião daqui a pouco."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:17,780",
+				"to": "00:23:23,280"
+			},
+			"offsets": {
+				"from": 1397780,
+				"to": 1403280
+			},
+			"text": " Assim, eu estou criando essa proposta aqui, mas talvez eu não use, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:23,560",
+				"to": "00:23:26,280"
+			},
+			"offsets": {
+				"from": 1403560,
+				"to": 1406280
+			},
+			"text": " Vai depender de como vai rolar essa call, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:26,640",
+				"to": "00:23:29,900"
+			},
+			"offsets": {
+				"from": 1406640,
+				"to": 1409900
+			},
+			"text": " Dependendo do que ela vai falar, se é realmente isso que ela precisa, se não é."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:30,420",
+				"to": "00:23:33,220"
+			},
+			"offsets": {
+				"from": 1410420,
+				"to": 1413220
+			},
+			"text": " Eu vou mudar um pouco esse layout aqui que eu não gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:33,360",
+				"to": "00:23:34,440"
+			},
+			"offsets": {
+				"from": 1413360,
+				"to": 1414440
+			},
+			"text": " Tem que ficar mais bonitinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:35,440",
+				"to": "00:23:38,620"
+			},
+			"offsets": {
+				"from": 1415440,
+				"to": 1418620
+			},
+			"text": " Coloque no pronta para fechar."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:38,620",
+				"to": "00:23:45,180"
+			},
+			"offsets": {
+				"from": 1418620,
+				"to": 1425180
+			},
+			"text": " Vamos colocar a StarCard no mapa digital."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,440",
+				"to": "00:23:49,420"
+			},
+			"offsets": {
+				"from": 1425440,
+				"to": 1429420
+			},
+			"text": " Em vez de ir de volta ao mapa, acha que a mulher está fora do mapa."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:49,880",
+				"to": "00:23:50,660"
+			},
+			"offsets": {
+				"from": 1429880,
+				"to": 1430660
+			},
+			"text": " Não, não está fora do mapa."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:50,780",
+				"to": "00:23:51,740"
+			},
+			"offsets": {
+				"from": 1430780,
+				"to": 1431740
+			},
+			"text": " A mulher é fatura forte."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:52,320",
+				"to": "00:23:54,140"
+			},
+			"offsets": {
+				"from": 1432320,
+				"to": 1434140
+			},
+			"text": " A gente só tem que colocar ela no digital."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,020",
+				"to": "00:23:56,160"
+			},
+			"offsets": {
+				"from": 1435020,
+				"to": 1436160
+			},
+			"text": " Agora aqui, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:56,260",
+				"to": "00:23:57,120"
+			},
+			"offsets": {
+				"from": 1436260,
+				"to": 1437120
+			},
+			"text": " Eu vou deixar isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:57,720",
+				"to": "00:23:59,840"
+			},
+			"offsets": {
+				"from": 1437720,
+				"to": 1439840
+			},
+			"text": " O que vimos na presença digital hoje..."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:59,840",
+				"to": "00:24:00,940"
+			},
+			"offsets": {
+				"from": 1439840,
+				"to": 1440940
+			},
+			"text": " Não, isso daqui pode deixar."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:00,940",
+				"to": "00:24:08,800"
+			},
+			"offsets": {
+				"from": 1440940,
+				"to": 1448800
+			},
+			"text": " Ele não trocou o conteúdo recorrente no diagnóstico sem conteúdo estrutural."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:09,140",
+				"to": "00:24:11,000"
+			},
+			"offsets": {
+				"from": 1449140,
+				"to": 1451000
+			},
+			"text": " Já vou mandar uma mensagem para a cliente aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,200",
+				"to": "00:24:12,400"
+			},
+			"offsets": {
+				"from": 1451200,
+				"to": 1452400
+			},
+			"text": " Bom dia, Cristiane."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,720",
+				"to": "00:24:13,220"
+			},
+			"offsets": {
+				"from": 1452720,
+				"to": 1453220
+			},
+			"text": " Tudo bem?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:13,600",
+				"to": "00:24:17,720"
+			},
+			"offsets": {
+				"from": 1453600,
+				"to": 1457720
+			},
+			"text": " Tudo certo para nossa call daqui 20 minutos?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:18,340",
+				"to": "00:24:19,120"
+			},
+			"offsets": {
+				"from": 1458340,
+				"to": 1459120
+			},
+			"text": " Tudo bem e você?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:19,660",
+				"to": "00:24:20,720"
+			},
+			"offsets": {
+				"from": 1459660,
+				"to": 1460720
+			},
+			"text": " Tudo ótimo."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:21,260",
+				"to": "00:24:22,460"
+			},
+			"offsets": {
+				"from": 1461260,
+				"to": 1462460
+			},
+			"text": " Graças a Deus."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:22,540",
+				"to": "00:24:23,280"
+			},
+			"offsets": {
+				"from": 1462540,
+				"to": 1463280
+			},
+			"text": " Ela já me respondeu."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:23,560",
+				"to": "00:24:25,140"
+			},
+			"offsets": {
+				"from": 1463560,
+				"to": 1465140
+			},
+			"text": " Então, vamos lá terminar tudo aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:25,660",
+				"to": "00:24:26,900"
+			},
+			"offsets": {
+				"from": 1465660,
+				"to": 1466900
+			},
+			"text": " Já estou livre se puder."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:27,180",
+				"to": "00:24:28,280"
+			},
+			"offsets": {
+				"from": 1467180,
+				"to": 1468280
+			},
+			"text": " Já até podemos entrar."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:29,280",
+				"to": "00:24:30,780"
+			},
+			"offsets": {
+				"from": 1469280,
+				"to": 1470780
+			},
+			"text": " Será que eu já entro na call com ela?"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:30,940",
+				"to": "00:24:32,140"
+			},
+			"offsets": {
+				"from": 1470940,
+				"to": 1472140
+			},
+			"text": " Não, melhor terminar isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:32,740",
+				"to": "00:24:37,160"
+			},
+			"offsets": {
+				"from": 1472740,
+				"to": 1477160
+			},
+			"text": " Deixe mais alinhado esses cards A, B e C."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:37,660",
+				"to": "00:24:39,800"
+			},
+			"offsets": {
+				"from": 1477660,
+				"to": 1479800
+			},
+			"text": " Está em linhas diferentes."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:40,440",
+				"to": "00:24:41,340"
+			},
+			"offsets": {
+				"from": 1480440,
+				"to": 1481340
+			},
+			"text": " Deixe mais alinhado."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:41,600",
+				"to": "00:24:43,460"
+			},
+			"offsets": {
+				"from": 1481600,
+				"to": 1483460
+			},
+			"text": " Vou mandar isso e vamos terminar os carrosséis."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:44,140",
+				"to": "00:24:44,980"
+			},
+			"offsets": {
+				"from": 1484140,
+				"to": 1484980
+			},
+			"text": " Slide 1 pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:45,060",
+				"to": "00:24:45,660"
+			},
+			"offsets": {
+				"from": 1485060,
+				"to": 1485660
+			},
+			"text": " Vamos ver como é que ficou."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:46,800",
+				"to": "00:24:48,020"
+			},
+			"offsets": {
+				"from": 1486800,
+				"to": 1488020
+			},
+			"text": " Agora, melhorou."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,580",
+				"to": "00:24:50,060"
+			},
+			"offsets": {
+				"from": 1489580,
+				"to": 1490060
+			},
+			"text": " Melhorou."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:50,060",
+				"to": "00:24:52,000"
+			},
+			"offsets": {
+				"from": 1490060,
+				"to": 1492000
+			},
+			"text": " Achei ele muito escuro só."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:52,520",
+				"to": "00:24:53,080"
+			},
+			"offsets": {
+				"from": 1492520,
+				"to": 1493080
+			},
+			"text": " Mas está bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:53,180",
+				"to": "00:24:54,180"
+			},
+			"offsets": {
+				"from": 1493180,
+				"to": 1494180
+			},
+			"text": " Depois eu gero outros."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:54,420",
+				"to": "00:24:57,760"
+			},
+			"offsets": {
+				"from": 1494420,
+				"to": 1497760
+			},
+			"text": " Lembrando que isso daqui é só para apresentar para a cliente a primeira versão."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:58,180",
+				"to": "00:24:59,560"
+			},
+			"offsets": {
+				"from": 1498180,
+				"to": 1499560
+			},
+			"text": " Ficou muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:00,160",
+				"to": "00:25:06,580"
+			},
+			"offsets": {
+				"from": 1500160,
+				"to": 1506580
+			},
+			"text": " Vamos criar mais um carrossel para apresentar na call."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:06,880",
+				"to": "00:25:08,500"
+			},
+			"offsets": {
+				"from": 1506880,
+				"to": 1508500
+			},
+			"text": " Quem é StarCard está escuro."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:09,360",
+				"to": "00:25:16,500"
+			},
+			"offsets": {
+				"from": 1509360,
+				"to": 1516500
+			},
+			"text": " Agora, esse próximo, vamos usar uma capa mais clara branca."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:16,900",
+				"to": "00:25:17,820"
+			},
+			"offsets": {
+				"from": 1516900,
+				"to": 1517820
+			},
+			"text": " Deixa eu ver o que ela respondeu."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,300",
+				"to": "00:25:21,660"
+			},
+			"offsets": {
+				"from": 1518300,
+				"to": 1521660
+			},
+			"text": " Só vou conseguir 10 horas mesmo, Cristiano."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,960",
+				"to": "00:25:23,840"
+			},
+			"offsets": {
+				"from": 1521960,
+				"to": 1523840
+			},
+			"text": " Usar suprimentos com o fornecedor único."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,020",
+				"to": "00:25:24,260"
+			},
+			"offsets": {
+				"from": 1524020,
+				"to": 1524260
+			},
+			"text": " Legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,380",
+				"to": "00:25:24,840"
+			},
+			"offsets": {
+				"from": 1524380,
+				"to": 1524840
+			},
+			"text": " Vou falar para ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,900",
+				"to": "00:25:25,400"
+			},
+			"offsets": {
+				"from": 1524900,
+				"to": 1525400
+			},
+			"text": " Pode gerar."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:25,940",
+				"to": "00:25:27,680"
+			},
+			"offsets": {
+				"from": 1525940,
+				"to": 1527680
+			},
+			"text": " Porque a mulher já quer fazer a call."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,020",
+				"to": "00:25:28,960"
+			},
+			"offsets": {
+				"from": 1528020,
+				"to": 1528960
+			},
+			"text": " Vou mandar para ela sim."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:29,800",
+				"to": "00:25:30,980"
+			},
+			"offsets": {
+				"from": 1529800,
+				"to": 1530980
+			},
+			"text": " 9h50."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,800",
+				"to": "00:25:33,560"
+			},
+			"offsets": {
+				"from": 1531800,
+				"to": 1533560
+			},
+			"text": " Te mando o link, então."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:34,620",
+				"to": "00:25:36,580"
+			},
+			"offsets": {
+				"from": 1534620,
+				"to": 1536580
+			},
+			"text": " Estou terminando de fazer um café."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,100",
+				"to": "00:25:37,440"
+			},
+			"offsets": {
+				"from": 1537100,
+				"to": 1537440
+			},
+			"text": " Porque é bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:37,520",
+				"to": "00:25:42,280"
+			},
+			"offsets": {
+				"from": 1537520,
+				"to": 1542280
+			},
+			"text": " Se o cliente já quer fazer antes, se o cliente está quente, já pega na laçada."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:42,760",
+				"to": "00:25:43,120"
+			},
+			"offsets": {
+				"from": 1542760,
+				"to": 1543120
+			},
+			"text": " Ela falou."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,180",
+				"to": "00:25:44,300"
+			},
+			"offsets": {
+				"from": 1543180,
+				"to": 1544300
+			},
+			"text": " No seu tempo, tranquilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,840",
+				"to": "00:25:45,340"
+			},
+			"offsets": {
+				"from": 1544840,
+				"to": 1545340
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:45,860",
+				"to": "00:25:47,480"
+			},
+			"offsets": {
+				"from": 1545860,
+				"to": 1547480
+			},
+			"text": " Essa aula aqui deu para você pegar bastante coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,140",
+				"to": "00:25:49,080"
+			},
+			"offsets": {
+				"from": 1548140,
+				"to": 1549080
+			},
+			"text": " É meio que no freestyle."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:49,320",
+				"to": "00:25:51,520"
+			},
+			"offsets": {
+				"from": 1549320,
+				"to": 1551520
+			},
+			"text": " Se eu já penso em criar um PDF ali, eu já crio."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:51,660",
+				"to": "00:25:53,900"
+			},
+			"offsets": {
+				"from": 1551660,
+				"to": 1553900
+			},
+			"text": " É assim que você cria material com o Masio S."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:54,240",
+				"to": "00:25:55,400"
+			},
+			"offsets": {
+				"from": 1554240,
+				"to": 1555400
+			},
+			"text": " Vamos ver como é que ficou aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:55,860",
+				"to": "00:25:56,000"
+			},
+			"offsets": {
+				"from": 1555860,
+				"to": 1556000
+			},
+			"text": " Tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,120",
+				"to": "00:25:57,320"
+			},
+			"offsets": {
+				"from": 1556120,
+				"to": 1557320
+			},
+			"text": " Ficou bem mais bonitinho aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,440",
+				"to": "00:25:57,660"
+			},
+			"offsets": {
+				"from": 1557440,
+				"to": 1557660
+			},
+			"text": " Tá vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:57,740",
+				"to": "00:25:59,040"
+			},
+			"offsets": {
+				"from": 1557740,
+				"to": 1559040
+			},
+			"text": " Ficou mais centralizadinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:01,700",
+				"to": "00:26:03,380"
+			},
+			"offsets": {
+				"from": 1561700,
+				"to": 1563380
+			},
+			"text": " Mano, eu vou fazer 10k no Pix."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:04,220",
+				"to": "00:26:05,540"
+			},
+			"offsets": {
+				"from": 1564220,
+				"to": 1565540
+			},
+			"text": " Vou fazer 10k no Pix."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,620",
+				"to": "00:26:06,540"
+			},
+			"offsets": {
+				"from": 1565620,
+				"to": 1566540
+			},
+			"text": " Eu acho justo o valor."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:06,740",
+				"to": "00:26:08,720"
+			},
+			"offsets": {
+				"from": 1566740,
+				"to": 1568720
+			},
+			"text": " Pô, com 1.000 de ads ainda, eu fazendo tráfego."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:08,820",
+				"to": "00:26:09,420"
+			},
+			"offsets": {
+				"from": 1568820,
+				"to": 1569420
+			},
+			"text": " Isso é louco."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:09,560",
+				"to": "00:26:10,620"
+			},
+			"offsets": {
+				"from": 1569560,
+				"to": 1570620
+			},
+			"text": " Isso aqui está justíssimo."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,840",
+				"to": "00:26:15,260"
+			},
+			"offsets": {
+				"from": 1571840,
+				"to": 1575260
+			},
+			"text": " É um valor que eu nem costumo fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:15,340",
+				"to": "00:26:16,240"
+			},
+			"offsets": {
+				"from": 1575340,
+				"to": 1576240
+			},
+			"text": " Eu faço mais caro."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:16,780",
+				"to": "00:26:18,320"
+			},
+			"offsets": {
+				"from": 1576780,
+				"to": 1578320
+			},
+			"text": " Cara, esse kick-off aqui tem que tirar."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:18,420",
+				"to": "00:26:19,300"
+			},
+			"offsets": {
+				"from": 1578420,
+				"to": 1579300
+			},
+			"text": " Eu já falei para ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:19,740",
+				"to": "00:26:21,740"
+			},
+			"offsets": {
+				"from": 1579740,
+				"to": 1581740
+			},
+			"text": " Ninguém sabe o que é kick-off, não, velho."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:22,440",
+				"to": "00:26:24,220"
+			},
+			"offsets": {
+				"from": 1582440,
+				"to": 1584220
+			},
+			"text": " Tem que deixar o mais simplificado possível."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:24,600",
+				"to": "00:26:25,800"
+			},
+			"offsets": {
+				"from": 1584600,
+				"to": 1585800
+			},
+			"text": " Então, eu vou falar para ele aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:26,700",
+				"to": "00:26:28,740"
+			},
+			"offsets": {
+				"from": 1586700,
+				"to": 1588740
+			},
+			"text": " Tire a escrita."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:29,960",
+				"to": "00:26:30,960"
+			},
+			"offsets": {
+				"from": 1589960,
+				"to": 1590960
+			},
+			"text": " Kick off."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:31,700",
+				"to": "00:26:33,360"
+			},
+			"offsets": {
+				"from": 1591700,
+				"to": 1593360
+			},
+			"text": " Do próximos passos."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:33,920",
+				"to": "00:26:36,360"
+			},
+			"offsets": {
+				"from": 1593920,
+				"to": 1596360
+			},
+			"text": " Tem que ser simplificado."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:36,540",
+				"to": "00:26:41,600"
+			},
+			"offsets": {
+				"from": 1596540,
+				"to": 1601600
+			},
+			"text": " Sem palavras em inglês para o cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,940",
+				"to": "00:26:43,660"
+			},
+			"offsets": {
+				"from": 1601940,
+				"to": 1603660
+			},
+			"text": " Vocês estão vendo que eu sou skin de game aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:44,080",
+				"to": "00:26:46,160"
+			},
+			"offsets": {
+				"from": 1604080,
+				"to": 1606160
+			},
+			"text": " Estou gravando, fazendo a parada com vocês."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:47,300",
+				"to": "00:26:49,980"
+			},
+			"offsets": {
+				"from": 1607300,
+				"to": 1609980
+			},
+			"text": " Mostrando os erros, os acertos."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:51,120",
+				"to": "00:26:52,500"
+			},
+			"offsets": {
+				"from": 1611120,
+				"to": 1612500
+			},
+			"text": " Mostrando a correria."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:52,900",
+				"to": "00:26:53,360"
+			},
+			"offsets": {
+				"from": 1612900,
+				"to": 1613360
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:53,760",
+				"to": "00:26:54,060"
+			},
+			"offsets": {
+				"from": 1613760,
+				"to": 1614060
+			},
+			"text": " Ok."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,360",
+				"to": "00:26:55,120"
+			},
+			"offsets": {
+				"from": 1614360,
+				"to": 1615120
+			},
+			"text": " Então, ele já cheirou."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:55,200",
+				"to": "00:26:56,000"
+			},
+			"offsets": {
+				"from": 1615200,
+				"to": 1616000
+			},
+			"text": " Olha que bonitinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:56,120",
+				"to": "00:26:57,120"
+			},
+			"offsets": {
+				"from": 1616120,
+				"to": 1617120
+			},
+			"text": " Para mostrar para o cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,380",
+				"to": "00:26:59,660"
+			},
+			"offsets": {
+				"from": 1618380,
+				"to": 1619660
+			},
+			"text": " Para departamentos de compra."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:59,820",
+				"to": "00:27:00,260"
+			},
+			"offsets": {
+				"from": 1619820,
+				"to": 1620260
+			},
+			"text": " Não, eu tenho que tirar."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:01,540",
+				"to": "00:27:06,200"
+			},
+			"offsets": {
+				"from": 1621540,
+				"to": 1626200
+			},
+			"text": " Demova esse para departamentos de compra."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:06,700",
+				"to": "00:27:08,780"
+			},
+			"offsets": {
+				"from": 1626700,
+				"to": 1628780
+			},
+			"text": " Cinco motivos para ter um fornecedor só."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:08,980",
+				"to": "00:27:11,480"
+			},
+			"offsets": {
+				"from": 1628980,
+				"to": 1631480
+			},
+			"text": " Antes de pulverizar a próxima cotação."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:12,620",
+				"to": "00:27:23,800"
+			},
+			"offsets": {
+				"from": 1632620,
+				"to": 1643800
+			},
+			"text": " E a subheadline deixe três linhas de produtos que a sua empresa precisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,160",
+				"to": "00:27:24,560"
+			},
+			"offsets": {
+				"from": 1644160,
+				"to": 1644560
+			},
+			"text": " Pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:24,700",
+				"to": "00:27:25,400"
+			},
+			"offsets": {
+				"from": 1644700,
+				"to": 1645400
+			},
+			"text": " Vai ser isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:26,660",
+				"to": "00:27:28,900"
+			},
+			"offsets": {
+				"from": 1646660,
+				"to": 1648900
+			},
+			"text": " E eu já vou agora para a cal com a mulher."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:29,960",
+				"to": "00:27:31,620"
+			},
+			"offsets": {
+				"from": 1649960,
+				"to": 1651620
+			},
+			"text": " Uma única nota fiscal."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:31,780",
+				"to": "00:27:32,800"
+			},
+			"offsets": {
+				"from": 1651780,
+				"to": 1652800
+			},
+			"text": " Em vez de processar cinco."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,060",
+				"to": "00:27:33,800"
+			},
+			"offsets": {
+				"from": 1653060,
+				"to": 1653800
+			},
+			"text": " Tá, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:33,960",
+				"to": "00:27:35,360"
+			},
+			"offsets": {
+				"from": 1653960,
+				"to": 1655360
+			},
+			"text": " Isso daqui eu nem sei se faz sentido ou não."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:35,460",
+				"to": "00:27:36,200"
+			},
+			"offsets": {
+				"from": 1655460,
+				"to": 1656200
+			},
+			"text": " Eu vejo com ela na cal."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:36,640",
+				"to": "00:27:37,320"
+			},
+			"offsets": {
+				"from": 1656640,
+				"to": 1657320
+			},
+			"text": " Vocês gostaram?"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:37,540",
+				"to": "00:27:38,520"
+			},
+			"offsets": {
+				"from": 1657540,
+				"to": 1658520
+			},
+			"text": " Bonitinho os carrosséis."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,640",
+				"to": "00:27:39,280"
+			},
+			"offsets": {
+				"from": 1658640,
+				"to": 1659280
+			},
+			"text": " Com imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:39,720",
+				"to": "00:27:40,440"
+			},
+			"offsets": {
+				"from": 1659720,
+				"to": 1660440
+			},
+			"text": " Sem imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:40,920",
+				"to": "00:27:41,280"
+			},
+			"offsets": {
+				"from": 1660920,
+				"to": 1661280
+			},
+			"text": " Preto."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,800",
+				"to": "00:27:42,120"
+			},
+			"offsets": {
+				"from": 1661800,
+				"to": 1662120
+			},
+			"text": " Branco."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:42,600",
+				"to": "00:27:44,360"
+			},
+			"offsets": {
+				"from": 1662600,
+				"to": 1664360
+			},
+			"text": " Depois a gente pode criar outros designs."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:44,660",
+				"to": "00:27:45,960"
+			},
+			"offsets": {
+				"from": 1664660,
+				"to": 1665960
+			},
+			"text": " Entenda que isso daqui eu estou fazendo."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:46,740",
+				"to": "00:27:48,480"
+			},
+			"offsets": {
+				"from": 1666740,
+				"to": 1668480
+			},
+			"text": " Sem ter feito a cal com a pessoa ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:49,560",
+				"to": "00:27:53,620"
+			},
+			"offsets": {
+				"from": 1669560,
+				"to": 1673620
+			},
+			"text": " Então, só para vocês entenderem como que eu crio esses carrosséis."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:53,840",
+				"to": "00:27:55,220"
+			},
+			"offsets": {
+				"from": 1673840,
+				"to": 1675220
+			},
+			"text": " Então, eu achei que ficou bem bonitinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:55,280",
+				"to": "00:27:55,800"
+			},
+			"offsets": {
+				"from": 1675280,
+				"to": 1675800
+			},
+			"text": " Eu gostei."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:56,520",
+				"to": "00:27:58,680"
+			},
+			"offsets": {
+				"from": 1676520,
+				"to": 1678680
+			},
+			"text": " Vamos ver se ela gosta desse estilo que eu criei."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:58,880",
+				"to": "00:28:00,200"
+			},
+			"offsets": {
+				"from": 1678880,
+				"to": 1680200
+			},
+			"text": " Criei também esse PDF."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:00,620",
+				"to": "00:28:03,300"
+			},
+			"offsets": {
+				"from": 1680620,
+				"to": 1683300
+			},
+			"text": " Que dependendo de como for a cal eu já solto para ela."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:04,020",
+				"to": "00:28:07,420"
+			},
+			"offsets": {
+				"from": 1684020,
+				"to": 1687420
+			},
+			"text": " Se eu sentir que ainda preciso modificar."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:07,780",
+				"to": "00:28:09,040"
+			},
+			"offsets": {
+				"from": 1687780,
+				"to": 1689040
+			},
+			"text": " Se ela precisa de outras coisas."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,500",
+				"to": "00:28:12,400"
+			},
+			"offsets": {
+				"from": 1689500,
+				"to": 1692400
+			},
+			"text": " Eu não envio esse PDF."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:13,240",
+				"to": "00:28:14,240"
+			},
+			"offsets": {
+				"from": 1693240,
+				"to": 1694240
+			},
+			"text": " Eu penso."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:14,320",
+				"to": "00:28:15,080"
+			},
+			"offsets": {
+				"from": 1694320,
+				"to": 1695080
+			},
+			"text": " Estruturo melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:15,460",
+				"to": "00:28:16,480"
+			},
+			"offsets": {
+				"from": 1695460,
+				"to": 1696480
+			},
+			"text": " Mas, é feeling."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,920",
+				"to": "00:28:18,540"
+			},
+			"offsets": {
+				"from": 1696920,
+				"to": 1698540
+			},
+			"text": " Se você achar que você já consegue soltar ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:18,680",
+				"to": "00:28:19,520"
+			},
+			"offsets": {
+				"from": 1698680,
+				"to": 1699520
+			},
+			"text": " Na cal você solta."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:19,860",
+				"to": "00:28:20,640"
+			},
+			"offsets": {
+				"from": 1699860,
+				"to": 1700640
+			},
+			"text": " Se não achar, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:21,280",
+				"to": "00:28:21,800"
+			},
+			"offsets": {
+				"from": 1701280,
+				"to": 1701800
+			},
+			"text": " Tamo junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,100",
+				"to": "00:28:23,440"
+			},
+			"offsets": {
+				"from": 1702100,
+				"to": 1703440
+			},
+			"text": " Vamos agora para a próxima aula."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:23,540",
+				"to": "00:28:24,880"
+			},
+			"offsets": {
+				"from": 1703540,
+				"to": 1704880
+			},
+			"text": " Que vai ser o Fazendo a Cal com a Cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,100",
+				"to": "00:28:25,480"
+			},
+			"offsets": {
+				"from": 1705100,
+				"to": 1705480
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:25,600",
+				"to": "00:28:25,960"
+			},
+			"offsets": {
+				"from": 1705600,
+				"to": 1705960
+			},
+			"text": " É nóis."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,040",
+				"to": "00:28:26,480"
+			},
+			"offsets": {
+				"from": 1706040,
+				"to": 1706480
+			},
+			"text": " Let's go."
+		}
+	]
+}

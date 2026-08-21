@@ -1,0 +1,1583 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,160"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3160
+			},
+			"text": " Então, aí você já todo mês vai ter uma recarga de 5 mil requisições"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,160",
+				"to": "00:00:05,300"
+			},
+			"offsets": {
+				"from": 3160,
+				"to": 5300
+			},
+			"text": " que você pode ter até 100 mil leads captados."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,760",
+				"to": "00:00:08,240"
+			},
+			"offsets": {
+				"from": 5760,
+				"to": 8240
+			},
+			"text": " Então, como é que funciona aqui o sistema da Capitar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,460",
+				"to": "00:00:09,720"
+			},
+			"offsets": {
+				"from": 8460,
+				"to": 9720
+			},
+			"text": " Como é que funciona o Scrapper de leads?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,240",
+				"to": "00:00:13,300"
+			},
+			"offsets": {
+				"from": 10240,
+				"to": 13300
+			},
+			"text": " Cara, assim que você entrar no site, você já vai cair aqui nessa aba"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,300",
+				"to": "00:00:14,880"
+			},
+			"offsets": {
+				"from": 13300,
+				"to": 14880
+			},
+			"text": " de Scrapper de leads, de buscar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,760",
+				"to": "00:00:17,520"
+			},
+			"offsets": {
+				"from": 15760,
+				"to": 17520
+			},
+			"text": " Só que ainda você não faz nada aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,900",
+				"to": "00:00:20,840"
+			},
+			"offsets": {
+				"from": 17900,
+				"to": 20840
+			},
+			"text": " porque a gente precisa configurar a fonte de dados primeiro."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,920",
+				"to": "00:00:23,580"
+			},
+			"offsets": {
+				"from": 21920,
+				"to": 23580
+			},
+			"text": " Então, a gente vem aqui em configurações."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,400",
+				"to": "00:00:28,040"
+			},
+			"offsets": {
+				"from": 24400,
+				"to": 28040
+			},
+			"text": " Aqui vai ter a Google Apps API, que é a API que eu recomendo como fonte de dados."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,680",
+				"to": "00:00:29,760"
+			},
+			"offsets": {
+				"from": 28680,
+				"to": 29760
+			},
+			"text": " Por que eu recomendo essa API?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,300",
+				"to": "00:00:32,960"
+			},
+			"offsets": {
+				"from": 30300,
+				"to": 32960
+			},
+			"text": " Cara, porque ela te dá gratuito 5 mil requisições,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,100",
+				"to": "00:00:35,600"
+			},
+			"offsets": {
+				"from": 33100,
+				"to": 35600
+			},
+			"text": " então ela consegue fazer 5 mil buscas por mês"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,600",
+				"to": "00:00:38,040"
+			},
+			"offsets": {
+				"from": 35600,
+				"to": 38040
+			},
+			"text": " e você consegue prospectar até 100 mil leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,700",
+				"to": "00:00:41,640"
+			},
+			"offsets": {
+				"from": 38700,
+				"to": 41640
+			},
+			"text": " Então, ela é uma API gratuita que você só tem que ativar ela"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,640",
+				"to": "00:00:45,320"
+			},
+			"offsets": {
+				"from": 41640,
+				"to": 45320
+			},
+			"text": " usando o cartão de crédito ou fazendo um depósito de 200 reais no Pix."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,220",
+				"to": "00:00:49,560"
+			},
+			"offsets": {
+				"from": 46220,
+				"to": 49560
+			},
+			"text": " Esse depósito de 200 reais no Pix, ele fica como saldo dentro do Google Console."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,160",
+				"to": "00:00:52,120"
+			},
+			"offsets": {
+				"from": 50160,
+				"to": 52120
+			},
+			"text": " Então, você não perde esses 200 reais."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,120",
+				"to": "00:00:55,040"
+			},
+			"offsets": {
+				"from": 52120,
+				"to": 55040
+			},
+			"text": " Se você quiser, depois você tirar eles de volta para você, você consegue também."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,500",
+				"to": "00:00:56,980"
+			},
+			"offsets": {
+				"from": 55500,
+				"to": 56980
+			},
+			"text": " E a sua conta também já vai estar ativada."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,540",
+				"to": "00:01:01,780"
+			},
+			"offsets": {
+				"from": 57540,
+				"to": 61780
+			},
+			"text": " No cartão de crédito, ele no caso só faz uma cobrança de 1 real no seu cartão de crédito"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,780",
+				"to": "00:01:03,440"
+			},
+			"offsets": {
+				"from": 61780,
+				"to": 63440
+			},
+			"text": " e ele já ativa a sua conta também."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,880",
+				"to": "00:01:06,960"
+			},
+			"offsets": {
+				"from": 63880,
+				"to": 66960
+			},
+			"text": " Então, aí você já todo mês vai ter uma recarga ali de 5 mil requisições"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,960",
+				"to": "00:01:09,120"
+			},
+			"offsets": {
+				"from": 66960,
+				"to": 69120
+			},
+			"text": " que você pode ter até 100 mil leads captados."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,620",
+				"to": "00:01:12,200"
+			},
+			"offsets": {
+				"from": 70620,
+				"to": 72200
+			},
+			"text": " Depois que você fazer a sua configuração,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,320",
+				"to": "00:01:15,520"
+			},
+			"offsets": {
+				"from": 72320,
+				"to": 75520
+			},
+			"text": " você vai colar a sua API aqui nesse campo"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,520",
+				"to": "00:01:18,080"
+			},
+			"offsets": {
+				"from": 75520,
+				"to": 78080
+			},
+			"text": " e você vai clicar aqui em testar conexão."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,700",
+				"to": "00:01:25,320"
+			},
+			"offsets": {
+				"from": 80700,
+				"to": 85320
+			},
+			"text": " Testar conexão, ele já vai aplicar aqui e já vai mostrar se a chave está válida ou não."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,660",
+				"to": "00:01:31,900"
+			},
+			"offsets": {
+				"from": 85660,
+				"to": 91900
+			},
+			"text": " Se você errou a chave, se você colocou a chave errada, ele vai mostrar que a chave deu erro."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,620",
+				"to": "00:01:33,640"
+			},
+			"offsets": {
+				"from": 92620,
+				"to": 93640
+			},
+			"text": " Ah, como é que eu faço?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,720",
+				"to": "00:01:36,640"
+			},
+			"offsets": {
+				"from": 93720,
+				"to": 96640
+			},
+			"text": " Não sei como é que vai lá no Google Console e pegar a API."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,080",
+				"to": "00:01:42,720"
+			},
+			"offsets": {
+				"from": 97080,
+				"to": 102720
+			},
+			"text": " Cara, aqui tem um tutorial explicando passo a passo com os links de botão para você chegar nas páginas certas."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,160",
+				"to": "00:01:46,500"
+			},
+			"offsets": {
+				"from": 103160,
+				"to": 106500
+			},
+			"text": " Então, assim, é só você seguir o tutorial que você já consegue a sua API do Google Maps."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,820",
+				"to": "00:01:51,160"
+			},
+			"offsets": {
+				"from": 106820,
+				"to": 111160
+			},
+			"text": " Ah, Eric, eu não tenho dinheiro, eu não tenho cartão de crédito para ativar a API do Google Maps."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,480",
+				"to": "00:01:52,340"
+			},
+			"offsets": {
+				"from": 111480,
+				"to": 112340
+			},
+			"text": " Cara, não tem problema."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,660",
+				"to": "00:01:55,560"
+			},
+			"offsets": {
+				"from": 112660,
+				"to": 115560
+			},
+			"text": " Também tem aqui o OpenStreetMap, que é uma opção gratuita."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,880",
+				"to": "00:01:58,600"
+			},
+			"offsets": {
+				"from": 115880,
+				"to": 118600
+			},
+			"text": " Ele é um pouco mais fraco que a API do Google Maps,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,120",
+				"to": "00:02:01,740"
+			},
+			"offsets": {
+				"from": 119120,
+				"to": 121740
+			},
+			"text": " só que, assim, cara, é a opção gratuita que a gente tem aqui dentro"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,740",
+				"to": "00:02:03,680"
+			},
+			"offsets": {
+				"from": 121740,
+				"to": 123680
+			},
+			"text": " e funciona também muito bem."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,900",
+				"to": "00:02:05,560"
+			},
+			"offsets": {
+				"from": 124900,
+				"to": 125560
+			},
+			"text": " Agora, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,880",
+				"to": "00:02:09,060"
+			},
+			"offsets": {
+				"from": 125880,
+				"to": 129060
+			},
+			"text": " Configurar a nossa fonte de dados, a gente pode ir aqui e rodar o Scrapper já."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,840",
+				"to": "00:02:11,200"
+			},
+			"offsets": {
+				"from": 129840,
+				"to": 131200
+			},
+			"text": " Cara, como é que funciona? É muito simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,420",
+				"to": "00:02:13,380"
+			},
+			"offsets": {
+				"from": 131420,
+				"to": 133380
+			},
+			"text": " Aqui você consegue controlar as suas categorias."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,780",
+				"to": "00:02:15,120"
+			},
+			"offsets": {
+				"from": 133780,
+				"to": 135120
+			},
+			"text": " Qual categoria você vai escolher?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,500",
+				"to": "00:02:19,680"
+			},
+			"offsets": {
+				"from": 135500,
+				"to": 139680
+			},
+			"text": " Então, aqui a gente, vamos escolher aqui, é cardiologista."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,820",
+				"to": "00:02:23,100"
+			},
+			"offsets": {
+				"from": 140820,
+				"to": 143100
+			},
+			"text": " Aqui a gente controla o que a gente quer que o nosso lead tenha."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,760",
+				"to": "00:02:26,440"
+			},
+			"offsets": {
+				"from": 143760,
+				"to": 146440
+			},
+			"text": " Então, se a gente quer que ele tenha só telefone, o telefone mais o site,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,600",
+				"to": "00:02:28,360"
+			},
+			"offsets": {
+				"from": 146600,
+				"to": 148360
+			},
+			"text": " a gente vai selecionar aqui telefone mais o site."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,480",
+				"to": "00:02:32,760"
+			},
+			"offsets": {
+				"from": 149480,
+				"to": 152760
+			},
+			"text": " Aqui embaixo tem a contagem de requisições, quantos você gastou no mês."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,380",
+				"to": "00:02:36,660"
+			},
+			"offsets": {
+				"from": 153380,
+				"to": 156660
+			},
+			"text": " Aqui quantos leads você ainda tem no mês para você conseguir captar."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,480",
+				"to": "00:02:43,920"
+			},
+			"offsets": {
+				"from": 157480,
+				"to": 163920
+			},
+			"text": " E aqui você escolhe quantos leads você quer captar com essa busca, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,980",
+				"to": "00:02:45,940"
+			},
+			"offsets": {
+				"from": 163980,
+				"to": 165940
+			},
+			"text": " Quantos leads você quer pegar com essa busca."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,880",
+				"to": "00:02:48,380"
+			},
+			"offsets": {
+				"from": 166880,
+				"to": 168380
+			},
+			"text": " Aqui, vamos selecionar São Paulo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,800",
+				"to": "00:02:50,060"
+			},
+			"offsets": {
+				"from": 168800,
+				"to": 170060
+			},
+			"text": " É só clicando no mapa mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,620",
+				"to": "00:02:54,020"
+			},
+			"offsets": {
+				"from": 170620,
+				"to": 174020
+			},
+			"text": " Você pode clicar diversas vezes para selecionar diversas localidades."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,860",
+				"to": "00:02:56,080"
+			},
+			"offsets": {
+				"from": 174860,
+				"to": 176080
+			},
+			"text": " Mas vamos selecionar São Paulo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,740",
+				"to": "00:02:58,420"
+			},
+			"offsets": {
+				"from": 176740,
+				"to": 178420
+			},
+			"text": " Vamos colocar aqui 120 leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,860",
+				"to": "00:03:01,680"
+			},
+			"offsets": {
+				"from": 179860,
+				"to": 181680
+			},
+			"text": " O Google, como é que funciona aqui, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,680",
+				"to": "00:03:02,320"
+			},
+			"offsets": {
+				"from": 181680,
+				"to": 182320
+			},
+			"text": " As requisições."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,100",
+				"to": "00:03:05,640"
+			},
+			"offsets": {
+				"from": 183100,
+				"to": 185640
+			},
+			"text": " Nem sempre uma busca significa uma requisição."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,300",
+				"to": "00:03:12,500"
+			},
+			"offsets": {
+				"from": 186300,
+				"to": 192500
+			},
+			"text": " Porque ele tem que fazer várias buscas em blocos para conseguir o número de leads que você quer."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,380",
+				"to": "00:03:17,380"
+			},
+			"offsets": {
+				"from": 193380,
+				"to": 197380
+			},
+			"text": " Então, ali a gente escolheu 120, ele pode gastar de 7 a 18 requisições."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,460",
+				"to": "00:03:18,840"
+			},
+			"offsets": {
+				"from": 198460,
+				"to": 198840
+			},
+			"text": " Então, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,020",
+				"to": "00:03:20,420"
+			},
+			"offsets": {
+				"from": 199020,
+				"to": 200420
+			},
+			"text": " A gente pode iniciar a busca."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,500",
+				"to": "00:03:28,560"
+			},
+			"offsets": {
+				"from": 207500,
+				"to": 208560
+			},
+			"text": " Está pegando aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,060",
+				"to": "00:03:33,500"
+			},
+			"offsets": {
+				"from": 213060,
+				"to": 213500
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,720",
+				"to": "00:03:36,980"
+			},
+			"offsets": {
+				"from": 213720,
+				"to": 216980
+			},
+			"text": " Pegou 117 novos leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,480",
+				"to": "00:03:39,920"
+			},
+			"offsets": {
+				"from": 217480,
+				"to": 219920
+			},
+			"text": " Como a gente já tinha rodado o Scrapper antes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,620",
+				"to": "00:03:42,500"
+			},
+			"offsets": {
+				"from": 220620,
+				"to": 222500
+			},
+			"text": " veio aqui para essa aba, está com 216."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,680",
+				"to": "00:03:45,340"
+			},
+			"offsets": {
+				"from": 222680,
+				"to": 225340
+			},
+			"text": " Mas são 117 novos leads aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,140",
+				"to": "00:03:47,780"
+			},
+			"offsets": {
+				"from": 226140,
+				"to": 227780
+			},
+			"text": " Como é que funciona a aba de leads?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,340",
+				"to": "00:03:49,040"
+			},
+			"offsets": {
+				"from": 228340,
+				"to": 229040
+			},
+			"text": " Ali já acabou."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,160",
+				"to": "00:03:50,180"
+			},
+			"offsets": {
+				"from": 229160,
+				"to": 230180
+			},
+			"text": " Ali na aba buscar é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,260",
+				"to": "00:03:53,200"
+			},
+			"offsets": {
+				"from": 230260,
+				"to": 233200
+			},
+			"text": " Você buscou, eles vêm para leads e você gerencia eles aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,720",
+				"to": "00:03:54,360"
+			},
+			"offsets": {
+				"from": 233720,
+				"to": 234360
+			},
+			"text": " Como é que funciona?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,500",
+				"to": "00:03:56,320"
+			},
+			"offsets": {
+				"from": 234500,
+				"to": 236320
+			},
+			"text": " Cara, aqui você consegue ver o nome da empresa,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,960",
+				"to": "00:03:58,020"
+			},
+			"offsets": {
+				"from": 236960,
+				"to": 238020
+			},
+			"text": " qual que é o segmento dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,120",
+				"to": "00:04:01,600"
+			},
+			"offsets": {
+				"from": 239120,
+				"to": 241600
+			},
+			"text": " Você consegue ver se ela tem uma presença boa."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,660",
+				"to": "00:04:02,680"
+			},
+			"offsets": {
+				"from": 241660,
+				"to": 242680
+			},
+			"text": " No caso, se tem um site."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,820",
+				"to": "00:04:05,940"
+			},
+			"offsets": {
+				"from": 243820,
+				"to": 245940
+			},
+			"text": " E você consegue ver aqui o número de contato."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,660",
+				"to": "00:04:07,900"
+			},
+			"offsets": {
+				"from": 246660,
+				"to": 247900
+			},
+			"text": " O score do site dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,900",
+				"to": "00:04:11,780"
+			},
+			"offsets": {
+				"from": 247900,
+				"to": 251780
+			},
+			"text": " Então, quanto maior o score for, pior é o site."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,900",
+				"to": "00:04:13,780"
+			},
+			"offsets": {
+				"from": 251900,
+				"to": 253780
+			},
+			"text": " Então, é melhor para você oferecer o serviço."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,820",
+				"to": "00:04:17,300"
+			},
+			"offsets": {
+				"from": 254820,
+				"to": 257300
+			},
+			"text": " Então, aqui ela tem o score de sites 87."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,200",
+				"to": "00:04:20,800"
+			},
+			"offsets": {
+				"from": 258200,
+				"to": 260800
+			},
+			"text": " Aqui tem o botão para você ir no WhatsApp dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,340",
+				"to": "00:04:22,440"
+			},
+			"offsets": {
+				"from": 261340,
+				"to": 262440
+			},
+			"text": " Para você ver o site."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,760",
+				"to": "00:04:24,680"
+			},
+			"offsets": {
+				"from": 262760,
+				"to": 264680
+			},
+			"text": " Para você ver a página do Google Maps dela."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,520",
+				"to": "00:04:28,880"
+			},
+			"offsets": {
+				"from": 265520,
+				"to": 268880
+			},
+			"text": " Para você ver, para você, no caso, marcar como qualificado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,720",
+				"to": "00:04:31,720"
+			},
+			"offsets": {
+				"from": 269720,
+				"to": 271720
+			},
+			"text": " Para você marcar que você já entrou em contato."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,380",
+				"to": "00:04:33,480"
+			},
+			"offsets": {
+				"from": 272380,
+				"to": 273480
+			},
+			"text": " Para você limpar o lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,620",
+				"to": "00:04:34,640"
+			},
+			"offsets": {
+				"from": 273620,
+				"to": 274640
+			},
+			"text": " Como é que funciona limpar o lead?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,020",
+				"to": "00:04:38,880"
+			},
+			"offsets": {
+				"from": 275020,
+				"to": 278880
+			},
+			"text": " Cara, quando você limpa o lead, ele some aqui da sua aba de leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,260",
+				"to": "00:04:41,120"
+			},
+			"offsets": {
+				"from": 279260,
+				"to": 281120
+			},
+			"text": " Só que ele pode ser reprospectado novamente."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,500",
+				"to": "00:04:44,880"
+			},
+			"offsets": {
+				"from": 281500,
+				"to": 284880
+			},
+			"text": " Então, se você ali fazer mais uma busca, pode ser que esse lead seja reprospectado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,640",
+				"to": "00:04:46,880"
+			},
+			"offsets": {
+				"from": 285640,
+				"to": 286880
+			},
+			"text": " E tem o de arquivar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,080",
+				"to": "00:04:48,200"
+			},
+			"offsets": {
+				"from": 287080,
+				"to": 288200
+			},
+			"text": " O arquivar, como é que funciona?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,020",
+				"to": "00:04:51,900"
+			},
+			"offsets": {
+				"from": 289020,
+				"to": 291900
+			},
+			"text": " Quando você arquiva, o lead vai aqui para arquivados."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,380",
+				"to": "00:04:54,360"
+			},
+			"offsets": {
+				"from": 292380,
+				"to": 294360
+			},
+			"text": " E aí, ele não vai ser mais reprospectado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,580",
+				"to": "00:04:56,820"
+			},
+			"offsets": {
+				"from": 294580,
+				"to": 296820
+			},
+			"text": " E você meio que bane aquele lead do seu scrap."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,580",
+				"to": "00:04:58,680"
+			},
+			"offsets": {
+				"from": 297580,
+				"to": 298680
+			},
+			"text": " Então, vamos fazer o seguinte."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,080",
+				"to": "00:05:04,340"
+			},
+			"offsets": {
+				"from": 300080,
+				"to": 304340
+			},
+			"text": " Vamos pegar aqui um dentista para a gente escolher aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,080",
+				"to": "00:05:07,300"
+			},
+			"offsets": {
+				"from": 305080,
+				"to": 307300
+			},
+			"text": " Dentista 24 horas, extração de dente, solo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,020",
+				"to": "00:05:08,940"
+			},
+			"offsets": {
+				"from": 308020,
+				"to": 308940
+			},
+			"text": " 91 score."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,520",
+				"to": "00:05:10,720"
+			},
+			"offsets": {
+				"from": 309520,
+				"to": 310720
+			},
+			"text": " Vamos qualificar esse aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,180",
+				"to": "00:05:13,580"
+			},
+			"offsets": {
+				"from": 313180,
+				"to": 313580
+			},
+			"text": " Vamos lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,820",
+				"to": "00:05:15,520"
+			},
+			"offsets": {
+				"from": 313820,
+				"to": 315520
+			},
+			"text": " Dentista 24 horas, 35 anos."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,740",
+				"to": "00:05:16,740"
+			},
+			"offsets": {
+				"from": 315740,
+				"to": 316740
+			},
+			"text": " Vamos ver o site deles."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,700",
+				"to": "00:05:23,540"
+			},
+			"offsets": {
+				"from": 321700,
+				"to": 323540
+			},
+			"text": " Olha, então, o site não está ideal."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,840",
+				"to": "00:05:26,100"
+			},
+			"offsets": {
+				"from": 323840,
+				"to": 326100
+			},
+			"text": " Ali o score está mostrando 91."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,900",
+				"to": "00:05:27,540"
+			},
+			"offsets": {
+				"from": 326900,
+				"to": 327540
+			},
+			"text": " E está certo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,720",
+				"to": "00:05:29,780"
+			},
+			"offsets": {
+				"from": 327720,
+				"to": 329780
+			},
+			"text": " O site realmente precisa de uma reformulação."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,940",
+				"to": "00:05:31,440"
+			},
+			"offsets": {
+				"from": 329940,
+				"to": 331440
+			},
+			"text": " Ou precisa fazer um site novo para esse cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,320",
+				"to": "00:05:32,680"
+			},
+			"offsets": {
+				"from": 332320,
+				"to": 332680
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,720",
+				"to": "00:05:34,740"
+			},
+			"offsets": {
+				"from": 333720,
+				"to": 334740
+			},
+			"text": " Colocou aqui em qualificados?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,840",
+				"to": "00:05:35,420"
+			},
+			"offsets": {
+				"from": 334840,
+				"to": 335420
+			},
+			"text": " Deixa eu tirar esse aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,820",
+				"to": "00:05:38,800"
+			},
+			"offsets": {
+				"from": 335820,
+				"to": 338800
+			},
+			"text": " É só você remarcar a estrelinha, caso você queira tirar ele de qualificados."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,560",
+				"to": "00:05:40,500"
+			},
+			"offsets": {
+				"from": 339560,
+				"to": 340500
+			},
+			"text": " Colocou em qualificados?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,780",
+				"to": "00:05:41,140"
+			},
+			"offsets": {
+				"from": 340780,
+				"to": 341140
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,420",
+				"to": "00:05:41,880"
+			},
+			"offsets": {
+				"from": 341420,
+				"to": 341880
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,540",
+				"to": "00:05:44,600"
+			},
+			"offsets": {
+				"from": 342540,
+				"to": 344600
+			},
+			"text": " Aí, depois você entra em contato usando o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,980",
+				"to": "00:05:45,900"
+			},
+			"offsets": {
+				"from": 344980,
+				"to": 345900
+			},
+			"text": " É só clicando aqui em cima."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,980",
+				"to": "00:05:47,020"
+			},
+			"offsets": {
+				"from": 345980,
+				"to": 347020
+			},
+			"text": " Eu não estou com o meu WhatsApp aberto."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,140",
+				"to": "00:05:49,160"
+			},
+			"offsets": {
+				"from": 347140,
+				"to": 349160
+			},
+			"text": " Mas, quando você clica, você já abre o seu WhatsApp ali direto."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,760",
+				"to": "00:05:51,780"
+			},
+			"offsets": {
+				"from": 350760,
+				"to": 351780
+			},
+			"text": " E, cara, não tem segredo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,820",
+				"to": "00:05:52,100"
+			},
+			"offsets": {
+				"from": 351820,
+				"to": 352100
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,400",
+				"to": "00:05:54,700"
+			},
+			"offsets": {
+				"from": 352400,
+				"to": 354700
+			},
+			"text": " É você captar os seus leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,260",
+				"to": "00:05:56,660"
+			},
+			"offsets": {
+				"from": 355260,
+				"to": 356660
+			},
+			"text": " Eles vão para a sua aba de leads ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,780",
+				"to": "00:05:57,560"
+			},
+			"offsets": {
+				"from": 356780,
+				"to": 357560
+			},
+			"text": " Você faz o controle."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,680",
+				"to": "00:05:58,500"
+			},
+			"offsets": {
+				"from": 357680,
+				"to": 358500
+			},
+			"text": " Você faz a checagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,600",
+				"to": "00:05:59,600"
+			},
+			"offsets": {
+				"from": 358600,
+				"to": 359600
+			},
+			"text": " Você vê se o site está legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,940",
+				"to": "00:06:01,100"
+			},
+			"offsets": {
+				"from": 359940,
+				"to": 361100
+			},
+			"text": " Você vê se ele não tem site."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,580",
+				"to": "00:06:02,920"
+			},
+			"offsets": {
+				"from": 361580,
+				"to": 362920
+			},
+			"text": " E aí, você oferece o seu serviço."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,240",
+				"to": "00:06:05,660"
+			},
+			"offsets": {
+				"from": 363240,
+				"to": 365660
+			},
+			"text": " Na próxima aula, eu vou explicar como é que funciona o Sysap aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,840",
+				"to": "00:06:07,640"
+			},
+			"offsets": {
+				"from": 365840,
+				"to": 367640
+			},
+			"text": " Que é o disparador de campanhas que a gente tem."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,540",
+				"to": "00:06:09,560"
+			},
+			"offsets": {
+				"from": 368540,
+				"to": 369560
+			},
+			"text": " Também é o WhatsApp integrado."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:09,620",
+				"to": "00:06:10,660"
+			},
+			"offsets": {
+				"from": 369620,
+				"to": 370660
+			},
+			"text": " Você consegue conversar com os seus leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,660",
+				"to": "00:06:12,480"
+			},
+			"offsets": {
+				"from": 370660,
+				"to": 372480
+			},
+			"text": " Você consegue mandar campanhas para eles."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,540",
+				"to": "00:06:13,900"
+			},
+			"offsets": {
+				"from": 373540,
+				"to": 373900
+			},
+			"text": " Personalizadas."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,440",
+				"to": "00:06:15,240"
+			},
+			"offsets": {
+				"from": 374440,
+				"to": 375240
+			},
+			"text": " Bom, é isso aí, gente."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,300",
+				"to": "00:06:15,800"
+			},
+			"offsets": {
+				"from": 375300,
+				"to": 375800
+			},
+			"text": " Tamo junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,220",
+				"to": "00:06:17,840"
+			},
+			"offsets": {
+				"from": 376220,
+				"to": 377840
+			},
+			"text": " E é, vamos para a próxima e vamos embora."
+		}
+	]
+}

@@ -7,3 +7,4 @@ bronze/pipeline/.env
 __pycache__/
 *.pyc
 .DS_Store
+bronze/pipeline/models/

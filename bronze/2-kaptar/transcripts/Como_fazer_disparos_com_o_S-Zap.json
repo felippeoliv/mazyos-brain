@@ -1,0 +1,1616 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,820"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3820
+			},
+			"text": " Bom, como é que funciona aqui a página de SSAP aqui dentro da Capitar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,800",
+				"to": "00:00:10,400"
+			},
+			"offsets": {
+				"from": 4800,
+				"to": 10400
+			},
+			"text": " Cara, o SSAP é como se fosse um WhatsApp web, onde você consegue rodar campanhas aqui dentro da Capitar"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,400",
+				"to": "00:00:14,880"
+			},
+			"offsets": {
+				"from": 10400,
+				"to": 14880
+			},
+			"text": " de uma forma muito mais fácil e também muito mais personalizada."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,680",
+				"to": "00:00:16,920"
+			},
+			"offsets": {
+				"from": 15680,
+				"to": 16920
+			},
+			"text": " Cara, então, como é que funciona, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,140",
+				"to": "00:00:21,900"
+			},
+			"offsets": {
+				"from": 17140,
+				"to": 21900
+			},
+			"text": " Primeira coisa, você vai abrir aqui o SSAP, você vai cair na aba de painel dele,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,020",
+				"to": "00:00:26,740"
+			},
+			"offsets": {
+				"from": 23020,
+				"to": 26740
+			},
+			"text": " você vai vir aqui nesse botão servidor SSAP e você vai clicar baixar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,740",
+				"to": "00:00:34,700"
+			},
+			"offsets": {
+				"from": 29740,
+				"to": 34700
+			},
+			"text": " Baixou, você dá um clique, depois você dá dois cliques aqui em iniciar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,160",
+				"to": "00:00:37,920"
+			},
+			"offsets": {
+				"from": 36160,
+				"to": 37920
+			},
+			"text": " Vai pedir para você extrair, você extrai."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,980",
+				"to": "00:00:40,920"
+			},
+			"offsets": {
+				"from": 38980,
+				"to": 40920
+			},
+			"text": " Depois você clica em iniciar de novo."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,200",
+				"to": "00:00:50,100"
+			},
+			"offsets": {
+				"from": 46200,
+				"to": 50100
+			},
+			"text": " Depois ele vai abrir o CMD aqui, mas aí depois ele vai fechar o CMD,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,420",
+				"to": "00:00:52,700"
+			},
+			"offsets": {
+				"from": 50420,
+				"to": 52700
+			},
+			"text": " porque aqui só está instalando as dependências do servidor, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,700",
+				"to": "00:00:53,360"
+			},
+			"offsets": {
+				"from": 52700,
+				"to": 53360
+			},
+			"text": " Para ele funcionar."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,940",
+				"to": "00:00:55,480"
+			},
+			"offsets": {
+				"from": 53940,
+				"to": 55480
+			},
+			"text": " Você vai ver que ele vai instalar as dependências."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,560",
+				"to": "00:00:57,000"
+			},
+			"offsets": {
+				"from": 56560,
+				"to": 57000
+			},
+			"text": " Instalou."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,480",
+				"to": "00:01:01,240"
+			},
+			"offsets": {
+				"from": 59480,
+				"to": 61240
+			},
+			"text": " Ele vai fechar sozinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,340",
+				"to": "00:01:04,440"
+			},
+			"offsets": {
+				"from": 62340,
+				"to": 64440
+			},
+			"text": " Fechou sozinho, você de novo clica em iniciar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,760",
+				"to": "00:01:08,920"
+			},
+			"offsets": {
+				"from": 66760,
+				"to": 68920
+			},
+			"text": " Beleza, aqui o servidor já está funcionando."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,020",
+				"to": "00:01:09,740"
+			},
+			"offsets": {
+				"from": 69020,
+				"to": 69740
+			},
+			"text": " Você já abriu o servidor."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,900",
+				"to": "00:01:13,320"
+			},
+			"offsets": {
+				"from": 69900,
+				"to": 73320
+			},
+			"text": " Você não fecha o sábado do CMD enquanto você estiver usando o SSAP."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,960",
+				"to": "00:01:15,220"
+			},
+			"offsets": {
+				"from": 73960,
+				"to": 75220
+			},
+			"text": " Então você pode minimizar tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,540",
+				"to": "00:01:18,120"
+			},
+			"offsets": {
+				"from": 76540,
+				"to": 78120
+			},
+			"text": " E beleza, você já iniciou o seu servidor."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,660",
+				"to": "00:01:20,340"
+			},
+			"offsets": {
+				"from": 78660,
+				"to": 80340
+			},
+			"text": " Aqui, você vem em WhatsApp agora."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,980",
+				"to": "00:01:22,160"
+			},
+			"offsets": {
+				"from": 80980,
+				"to": 82160
+			},
+			"text": " Você clica em ativar o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,480",
+				"to": "00:01:26,420"
+			},
+			"offsets": {
+				"from": 83480,
+				"to": 86420
+			},
+			"text": " Quando você clica em ativar o WhatsApp, ele pede o QR Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,040",
+				"to": "00:01:32,460"
+			},
+			"offsets": {
+				"from": 87040,
+				"to": 92460
+			},
+			"text": " Como eu estou usando a minha câmera como QR Code, eu vou dar um cortezinho aqui, eu vou escanear e aí eu já volto."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,120",
+				"to": "00:01:35,420"
+			},
+			"offsets": {
+				"from": 93120,
+				"to": 95420
+			},
+			"text": " Pronto, QR Code aqui escaneado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,000",
+				"to": "00:01:36,360"
+			},
+			"offsets": {
+				"from": 96000,
+				"to": 96360
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,740",
+				"to": "00:01:37,940"
+			},
+			"offsets": {
+				"from": 96740,
+				"to": 97940
+			},
+			"text": " Aqui vai ter dois botões."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,040",
+				"to": "00:01:39,120"
+			},
+			"offsets": {
+				"from": 98040,
+				"to": 99120
+			},
+			"text": " Um de sincronizar histórico."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,180",
+				"to": "00:01:40,140"
+			},
+			"offsets": {
+				"from": 99180,
+				"to": 100140
+			},
+			"text": " Você não precisa clicar nele, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,200",
+				"to": "00:01:42,840"
+			},
+			"offsets": {
+				"from": 100200,
+				"to": 102840
+			},
+			"text": " Porque quando você clica em sincronizar, ele sai de novo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,940",
+				"to": "00:01:44,120"
+			},
+			"offsets": {
+				"from": 102940,
+				"to": 104120
+			},
+			"text": " Você precisa escanear mais uma vez."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,940",
+				"to": "00:01:48,740"
+			},
+			"offsets": {
+				"from": 104940,
+				"to": 108740
+			},
+			"text": " Então, como você já escaneou, já está sincronizado perfeitamente com o seu WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,360",
+				"to": "00:01:51,080"
+			},
+			"offsets": {
+				"from": 109360,
+				"to": 111080
+			},
+			"text": " Aqui um botãozinho para você sair do seu WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,600",
+				"to": "00:01:52,580"
+			},
+			"offsets": {
+				"from": 111600,
+				"to": 112580
+			},
+			"text": " Conectar outro número."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,820",
+				"to": "00:01:53,500"
+			},
+			"offsets": {
+				"from": 112820,
+				"to": 113500
+			},
+			"text": " Só sair mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,420",
+				"to": "00:01:54,780"
+			},
+			"offsets": {
+				"from": 114420,
+				"to": 114780
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,940",
+				"to": "00:01:59,440"
+			},
+			"offsets": {
+				"from": 114940,
+				"to": 119440
+			},
+			"text": " Assim que você entra, você já pode ver que as conversas aqui do seu WhatsApp já carregaram."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,800",
+				"to": "00:02:01,540"
+			},
+			"offsets": {
+				"from": 119800,
+				"to": 121540
+			},
+			"text": " Então, aqui são umas conversas de teste aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,440",
+				"to": "00:02:03,980"
+			},
+			"offsets": {
+				"from": 122440,
+				"to": 123980
+			},
+			"text": " E aqui uma conversa do meu número."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,620",
+				"to": "00:02:07,360"
+			},
+			"offsets": {
+				"from": 124620,
+				"to": 127360
+			},
+			"text": " Esse aqui é o número da minha Begera."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,140",
+				"to": "00:02:08,900"
+			},
+			"offsets": {
+				"from": 128140,
+				"to": 128900
+			},
+			"text": " E beleza, cara."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,300",
+				"to": "00:02:10,320"
+			},
+			"offsets": {
+				"from": 129300,
+				"to": 130320
+			},
+			"text": " Aqui, você já conectou."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,420",
+				"to": "00:02:11,320"
+			},
+			"offsets": {
+				"from": 130420,
+				"to": 131320
+			},
+			"text": " Como é que funciona agora?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,380",
+				"to": "00:02:13,140"
+			},
+			"offsets": {
+				"from": 131380,
+				"to": 133140
+			},
+			"text": " Eu quero rodar as campanhas dos vídeos que eu peguei."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,920",
+				"to": "00:02:14,800"
+			},
+			"offsets": {
+				"from": 133920,
+				"to": 134800
+			},
+			"text": " Cara, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,880",
+				"to": "00:02:16,280"
+			},
+			"offsets": {
+				"from": 134880,
+				"to": 136280
+			},
+			"text": " Você vai aqui em Vim Campanhas."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,980",
+				"to": "00:02:19,980"
+			},
+			"offsets": {
+				"from": 136980,
+				"to": 139980
+			},
+			"text": " Aqui você consegue segmentar por tipo de lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,340",
+				"to": "00:02:22,100"
+			},
+			"offsets": {
+				"from": 140340,
+				"to": 142100
+			},
+			"text": " Você consegue colocar os filtros do seu lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,860",
+				"to": "00:02:26,140"
+			},
+			"offsets": {
+				"from": 142860,
+				"to": 146140
+			},
+			"text": " Você consegue selecionar quais leads você quer rodar a sua campanha."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,680",
+				"to": "00:02:28,040"
+			},
+			"offsets": {
+				"from": 147680,
+				"to": 148040
+			},
+			"text": " Então, aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,420",
+				"to": "00:02:30,460"
+			},
+			"offsets": {
+				"from": 148420,
+				"to": 150460
+			},
+			"text": " Eu vou selecionar aqui só no filtro de lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,540",
+				"to": "00:02:31,860"
+			},
+			"offsets": {
+				"from": 150540,
+				"to": 151860
+			},
+			"text": " Eu vou colocar limite de 20."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,920",
+				"to": "00:02:34,580"
+			},
+			"offsets": {
+				"from": 152920,
+				"to": 154580
+			},
+			"text": " Quero rodar só para 20 leads aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,360",
+				"to": "00:02:35,800"
+			},
+			"offsets": {
+				"from": 155360,
+				"to": 155800
+			},
+			"text": " Então, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,900",
+				"to": "00:02:37,100"
+			},
+			"offsets": {
+				"from": 155900,
+				"to": 157100
+			},
+			"text": " Eu vou selecionar esses 20 leads."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,400",
+				"to": "00:02:41,420"
+			},
+			"offsets": {
+				"from": 158400,
+				"to": 161420
+			},
+			"text": " Aqui a gente tem a nossa parte de mensagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,460",
+				"to": "00:02:45,540"
+			},
+			"offsets": {
+				"from": 162460,
+				"to": 165540
+			},
+			"text": " Tem como você fazer um script de uma mensagem na aba Scripts."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,680",
+				"to": "00:02:47,180"
+			},
+			"offsets": {
+				"from": 166680,
+				"to": 167180
+			},
+			"text": " Beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,460",
+				"to": "00:02:48,780"
+			},
+			"offsets": {
+				"from": 167460,
+				"to": 168780
+			},
+			"text": " Vamos usar um texto normal mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,220",
+				"to": "00:02:50,620"
+			},
+			"offsets": {
+				"from": 169220,
+				"to": 170620
+			},
+			"text": " Aqui você coloca o nome da campanha."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,940",
+				"to": "00:02:51,720"
+			},
+			"offsets": {
+				"from": 170940,
+				"to": 171720
+			},
+			"text": " Então, campanha 1."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,600",
+				"to": "00:02:55,320"
+			},
+			"offsets": {
+				"from": 172600,
+				"to": 175320
+			},
+			"text": " Você consegue colocar variáveis de nome e cidade."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,460",
+				"to": "00:02:56,240"
+			},
+			"offsets": {
+				"from": 175460,
+				"to": 176240
+			},
+			"text": " Que ele é personalizado."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,340",
+				"to": "00:02:58,780"
+			},
+			"offsets": {
+				"from": 176340,
+				"to": 178780
+			},
+			"text": " Para cada lead ele vai pegar uma informação diferente aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,160",
+				"to": "00:02:59,640"
+			},
+			"offsets": {
+				"from": 179160,
+				"to": 179640
+			},
+			"text": " Então, nome."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,700",
+				"to": "00:03:02,200"
+			},
+			"offsets": {
+				"from": 179700,
+				"to": 182200
+			},
+			"text": " Ele vai pegar 100% o nome dos leads aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,320",
+				"to": "00:03:03,600"
+			},
+			"offsets": {
+				"from": 182320,
+				"to": 183600
+			},
+			"text": " Tipo, o nome das empresas."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,360",
+				"to": "00:03:04,740"
+			},
+			"offsets": {
+				"from": 184360,
+				"to": 184740
+			},
+			"text": " Cidade."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,800",
+				"to": "00:03:05,340"
+			},
+			"offsets": {
+				"from": 184800,
+				"to": 185340
+			},
+			"text": " A mesma coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,420",
+				"to": "00:03:07,020"
+			},
+			"offsets": {
+				"from": 185420,
+				"to": 187020
+			},
+			"text": " A cidade onde eles foram prospectados."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,600",
+				"to": "00:03:08,440"
+			},
+			"offsets": {
+				"from": 187600,
+				"to": 188440
+			},
+			"text": " E por assim vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,000",
+				"to": "00:03:10,740"
+			},
+			"offsets": {
+				"from": 189000,
+				"to": 190740
+			},
+			"text": " Então, vamos mandar uma mensagem só de teste mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,920",
+				"to": "00:03:11,580"
+			},
+			"offsets": {
+				"from": 190920,
+				"to": 191580
+			},
+			"text": " Vamos mandar um oi."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,920",
+				"to": "00:03:13,800"
+			},
+			"offsets": {
+				"from": 192920,
+				"to": 193800
+			},
+			"text": " Vamos segmentar aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,960",
+				"to": "00:03:15,040"
+			},
+			"offsets": {
+				"from": 193960,
+				"to": 195040
+			},
+			"text": " Intervalo entre mensagens."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,040",
+				"to": "00:03:18,840"
+			},
+			"offsets": {
+				"from": 196040,
+				"to": 198840
+			},
+			"text": " Vamos colocar 45."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,500",
+				"to": "00:03:20,540"
+			},
+			"offsets": {
+				"from": 199500,
+				"to": 200540
+			},
+			"text": " Por que 45?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,880",
+				"to": "00:03:21,400"
+			},
+			"offsets": {
+				"from": 200880,
+				"to": 201400
+			},
+			"text": " Porque, cara."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,460",
+				"to": "00:03:22,880"
+			},
+			"offsets": {
+				"from": 201460,
+				"to": 202880
+			},
+			"text": " Se você coloca um intervalo muito baixo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,260",
+				"to": "00:03:26,100"
+			},
+			"offsets": {
+				"from": 203260,
+				"to": 206100
+			},
+			"text": " Pode ser que seu WhatsApp seja bloqueado."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,540",
+				"to": "00:03:29,280"
+			},
+			"offsets": {
+				"from": 206540,
+				"to": 209280
+			},
+			"text": " Porque realmente o WhatsApp não deixa você fazer campanhas dessa forma."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,020",
+				"to": "00:03:33,540"
+			},
+			"offsets": {
+				"from": 210020,
+				"to": 213540
+			},
+			"text": " Porém, se você coloca um volume de mensagens alto."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,740",
+				"to": "00:03:37,700"
+			},
+			"offsets": {
+				"from": 213740,
+				"to": 217700
+			},
+			"text": " E uma quantidade de intervalo alta entre essas mensagens."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,320",
+				"to": "00:03:41,920"
+			},
+			"offsets": {
+				"from": 218320,
+				"to": 221920
+			},
+			"text": " Você consegue meio que despistar um pouco esse bloqueio."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,700",
+				"to": "00:03:47,860"
+			},
+			"offsets": {
+				"from": 222700,
+				"to": 227860
+			},
+			"text": " Ah, eu não vou vir aqui te falar que é garantido que você não vai ser bloqueado se você exagerar."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,020",
+				"to": "00:03:53,260"
+			},
+			"offsets": {
+				"from": 228020,
+				"to": 233260
+			},
+			"text": " Se você for fazer 100 leads em menos de uma hora a chance de ser bloqueado é grande."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,400",
+				"to": "00:03:57,080"
+			},
+			"offsets": {
+				"from": 234400,
+				"to": 237080
+			},
+			"text": " Só que se você usar a variação de intervalo aqui dentro."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,860",
+				"to": "00:04:01,680"
+			},
+			"offsets": {
+				"from": 237860,
+				"to": 241680
+			},
+			"text": " Junto com um tempo grande, tempo legal aqui de intervalo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,080",
+				"to": "00:04:05,040"
+			},
+			"offsets": {
+				"from": 242080,
+				"to": 245040
+			},
+			"text": " Você pode ver que o risco é baixo de você ser banido."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,360",
+				"to": "00:04:06,420"
+			},
+			"offsets": {
+				"from": 245360,
+				"to": 246420
+			},
+			"text": " De você ser bloqueado."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,940",
+				"to": "00:04:08,900"
+			},
+			"offsets": {
+				"from": 246940,
+				"to": 248900
+			},
+			"text": " Eu uso aqui nos 45 segundos."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,240",
+				"to": "00:04:10,080"
+			},
+			"offsets": {
+				"from": 249240,
+				"to": 250080
+			},
+			"text": " Que o risco é baixo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,860",
+				"to": "00:04:15,260"
+			},
+			"offsets": {
+				"from": 251860,
+				"to": 255260
+			},
+			"text": " E aí ele mostra aqui até que o limite seguro ali é 100 leads por dia."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,380",
+				"to": "00:04:16,960"
+			},
+			"offsets": {
+				"from": 256380,
+				"to": 256960
+			},
+			"text": " Cara, beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,360",
+				"to": "00:04:18,300"
+			},
+			"offsets": {
+				"from": 257360,
+				"to": 258300
+			},
+			"text": " Você vai mandar aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,500",
+				"to": "00:04:19,520"
+			},
+			"offsets": {
+				"from": 258500,
+				"to": 259520
+			},
+			"text": " Já colocou sua mensagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,640",
+				"to": "00:04:21,440"
+			},
+			"offsets": {
+				"from": 259640,
+				"to": 261440
+			},
+			"text": " Você consegue ver o preview que vai chegar para o cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,560",
+				"to": "00:04:22,960"
+			},
+			"offsets": {
+				"from": 261560,
+				"to": 262960
+			},
+			"text": " Se eu tivesse colocado aqui um nome."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,580",
+				"to": "00:04:24,380"
+			},
+			"offsets": {
+				"from": 263580,
+				"to": 264380
+			},
+			"text": " Você pode ver aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,840",
+				"to": "00:04:26,320"
+			},
+			"offsets": {
+				"from": 264840,
+				"to": 266320
+			},
+			"text": " Ele já vem o nome da empresa."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,920",
+				"to": "00:04:27,780"
+			},
+			"offsets": {
+				"from": 266920,
+				"to": 267780
+			},
+			"text": " Mas eu não vou colocar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,500",
+				"to": "00:04:31,900"
+			},
+			"offsets": {
+				"from": 269500,
+				"to": 271900
+			},
+			"text": " Então, vamos rodar aqui a campanha."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,040",
+				"to": "00:04:32,640"
+			},
+			"offsets": {
+				"from": 272040,
+				"to": 272640
+			},
+			"text": " Vamos disparar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,500",
+				"to": "00:04:36,020"
+			},
+			"offsets": {
+				"from": 274500,
+				"to": 276020
+			},
+			"text": " Ele vai pegar as informações do lead."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,020",
+				"to": "00:04:37,320"
+			},
+			"offsets": {
+				"from": 276020,
+				"to": 277320
+			},
+			"text": " E vai mandar aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,660",
+				"to": "00:04:38,760"
+			},
+			"offsets": {
+				"from": 277660,
+				"to": 278760
+			},
+			"text": " Essas 24 horas."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,320",
+				"to": "00:04:41,520"
+			},
+			"offsets": {
+				"from": 279320,
+				"to": 281520
+			},
+			"text": " Já mandou aqui a mensagem no WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,920",
+				"to": "00:04:43,320"
+			},
+			"offsets": {
+				"from": 281920,
+				"to": 283320
+			},
+			"text": " Se você abrir seu WhatsApp agora."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,440",
+				"to": "00:04:45,100"
+			},
+			"offsets": {
+				"from": 283440,
+				"to": 285100
+			},
+			"text": " Você vai ver que ele já mandou a mensagem também."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,000",
+				"to": "00:04:46,320"
+			},
+			"offsets": {
+				"from": 286000,
+				"to": 286320
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,380",
+				"to": "00:04:46,920"
+			},
+			"offsets": {
+				"from": 286380,
+				"to": 286920
+			},
+			"text": " Rapaziada."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,160",
+				"to": "00:04:48,380"
+			},
+			"offsets": {
+				"from": 287160,
+				"to": 288380
+			},
+			"text": " A aba de esse zap, cara."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,660",
+				"to": "00:04:49,680"
+			},
+			"offsets": {
+				"from": 288660,
+				"to": 289680
+			},
+			"text": " Ela não tem segredo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,820",
+				"to": "00:04:51,780"
+			},
+			"offsets": {
+				"from": 289820,
+				"to": 291780
+			},
+			"text": " É realmente entre você ficar conectando."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,120",
+				"to": "00:04:53,160"
+			},
+			"offsets": {
+				"from": 292120,
+				"to": 293160
+			},
+			"text": " Abrir o seu servidor."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,020",
+				"to": "00:04:54,700"
+			},
+			"offsets": {
+				"from": 294020,
+				"to": 294700
+			},
+			"text": " E, cara."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,120",
+				"to": "00:04:56,380"
+			},
+			"offsets": {
+				"from": 295120,
+				"to": 296380
+			},
+			"text": " Fazer as suas campanhas."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,520",
+				"to": "00:04:57,720"
+			},
+			"offsets": {
+				"from": 296520,
+				"to": 297720
+			},
+			"text": " Conversar com seus clientes."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,820",
+				"to": "00:04:58,940"
+			},
+			"offsets": {
+				"from": 297820,
+				"to": 298940
+			},
+			"text": " Conversar com seus leads ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,600",
+				"to": "00:05:00,540"
+			},
+			"offsets": {
+				"from": 299600,
+				"to": 300540
+			},
+			"text": " Até você fechar."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,240",
+				"to": "00:05:01,960"
+			},
+			"offsets": {
+				"from": 301240,
+				"to": 301960
+			},
+			"text": " Legal aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,540",
+				"to": "00:05:04,660"
+			},
+			"offsets": {
+				"from": 302540,
+				"to": 304660
+			},
+			"text": " É que ele pula os números que não tem o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,520",
+				"to": "00:05:06,400"
+			},
+			"offsets": {
+				"from": 305520,
+				"to": 306400
+			},
+			"text": " Então, por exemplo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,400",
+				"to": "00:05:07,220"
+			},
+			"offsets": {
+				"from": 306400,
+				"to": 307220
+			},
+			"text": " Essa campanha aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,320",
+				"to": "00:05:09,240"
+			},
+			"offsets": {
+				"from": 307320,
+				"to": 309240
+			},
+			"text": " Ele mandou algumas mensagens já."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,020",
+				"to": "00:05:15,040"
+			},
+			"offsets": {
+				"from": 310020,
+				"to": 315040
+			},
+			"text": " E ele pula as mensagens que não tem o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,160",
+				"to": "00:05:16,340"
+			},
+			"offsets": {
+				"from": 315160,
+				"to": 316340
+			},
+			"text": " Os leads que não tem o WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,380",
+				"to": "00:05:17,620"
+			},
+			"offsets": {
+				"from": 316380,
+				"to": 317620
+			},
+			"text": " Que o WhatsApp está desatualizado."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,700",
+				"to": "00:05:19,320"
+			},
+			"offsets": {
+				"from": 318700,
+				"to": 319320
+			},
+			"text": " Mas, bom, gente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,760",
+				"to": "00:05:20,240"
+			},
+			"offsets": {
+				"from": 319760,
+				"to": 320240
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,480",
+				"to": "00:05:21,360"
+			},
+			"offsets": {
+				"from": 320480,
+				"to": 321360
+			},
+			"text": " Cara, é muito simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,800",
+				"to": "00:05:22,160"
+			},
+			"offsets": {
+				"from": 321800,
+				"to": 322160
+			},
+			"text": " Usem."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,320",
+				"to": "00:05:22,980"
+			},
+			"offsets": {
+				"from": 322320,
+				"to": 322980
+			},
+			"text": " Eu uso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,580",
+				"to": "00:05:24,940"
+			},
+			"offsets": {
+				"from": 323580,
+				"to": 324940
+			},
+			"text": " Uma galera do site que está usando."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,060",
+				"to": "00:05:27,300"
+			},
+			"offsets": {
+				"from": 325060,
+				"to": 327300
+			},
+			"text": " Já tem gente prospectando cliente aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,380",
+				"to": "00:05:28,360"
+			},
+			"offsets": {
+				"from": 327380,
+				"to": 328360
+			},
+			"text": " Já conseguindo cliente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,740",
+				"to": "00:05:30,120"
+			},
+			"offsets": {
+				"from": 328740,
+				"to": 330120
+			},
+			"text": " Eu já recebi no meu WhatsApp."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,020",
+				"to": "00:05:31,780"
+			},
+			"offsets": {
+				"from": 331020,
+				"to": 331780
+			},
+			"text": " Então, assim, gente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,560",
+				"to": "00:05:33,040"
+			},
+			"offsets": {
+				"from": 332560,
+				"to": 333040
+			},
+			"text": " É isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,200",
+				"to": "00:05:33,960"
+			},
+			"offsets": {
+				"from": 333200,
+				"to": 333960
+			},
+			"text": " Fiquem com Deus."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,160",
+				"to": "00:05:34,900"
+			},
+			"offsets": {
+				"from": 334160,
+				"to": 334900
+			},
+			"text": " Um abraço."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,260",
+				"to": "00:05:36,020"
+			},
+			"offsets": {
+				"from": 335260,
+				"to": 336020
+			},
+			"text": " Vamos fazer dinheiro."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,300",
+				"to": "00:05:36,780"
+			},
+			"offsets": {
+				"from": 336300,
+				"to": 336780
+			},
+			"text": " E tchau, tchau."
+		}
+	]
+}

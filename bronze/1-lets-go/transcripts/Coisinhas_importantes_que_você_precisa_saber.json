@@ -1,0 +1,1528 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,440",
+				"to": "00:00:05,080"
+			},
+			"offsets": {
+				"from": 440,
+				"to": 5080
+			},
+			"text": " Já vou imbicar nessa aula aqui, que eu já vou te mostrar algumas coisas que você precisa saber"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,080",
+				"to": "00:00:07,560"
+			},
+			"offsets": {
+				"from": 5080,
+				"to": 7560
+			},
+			"text": " para melhorar o seu dia a dia aí, utilizando o Masios."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,520",
+				"to": "00:00:10,180"
+			},
+			"offsets": {
+				"from": 8520,
+				"to": 10180
+			},
+			"text": " Então vamos lá, eu estou nesse chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,140",
+				"to": "00:00:15,640"
+			},
+			"offsets": {
+				"from": 11140,
+				"to": 15640
+			},
+			"text": " A primeira coisa que eu quero te mostrar, dentro aqui do Cloud Code, é isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,360",
+				"to": "00:00:22,100"
+			},
+			"offsets": {
+				"from": 16360,
+				"to": 22100
+			},
+			"text": " Nesse maisinho, você consegue enviar uma foto ou algum arquivo do seu computador,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,560",
+				"to": "00:00:23,720"
+			},
+			"offsets": {
+				"from": 22560,
+				"to": 23720
+			},
+			"text": " o que eu não utilizo muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,780",
+				"to": "00:00:29,560"
+			},
+			"offsets": {
+				"from": 24780,
+				"to": 29560
+			},
+			"text": " Normalmente, se eu quero enviar um print, alguma coisa, eu só dou o Ctrl V aqui e ele já cai aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,560",
+				"to": "00:00:34,680"
+			},
+			"offsets": {
+				"from": 29560,
+				"to": 34680
+			},
+			"text": " Ou eu arrasto o arquivo para uma das passas aqui do lado, que você vai aprender mais para frente."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,860",
+				"to": "00:00:41,160"
+			},
+			"offsets": {
+				"from": 35860,
+				"to": 41160
+			},
+			"text": " Nesse outro botãozinho aqui embaixo, você tem acesso a mais algumas coisas."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,460",
+				"to": "00:00:46,980"
+			},
+			"offsets": {
+				"from": 41460,
+				"to": 46980
+			},
+			"text": " Você consegue limpar a conversa, você consegue trocar o modelo, que eu já vou explicar o que é."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,620",
+				"to": "00:00:55,100"
+			},
+			"offsets": {
+				"from": 47620,
+				"to": 55100
+			},
+			"text": " Você consegue mudar o esforço do seu Cloud Code aqui, do seu modelo."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,580",
+				"to": "00:01:00,160"
+			},
+			"offsets": {
+				"from": 55580,
+				"to": 60160
+			},
+			"text": " Você consegue ativar o modo Thinking, que ele vai ter uma cadeia de pensamentos."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,600",
+				"to": "00:01:04,060"
+			},
+			"offsets": {
+				"from": 60600,
+				"to": 64060
+			},
+			"text": " Em Account Usage, você consegue ver o quanto você está gastando."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,300",
+				"to": "00:01:05,420"
+			},
+			"offsets": {
+				"from": 64300,
+				"to": 65420
+			},
+			"text": " O que mais? Togo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,580",
+				"to": "00:01:08,040"
+			},
+			"offsets": {
+				"from": 66580,
+				"to": 68040
+			},
+			"text": " Deixa eu ver aqui, mais agentes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,820",
+				"to": "00:01:09,260"
+			},
+			"offsets": {
+				"from": 68820,
+				"to": 69260
+			},
+			"text": " Memória."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,500",
+				"to": "00:01:10,260"
+			},
+			"offsets": {
+				"from": 69500,
+				"to": 70260
+			},
+			"text": " Mas é que você não vai usar."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,760",
+				"to": "00:01:12,460"
+			},
+			"offsets": {
+				"from": 70760,
+				"to": 72460
+			},
+			"text": " E aqui tem alguns comandos, está vendo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,460",
+				"to": "00:01:19,580"
+			},
+			"offsets": {
+				"from": 73460,
+				"to": 79580
+			},
+			"text": " Então, por exemplo, aqui já aparecem algumas skills do MasiOS, barra carrossel e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,360",
+				"to": "00:01:24,060"
+			},
+			"offsets": {
+				"from": 80360,
+				"to": 84060
+			},
+			"text": " O init, para a gente trocar o cloud.md."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,220",
+				"to": "00:01:29,300"
+			},
+			"offsets": {
+				"from": 85220,
+				"to": 89300
+			},
+			"text": " Normalmente, se você não sabe isso que eu estou falando, tem um vídeo no YouTube que eu explico cada conceito disso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,800",
+				"to": "00:01:43,160"
+			},
+			"offsets": {
+				"from": 90800,
+				"to": 103160
+			},
+			"text": " Então, por exemplo, se eu quero criar um carrossel, eu abro aqui um novo chat, eu dou barra carrossel e ele já vai criar um carrossel para mim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,240",
+				"to": "00:01:51,320"
+			},
+			"offsets": {
+				"from": 104240,
+				"to": 111320
+			},
+			"text": " Se o seu MasiOS não tiver aparecendo essas skills, carrossel, não sei o que, é porque você instalou errado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,740",
+				"to": "00:01:56,760"
+			},
+			"offsets": {
+				"from": 111740,
+				"to": 116760
+			},
+			"text": " Então, tem uma aula aqui no módulo importante, só te mostrando se você instalou errado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,560",
+				"to": "00:02:00,000"
+			},
+			"offsets": {
+				"from": 119560,
+				"to": 120000
+			},
+			"text": " Ok?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,560",
+				"to": "00:02:02,120"
+			},
+			"offsets": {
+				"from": 120560,
+				"to": 122120
+			},
+			"text": " Então, aqui você consegue dar barra."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,160",
+				"to": "00:02:03,820"
+			},
+			"offsets": {
+				"from": 122160,
+				"to": 123820
+			},
+			"text": " Eu vou até fechar, que eu não quero criar carrossel agora."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,480",
+				"to": "00:02:06,400"
+			},
+			"offsets": {
+				"from": 124480,
+				"to": 126400
+			},
+			"text": " Aí, tem outras coisas legais, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,460",
+				"to": "00:02:12,080"
+			},
+			"offsets": {
+				"from": 126460,
+				"to": 132080
+			},
+			"text": " Você pode usar o barra context para saber o quanto você está gastando de token aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,760",
+				"to": "00:02:14,160"
+			},
+			"offsets": {
+				"from": 132760,
+				"to": 134160
+			},
+			"text": " É um pouquinho mais avançado."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,240",
+				"to": "00:02:18,360"
+			},
+			"offsets": {
+				"from": 134240,
+				"to": 138360
+			},
+			"text": " Você tem barra compact para compactar o chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,460",
+				"to": "00:02:23,340"
+			},
+			"offsets": {
+				"from": 138460,
+				"to": 143340
+			},
+			"text": " Se você já está há muito tempo ali naquele chat conversando, você precisa compactar ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,980",
+				"to": "00:02:27,920"
+			},
+			"offsets": {
+				"from": 143980,
+				"to": 147920
+			},
+			"text": " Tem também, se você já está escrevendo muita coisa no mesmo chat, tem o barra clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,920",
+				"to": "00:02:34,480"
+			},
+			"offsets": {
+				"from": 147920,
+				"to": 154480
+			},
+			"text": " O barra clear vai limpar todo o seu chat para você parar de gastar muito token no mesmo chat e várias outras coisas."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,760",
+				"to": "00:02:38,600"
+			},
+			"offsets": {
+				"from": 154760,
+				"to": 158600
+			},
+			"text": " Mas, o que eu quero mais dizer aqui desse vídeo é isso daqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,080",
+				"to": "00:02:40,320"
+			},
+			"offsets": {
+				"from": 159080,
+				"to": 160320
+			},
+			"text": " Tem esses modos, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,480",
+				"to": "00:02:47,160"
+			},
+			"offsets": {
+				"from": 160480,
+				"to": 167160
+			},
+			"text": " Que é o Ask Before Edits, que o Cloud Code vai perguntar para mim se eu aprovo, sempre que ele for fazer alguma edição."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,720",
+				"to": "00:02:52,260"
+			},
+			"offsets": {
+				"from": 167720,
+				"to": 172260
+			},
+			"text": " Tem o Editar Automaticamente, que ele mesmo vai editar ali para mim."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,060",
+				"to": "00:02:55,320"
+			},
+			"offsets": {
+				"from": 173060,
+				"to": 175320
+			},
+			"text": " Tem o Plan Mode, que é muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,320",
+				"to": "00:03:01,840"
+			},
+			"offsets": {
+				"from": 175320,
+				"to": 181840
+			},
+			"text": " É onde, antes de você começar um projeto, você entra no Plan Mode, ele vai criar um plano para executar aquilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,940",
+				"to": "00:03:05,220"
+			},
+			"offsets": {
+				"from": 181940,
+				"to": 185220
+			},
+			"text": " E daí você fala, ó, pode executar esse plano ou não, modifica para isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,620",
+				"to": "00:03:09,460"
+			},
+			"offsets": {
+				"from": 185620,
+				"to": 189460
+			},
+			"text": " E depois que ele executar todo esse plano, você fala, não, agora pode meter marcha, meu amigo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,780",
+				"to": "00:03:11,020"
+			},
+			"offsets": {
+				"from": 189780,
+				"to": 191020
+			},
+			"text": " E daí ele vai executar esse plano."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,380",
+				"to": "00:03:12,400"
+			},
+			"offsets": {
+				"from": 191380,
+				"to": 192400
+			},
+			"text": " E tem o Auto Mode."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,880",
+				"to": "00:03:16,660"
+			},
+			"offsets": {
+				"from": 192880,
+				"to": 196660
+			},
+			"text": " Muitos de vocês estão confundindo, porque nas próximas aulas eu vou estar com o Auto Mode."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,140",
+				"to": "00:03:19,840"
+			},
+			"offsets": {
+				"from": 197140,
+				"to": 199840
+			},
+			"text": " Então, vai ficar um pouco diferente do seu."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,340",
+				"to": "00:03:25,640"
+			},
+			"offsets": {
+				"from": 200340,
+				"to": 205640
+			},
+			"text": " Porque se você estiver no Ask Before Edits ou Edit Automatically, ele fica perguntando para você."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,780",
+				"to": "00:03:27,240"
+			},
+			"offsets": {
+				"from": 205780,
+				"to": 207240
+			},
+			"text": " Ó, posso fazer essa modificação?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,400",
+				"to": "00:03:29,100"
+			},
+			"offsets": {
+				"from": 207400,
+				"to": 209100
+			},
+			"text": " Aí você tem que clicar em Yes ou No, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,880",
+				"to": "00:03:32,020"
+			},
+			"offsets": {
+				"from": 209880,
+				"to": 212020
+			},
+			"text": " No Auto Mode, ele nem pergunta."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,160",
+				"to": "00:03:33,520"
+			},
+			"offsets": {
+				"from": 212160,
+				"to": 213520
+			},
+			"text": " Ele vai fuzilando."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,980",
+				"to": "00:03:38,120"
+			},
+			"offsets": {
+				"from": 213980,
+				"to": 218120
+			},
+			"text": " Então, dependendo do que eu estou criando, eu deixo no Auto Mode para ele ir criando tudo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,480",
+				"to": "00:03:42,780"
+			},
+			"offsets": {
+				"from": 218480,
+				"to": 222780
+			},
+			"text": " Se for uma coisa um pouco mais complexa, mais delicada, eu deixo em um desses dois."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,900",
+				"to": "00:03:47,260"
+			},
+			"offsets": {
+				"from": 223900,
+				"to": 227260
+			},
+			"text": " Para você ativar o Auto Mode, é só você perguntar aqui para o Claudinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,700",
+				"to": "00:03:51,940"
+			},
+			"offsets": {
+				"from": 227700,
+				"to": 231940
+			},
+			"text": " Como eu ativo o Auto Mode no meu Cloud?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,120",
+				"to": "00:03:53,580"
+			},
+			"offsets": {
+				"from": 232120,
+				"to": 233580
+			},
+			"text": " Pronto, ele vai te dar o passo a passo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:53,800",
+				"to": "00:03:54,860"
+			},
+			"offsets": {
+				"from": 233800,
+				"to": 234860
+			},
+			"text": " Ou você joga no Google."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,400",
+				"to": "00:04:03,120"
+			},
+			"offsets": {
+				"from": 235400,
+				"to": 243120
+			},
+			"text": " Mas o meu, basicamente eu entrei lá no Cloud, no site do Cloud, e ativei lá o Auto Mode."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,260",
+				"to": "00:04:06,160"
+			},
+			"offsets": {
+				"from": 243260,
+				"to": 246160
+			},
+			"text": " É muito simples, você consegue ativar até por dentro aqui do VS Code."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,440",
+				"to": "00:04:09,440"
+			},
+			"offsets": {
+				"from": 246440,
+				"to": 249440
+			},
+			"text": " Já faz tempo que eu fiz, então eu nem sei te falar o passo a passo aqui, mas é muito simples."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,540",
+				"to": "00:04:11,460"
+			},
+			"offsets": {
+				"from": 249540,
+				"to": 251460
+			},
+			"text": " É só você jogar no Google que você consegue fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,140",
+				"to": "00:04:15,040"
+			},
+			"offsets": {
+				"from": 253140,
+				"to": 255040
+			},
+			"text": " É isso, acho que basicamente é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,180",
+				"to": "00:04:20,140"
+			},
+			"offsets": {
+				"from": 255180,
+				"to": 260140
+			},
+			"text": " Outra dúvida que muitos têm, se eu apertar Ctrl, aspas, está vendo que abre o terminal aqui?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,400",
+				"to": "00:04:23,180"
+			},
+			"offsets": {
+				"from": 261400,
+				"to": 263180
+			},
+			"text": " Isso daqui é o PowerShell."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,420",
+				"to": "00:04:25,480"
+			},
+			"offsets": {
+				"from": 263420,
+				"to": 265480
+			},
+			"text": " Tem muita gente que está com dúvida do PowerShell."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,560",
+				"to": "00:04:29,720"
+			},
+			"offsets": {
+				"from": 265560,
+				"to": 269720
+			},
+			"text": " Ah, para mim fica parecendo se eu aceito o PowerShell ou não."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,940",
+				"to": "00:04:36,280"
+			},
+			"offsets": {
+				"from": 269940,
+				"to": 276280
+			},
+			"text": " O PowerShell é porque tem coisas que você não vai conseguir fazer escrevendo aqui o prompt aqui em cima."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,760",
+				"to": "00:04:41,700"
+			},
+			"offsets": {
+				"from": 276760,
+				"to": 281700
+			},
+			"text": " Então, o próprio Claudio vai falar, posso mandar esse comando no PowerShell?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,700",
+				"to": "00:04:49,360"
+			},
+			"offsets": {
+				"from": 281700,
+				"to": 289360
+			},
+			"text": " É isso, é basicamente o Cloud mandando um comando aqui no terminal para conseguir ativar alguma coisa dentro do seu computador e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,580",
+				"to": "00:04:49,920"
+			},
+			"offsets": {
+				"from": 289580,
+				"to": 289920
+			},
+			"text": " Entende?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,220",
+				"to": "00:04:52,220"
+			},
+			"offsets": {
+				"from": 290220,
+				"to": 292220
+			},
+			"text": " Então, se ele falar, posso prosseguir com o PowerShell?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,440",
+				"to": "00:04:54,400"
+			},
+			"offsets": {
+				"from": 292440,
+				"to": 294400
+			},
+			"text": " Aperta Yes e é isso, entendeu?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:54,820",
+				"to": "00:04:56,440"
+			},
+			"offsets": {
+				"from": 294820,
+				"to": 296440
+			},
+			"text": " Deixa o Claudinho tocar o barco."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,260",
+				"to": "00:04:58,180"
+			},
+			"offsets": {
+				"from": 297260,
+				"to": 298180
+			},
+			"text": " Então, basicamente é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,200",
+				"to": "00:04:59,700"
+			},
+			"offsets": {
+				"from": 298200,
+				"to": 299700
+			},
+			"text": " Outra dúvida que muitos têm é sobre PowerShell."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:00,300",
+				"to": "00:05:01,180"
+			},
+			"offsets": {
+				"from": 300300,
+				"to": 301180
+			},
+			"text": " O que é PowerShell?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,260",
+				"to": "00:05:03,560"
+			},
+			"offsets": {
+				"from": 301260,
+				"to": 303560
+			},
+			"text": " O PowerShell é o terminal do Windows."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,400",
+				"to": "00:05:07,720"
+			},
+			"offsets": {
+				"from": 304400,
+				"to": 307720
+			},
+			"text": " No Mac é outro nome, no Linux é outro nome e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,000",
+				"to": "00:05:08,280"
+			},
+			"offsets": {
+				"from": 308000,
+				"to": 308280
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,560",
+				"to": "00:05:12,620"
+			},
+			"offsets": {
+				"from": 308560,
+				"to": 312620
+			},
+			"text": " Então, se seu Claudio falar, posso prosseguir com o PowerShell e aparecer Yes ou No?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,740",
+				"to": "00:05:14,620"
+			},
+			"offsets": {
+				"from": 312740,
+				"to": 314620
+			},
+			"text": " Clica Yes ali e mete marcha."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,900",
+				"to": "00:05:15,200"
+			},
+			"offsets": {
+				"from": 314900,
+				"to": 315200
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,860",
+				"to": "00:05:19,200"
+			},
+			"offsets": {
+				"from": 315860,
+				"to": 319200
+			},
+			"text": " Então, dúvidas sobre aqui se você consegue trocar o modelo."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,580",
+				"to": "00:05:24,200"
+			},
+			"offsets": {
+				"from": 320580,
+				"to": 324200
+			},
+			"text": " Eu utilizo, na maioria das vezes, o Opus, independente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,720",
+				"to": "00:05:30,820"
+			},
+			"offsets": {
+				"from": 324720,
+				"to": 330820
+			},
+			"text": " Tem gente que fala, eu uso o Opus mais para planejar e depois na parte de executar eu uso o Sone, que gasta menos token."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,180",
+				"to": "00:05:34,680"
+			},
+			"offsets": {
+				"from": 332180,
+				"to": 334680
+			},
+			"text": " Dependendo da tarefa diária, você deixa o Raico."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,380",
+				"to": "00:05:35,960"
+			},
+			"offsets": {
+				"from": 335380,
+				"to": 335960
+			},
+			"text": " O que é isso?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,040",
+				"to": "00:05:38,040"
+			},
+			"offsets": {
+				"from": 336040,
+				"to": 338040
+			},
+			"text": " São os modelos da Anthropic."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,560",
+				"to": "00:05:48,080"
+			},
+			"offsets": {
+				"from": 338560,
+				"to": 348080
+			},
+			"text": " O Opus, que é esse daqui, que é o default, o padrão, ele é o mais inteligente e o que mais vai gastar os seus tokens ali nas tarefas."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,200",
+				"to": "00:05:49,500"
+			},
+			"offsets": {
+				"from": 348200,
+				"to": 349500
+			},
+			"text": " Porém, ele é mais inteligente."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,660",
+				"to": "00:05:51,640"
+			},
+			"offsets": {
+				"from": 349660,
+				"to": 351640
+			},
+			"text": " O design dele é melhor, as coisas são melhores."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,180",
+				"to": "00:05:58,020"
+			},
+			"offsets": {
+				"from": 352180,
+				"to": 358020
+			},
+			"text": " O Sone, ele até fala aqui, best for everyday tasks, melhor para tarefas diárias."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,240",
+				"to": "00:06:02,940"
+			},
+			"offsets": {
+				"from": 358240,
+				"to": 362940
+			},
+			"text": " Então, ele é mais executável, ele é ali para você fuzilar mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,360",
+				"to": "00:06:07,120"
+			},
+			"offsets": {
+				"from": 363360,
+				"to": 367120
+			},
+			"text": " E o Raico, ele é mais para coisas mais simples ali, mas que você pode usar."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,240",
+				"to": "00:06:10,300"
+			},
+			"offsets": {
+				"from": 367240,
+				"to": 370300
+			},
+			"text": " Os três funcionam muito bem, é só você saber quando usar cada."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,560",
+				"to": "00:06:14,540"
+			},
+			"offsets": {
+				"from": 370560,
+				"to": 374540
+			},
+			"text": " Vou falar real para você, deixa, se você está aprendendo, deixa no Opus ali, estou orando mesmo."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,940",
+				"to": "00:06:16,620"
+			},
+			"offsets": {
+				"from": 374940,
+				"to": 376620
+			},
+			"text": " Se estiver gastando muito token, você vai para o Sone."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,840",
+				"to": "00:06:21,360"
+			},
+			"offsets": {
+				"from": 376840,
+				"to": 381360
+			},
+			"text": " Mas, dependendo, deixa no Opus ali, meu amigo, porque seu trabalho vai ficar melhor."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,800",
+				"to": "00:06:25,080"
+			},
+			"offsets": {
+				"from": 382800,
+				"to": 385080
+			},
+			"text": " Dependendo, ah, não, preciso economizar, estou com o plano Pro."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,360",
+				"to": "00:06:31,340"
+			},
+			"offsets": {
+				"from": 385360,
+				"to": 391340
+			},
+			"text": " Deixa no Opus para você elaborar o trabalho e depois troca para o Sone aqui para gastar menos token."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,560",
+				"to": "00:06:36,460"
+			},
+			"offsets": {
+				"from": 391560,
+				"to": 396460
+			},
+			"text": " Então, é muito simples, você clica aqui nessa barrinha aqui, no maisinho, nessa quadradinha aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,840",
+				"to": "00:06:39,400"
+			},
+			"offsets": {
+				"from": 396840,
+				"to": 399400
+			},
+			"text": " Você vem em switch model e troca aqui, fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,760",
+				"to": "00:06:43,760"
+			},
+			"offsets": {
+				"from": 400760,
+				"to": 403760
+			},
+			"text": " Aqui, nem fica mudando muito não, às vezes ele mesmo muda, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,220",
+				"to": "00:06:47,340"
+			},
+			"offsets": {
+				"from": 404220,
+				"to": 407340
+			},
+			"text": " Deixa num high aqui, já está ótimo, que é o esforço que ele vai fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,760",
+				"to": "00:06:48,340"
+			},
+			"offsets": {
+				"from": 407760,
+				"to": 408340
+			},
+			"text": " E pronto."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,240",
+				"to": "00:06:54,240"
+			},
+			"offsets": {
+				"from": 409240,
+				"to": 414240
+			},
+			"text": " Muito importante, quando já tiver muito tempo no mesmo chat, dá um barra clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,360",
+				"to": "00:06:56,880"
+			},
+			"offsets": {
+				"from": 414360,
+				"to": 416880
+			},
+			"text": " Na verdade, com o MasOS, dá um barra atualizar."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,820",
+				"to": "00:07:01,480"
+			},
+			"offsets": {
+				"from": 417820,
+				"to": 421480
+			},
+			"text": " Esse barra atualizar, ele vai atualizar todo o seu contexto ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,920",
+				"to": "00:07:08,020"
+			},
+			"offsets": {
+				"from": 421920,
+				"to": 428020
+			},
+			"text": " Ele vai jogar para o MasOS tudo que você conversou ali no chat, se for coisa importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,620",
+				"to": "00:07:11,420"
+			},
+			"offsets": {
+				"from": 428620,
+				"to": 431420
+			},
+			"text": " Depois, você dá um barra clear, ele vai limpar o chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,060",
+				"to": "00:07:12,540"
+			},
+			"offsets": {
+				"from": 432060,
+				"to": 432540
+			},
+			"text": " Por quê?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,820",
+				"to": "00:07:21,160"
+			},
+			"offsets": {
+				"from": 432820,
+				"to": 441160
+			},
+			"text": " Se você está no mesmo chat há muito tempo, ah, criei um site, criei uma landing page, criei um blog, criei carrossel, tudo no mesmo chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:21,520",
+				"to": "00:07:26,180"
+			},
+			"offsets": {
+				"from": 441520,
+				"to": 446180
+			},
+			"text": " Sempre que você mandar um novo prompt, tipo, agora vamos fazer tal coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,900",
+				"to": "00:07:27,500"
+			},
+			"offsets": {
+				"from": 446900,
+				"to": 447500
+			},
+			"text": " O que ele vai fazer?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,040",
+				"to": "00:07:39,160"
+			},
+			"offsets": {
+				"from": 448040,
+				"to": 459160
+			},
+			"text": " Você vai mandar esse prompt, ele vai pegar tudo que você já escreveu, e que o Claudio também escreveu e fez, e vai jogar, e vai gastar mais tokens."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,320",
+				"to": "00:07:42,880"
+			},
+			"offsets": {
+				"from": 459320,
+				"to": 462880
+			},
+			"text": " Então, quanto mais mensagem você tem ali no chat, mais tokens vai gastar."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,360",
+				"to": "00:07:46,980"
+			},
+			"offsets": {
+				"from": 463360,
+				"to": 466980
+			},
+			"text": " Então, lembre-se de sempre que terminar uma tarefa, ah, agora eu preciso criar um site."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,620",
+				"to": "00:07:49,260"
+			},
+			"offsets": {
+				"from": 467620,
+				"to": 469260
+			},
+			"text": " Abra um chat novo aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,760",
+				"to": "00:07:59,200"
+			},
+			"offsets": {
+				"from": 470760,
+				"to": 479200
+			},
+			"text": " Comece a desenvolver, terminou de criar o site, dá um barra atualizar, e depois confirma, e barra clear, limpa o chat."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,720",
+				"to": "00:08:02,720"
+			},
+			"offsets": {
+				"from": 479720,
+				"to": 482720
+			},
+			"text": " Depois, ah, agora que eu já criei meu site, agora eu preciso criar um blog."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,360",
+				"to": "00:08:09,660"
+			},
+			"offsets": {
+				"from": 483360,
+				"to": 489660
+			},
+			"text": " Dá, abre outra aba, estrutura, cria seu blog, atualiza, limpa com barra clear."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,400",
+				"to": "00:08:14,140"
+			},
+			"offsets": {
+				"from": 490400,
+				"to": 494140
+			},
+			"text": " Ah, agora eu preciso criar um carrossel, abre outro chat, e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,140",
+				"to": "00:08:14,740"
+			},
+			"offsets": {
+				"from": 494140,
+				"to": 494740
+			},
+			"text": " Deu para entender?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,860",
+				"to": "00:08:17,080"
+			},
+			"offsets": {
+				"from": 494860,
+				"to": 497080
+			},
+			"text": " Você vai gastar muito menos token, isso é o básico, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,180",
+				"to": "00:08:19,460"
+			},
+			"offsets": {
+				"from": 497180,
+				"to": 499460
+			},
+			"text": " Depois eu vou trazer uma aula a mais de economia de token."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,900",
+				"to": "00:08:25,120"
+			},
+			"offsets": {
+				"from": 499900,
+				"to": 505120
+			},
+			"text": " Mas isso já é o básico, para você já começar a trabalhar com o MazeOS de uma maneira mais certeira."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,660",
+				"to": "00:08:31,840"
+			},
+			"offsets": {
+				"from": 505660,
+				"to": 511840
+			},
+			"text": " Ok, importante, ainda vai ter a instalação do MazeOS, você ainda vai ver usando no dia a dia, mas é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,980",
+				"to": "00:08:35,560"
+			},
+			"offsets": {
+				"from": 511980,
+				"to": 515560
+			},
+			"text": " É importante você já pegar esses pontos, que vai melhorar no seu dia a dia, você trabalhando."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,900",
+				"to": "00:08:36,260"
+			},
+			"offsets": {
+				"from": 515900,
+				"to": 516260
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,460",
+				"to": "00:08:38,500"
+			},
+			"offsets": {
+				"from": 516460,
+				"to": 518500
+			},
+			"text": " Tamo junto, até a próxima hora, let's go!"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,260",
+				"to": "00:08:41,940"
+			},
+			"offsets": {
+				"from": 520260,
+				"to": 521940
+			},
+			"text": " Será que eu falei tudo aqui que eu queria falar?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:45,220",
+				"to": "00:08:46,260"
+			},
+			"offsets": {
+				"from": 525220,
+				"to": 526260
+			},
+			"text": " Acho que eu falei, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,540",
+				"to": "00:08:49,360"
+			},
+			"offsets": {
+				"from": 526540,
+				"to": 529360
+			},
+			"text": " Questão do terminal, muita gente tem dúvida do PowerShell."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:49,360",
+				"to": "00:08:53,140"
+			},
+			"offsets": {
+				"from": 529360,
+				"to": 533140
+			},
+			"text": " Qualquer dúvida que você tiver, deixa aí nos comentários."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:53,420",
+				"to": "00:08:54,040"
+			},
+			"offsets": {
+				"from": 533420,
+				"to": 534040
+			},
+			"text": " Fechou, meu amigo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:54,120",
+				"to": "00:08:54,500"
+			},
+			"offsets": {
+				"from": 534120,
+				"to": 534500
+			},
+			"text": " É nóis!"
+		}
+	]
+}

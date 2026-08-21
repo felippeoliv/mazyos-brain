@@ -1,0 +1,2925 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,440"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3440
+			},
+			"text": " Obrigado por tudo mais um dia"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,440",
+				"to": "00:00:10,520"
+			},
+			"offsets": {
+				"from": 3440,
+				"to": 10520
+			},
+			"text": " Obrigado por tudo meu Deus, obrigado universo"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,520",
+				"to": "00:00:14,920"
+			},
+			"offsets": {
+				"from": 10520,
+				"to": 14920
+			},
+			"text": " Obrigado por ter um computador"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,920",
+				"to": "00:00:23,960"
+			},
+			"offsets": {
+				"from": 14920,
+				"to": 23960
+			},
+			"text": " Obrigado por ter pessoas que confiam em mim"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,960",
+				"to": "00:00:27,720"
+			},
+			"offsets": {
+				"from": 23960,
+				"to": 27720
+			},
+			"text": " Obrigado por ter uma namorada maravilhosa"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,720",
+				"to": "00:00:29,820"
+			},
+			"offsets": {
+				"from": 27720,
+				"to": 29820
+			},
+			"text": " Obrigado por ter conhecimento"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,820",
+				"to": "00:00:31,680"
+			},
+			"offsets": {
+				"from": 29820,
+				"to": 31680
+			},
+			"text": " Obrigado por ajudar os outros"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,680",
+				"to": "00:00:34,980"
+			},
+			"offsets": {
+				"from": 31680,
+				"to": 34980
+			},
+			"text": " Obrigado por atrair coisas boas"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,980",
+				"to": "00:00:36,640"
+			},
+			"offsets": {
+				"from": 34980,
+				"to": 36640
+			},
+			"text": " Obrigado por viajar o mundo"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,640",
+				"to": "00:00:40,540"
+			},
+			"offsets": {
+				"from": 36640,
+				"to": 40540
+			},
+			"text": " Obrigado por ter uma vida maravilhosa"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,540",
+				"to": "00:00:42,620"
+			},
+			"offsets": {
+				"from": 40540,
+				"to": 42620
+			},
+			"text": " Obrigado por ter um carro"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,620",
+				"to": "00:00:45,300"
+			},
+			"offsets": {
+				"from": 42620,
+				"to": 45300
+			},
+			"text": " Obrigado por ter onde tomar banho"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,300",
+				"to": "00:00:47,060"
+			},
+			"offsets": {
+				"from": 45300,
+				"to": 47060
+			},
+			"text": " Obrigado por ter uma cama"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,060",
+				"to": "00:00:49,760"
+			},
+			"offsets": {
+				"from": 47060,
+				"to": 49760
+			},
+			"text": " Obrigado por todas as oportunidades que atraem"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,760",
+				"to": "00:00:52,280"
+			},
+			"offsets": {
+				"from": 49760,
+				"to": 52280
+			},
+			"text": " Obrigado por ter uma família maravilhosa"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,280",
+				"to": "00:00:54,580"
+			},
+			"offsets": {
+				"from": 52280,
+				"to": 54580
+			},
+			"text": " Um pai maravilhoso, uma mãe maravilhosa"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,580",
+				"to": "00:00:56,040"
+			},
+			"offsets": {
+				"from": 54580,
+				"to": 56040
+			},
+			"text": " Abençoe meus avós"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,040",
+				"to": "00:00:57,400"
+			},
+			"offsets": {
+				"from": 56040,
+				"to": 57400
+			},
+			"text": " Abençoe meus irmãos"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,400",
+				"to": "00:00:59,640"
+			},
+			"offsets": {
+				"from": 57400,
+				"to": 59640
+			},
+			"text": " Abençoe meus inscritos"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,640",
+				"to": "00:01:02,700"
+			},
+			"offsets": {
+				"from": 59640,
+				"to": 62700
+			},
+			"text": " Abençoe as pessoas que acreditam no meu trabalho"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,700",
+				"to": "00:01:04,800"
+			},
+			"offsets": {
+				"from": 62700,
+				"to": 64800
+			},
+			"text": " Abençoe meus clientes"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,800",
+				"to": "00:01:05,860"
+			},
+			"offsets": {
+				"from": 64800,
+				"to": 65860
+			},
+			"text": " Só tenho a te agradecer"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,860",
+				"to": "00:01:11,220"
+			},
+			"offsets": {
+				"from": 65860,
+				"to": 71220
+			},
+			"text": " Obrigado por tirar coisas ruins do meu caminho"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,220",
+				"to": "00:01:12,840"
+			},
+			"offsets": {
+				"from": 71220,
+				"to": 72840
+			},
+			"text": " Só colocar coisas boas"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,840",
+				"to": "00:01:14,940"
+			},
+			"offsets": {
+				"from": 72840,
+				"to": 74940
+			},
+			"text": " Obrigado por ter saúde"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,940",
+				"to": "00:01:17,860"
+			},
+			"offsets": {
+				"from": 74940,
+				"to": 77860
+			},
+			"text": " Obrigado por ter um corpo funcional"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,860",
+				"to": "00:01:20,960"
+			},
+			"offsets": {
+				"from": 77860,
+				"to": 80960
+			},
+			"text": " Obrigado por ter uma mente milionária"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,960",
+				"to": "00:01:22,020"
+			},
+			"offsets": {
+				"from": 80960,
+				"to": 82020
+			},
+			"text": " Obrigado por falar"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,020",
+				"to": "00:01:25,720"
+			},
+			"offsets": {
+				"from": 82020,
+				"to": 85720
+			},
+			"text": " Obrigado por falar por andar por ter braço por ter perna por ter dedo"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,720",
+				"to": "00:01:26,860"
+			},
+			"offsets": {
+				"from": 85720,
+				"to": 86860
+			},
+			"text": " Obrigado por tudo"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,860",
+				"to": "00:01:29,300"
+			},
+			"offsets": {
+				"from": 86860,
+				"to": 89300
+			},
+			"text": " Pode me mandar mais universo"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,300",
+				"to": "00:01:30,400"
+			},
+			"offsets": {
+				"from": 89300,
+				"to": 90400
+			},
+			"text": " Eu tô pronto"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,400",
+				"to": "00:01:31,300"
+			},
+			"offsets": {
+				"from": 90400,
+				"to": 91300
+			},
+			"text": " Pode me mandar"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,300",
+				"to": "00:01:32,040"
+			},
+			"offsets": {
+				"from": 91300,
+				"to": 92040
+			},
+			"text": " Bom dia"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,040",
+				"to": "00:01:35,880"
+			},
+			"offsets": {
+				"from": 92040,
+				"to": 95880
+			},
+			"text": " Bom dia, tudo bem?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,240",
+				"to": "00:01:38,280"
+			},
+			"offsets": {
+				"from": 96240,
+				"to": 98280
+			},
+			"text": " Agora são seis e meia da manhã"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,280",
+				"to": "00:01:40,160"
+			},
+			"offsets": {
+				"from": 98280,
+				"to": 100160
+			},
+			"text": " Dormi bem pouco essa noite"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,160",
+				"to": "00:01:42,640"
+			},
+			"offsets": {
+				"from": 100160,
+				"to": 102640
+			},
+			"text": " Tô muito ansioso com todo esse projeto"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,640",
+				"to": "00:01:44,340"
+			},
+			"offsets": {
+				"from": 102640,
+				"to": 104340
+			},
+			"text": " Com tudo que eu tô criando"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,340",
+				"to": "00:01:47,400"
+			},
+			"offsets": {
+				"from": 104340,
+				"to": 107400
+			},
+			"text": " E o que eu queria falar pra você aqui nessa introdução"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,400",
+				"to": "00:01:49,640"
+			},
+			"offsets": {
+				"from": 107400,
+				"to": 109640
+			},
+			"text": " É que só de você tá aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,640",
+				"to": "00:01:51,640"
+			},
+			"offsets": {
+				"from": 109640,
+				"to": 111640
+			},
+			"text": " Assistindo essa aula aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,640",
+				"to": "00:01:53,520"
+			},
+			"offsets": {
+				"from": 111640,
+				"to": 113520
+			},
+			"text": " Você já tá à frente de"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,520",
+				"to": "00:01:55,000"
+			},
+			"offsets": {
+				"from": 113520,
+				"to": 115000
+			},
+			"text": " Sei lá"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,000",
+				"to": "00:01:58,220"
+			},
+			"offsets": {
+				"from": 115000,
+				"to": 118220
+			},
+			"text": " 99% do mundo"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,220",
+				"to": "00:02:01,860"
+			},
+			"offsets": {
+				"from": 118220,
+				"to": 121860
+			},
+			"text": " A quantidade de pessoas que não tem computador"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,860",
+				"to": "00:02:03,340"
+			},
+			"offsets": {
+				"from": 121860,
+				"to": 123340
+			},
+			"text": " Que não tem um celular"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,340",
+				"to": "00:02:04,780"
+			},
+			"offsets": {
+				"from": 123340,
+				"to": 124780
+			},
+			"text": " Ou que tem"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,780",
+				"to": "00:02:07,000"
+			},
+			"offsets": {
+				"from": 124780,
+				"to": 127000
+			},
+			"text": " Mas tá usando pra outras coisas"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,000",
+				"to": "00:02:08,080"
+			},
+			"offsets": {
+				"from": 127000,
+				"to": 128080
+			},
+			"text": " Outras finalidades"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,080",
+				"to": "00:02:09,380"
+			},
+			"offsets": {
+				"from": 128080,
+				"to": 129380
+			},
+			"text": " É absurdo"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,380",
+				"to": "00:02:10,820"
+			},
+			"offsets": {
+				"from": 129380,
+				"to": 130820
+			},
+			"text": " O que eu vou te passar aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,820",
+				"to": "00:02:14,260"
+			},
+			"offsets": {
+				"from": 130820,
+				"to": 134260
+			},
+			"text": " Tem literalmente potencial de mudar sua vida"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,260",
+				"to": "00:02:16,700"
+			},
+			"offsets": {
+				"from": 134260,
+				"to": 136700
+			},
+			"text": " De você criar paradas absurdas"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,700",
+				"to": "00:02:17,500"
+			},
+			"offsets": {
+				"from": 136700,
+				"to": 137500
+			},
+			"text": " Entregas"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,500",
+				"to": "00:02:18,380"
+			},
+			"offsets": {
+				"from": 137500,
+				"to": 138380
+			},
+			"text": " Ter resultado"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,380",
+				"to": "00:02:19,160"
+			},
+			"offsets": {
+				"from": 138380,
+				"to": 139160
+			},
+			"text": " Ganhar dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,160",
+				"to": "00:02:22,100"
+			},
+			"offsets": {
+				"from": 139160,
+				"to": 142100
+			},
+			"text": " Melhorar suas tarefas diárias"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,100",
+				"to": "00:02:22,680"
+			},
+			"offsets": {
+				"from": 142100,
+				"to": 142680
+			},
+			"text": " Que seja"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,680",
+				"to": "00:02:25,460"
+			},
+			"offsets": {
+				"from": 142680,
+				"to": 145460
+			},
+			"text": " Mas você não vai conseguir fazer nada disso"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,460",
+				"to": "00:02:28,580"
+			},
+			"offsets": {
+				"from": 145460,
+				"to": 148580
+			},
+			"text": " Se você não tiver alinhado consigo mesmo"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,580",
+				"to": "00:02:30,820"
+			},
+			"offsets": {
+				"from": 148580,
+				"to": 150820
+			},
+			"text": " Se você não tiver usando pra uma coisa"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,820",
+				"to": "00:02:32,920"
+			},
+			"offsets": {
+				"from": 150820,
+				"to": 152920
+			},
+			"text": " Que realmente você veja que faz sentido"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,920",
+				"to": "00:02:34,620"
+			},
+			"offsets": {
+				"from": 152920,
+				"to": 154620
+			},
+			"text": " E que te mova"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,620",
+				"to": "00:02:36,740"
+			},
+			"offsets": {
+				"from": 154620,
+				"to": 156740
+			},
+			"text": " Nem tem pra que eu ficar enchendo linguiça"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,740",
+				"to": "00:02:38,100"
+			},
+			"offsets": {
+				"from": 156740,
+				"to": 158100
+			},
+			"text": " Porque você já pagou pra entrar"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,100",
+				"to": "00:02:40,040"
+			},
+			"offsets": {
+				"from": 158100,
+				"to": 160040
+			},
+			"text": " Eu quero realmente te passar uma visão"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,040",
+				"to": "00:02:41,380"
+			},
+			"offsets": {
+				"from": 160040,
+				"to": 161380
+			},
+			"text": " E tentar agregar na sua vida"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,380",
+				"to": "00:02:42,840"
+			},
+			"offsets": {
+				"from": 161380,
+				"to": 162840
+			},
+			"text": " Porque eu sei que"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,840",
+				"to": "00:02:44,700"
+			},
+			"offsets": {
+				"from": 162840,
+				"to": 164700
+			},
+			"text": " Quanto mais eu ajudar as pessoas"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,700",
+				"to": "00:02:46,900"
+			},
+			"offsets": {
+				"from": 164700,
+				"to": 166900
+			},
+			"text": " Mais eu vou ser ajudado"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,900",
+				"to": "00:02:48,140"
+			},
+			"offsets": {
+				"from": 166900,
+				"to": 168140
+			},
+			"text": " Mais eu vou ganhar dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,140",
+				"to": "00:02:50,320"
+			},
+			"offsets": {
+				"from": 168140,
+				"to": 170320
+			},
+			"text": " Mais coisas boas vão voltar pra mim"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,320",
+				"to": "00:02:53,600"
+			},
+			"offsets": {
+				"from": 170320,
+				"to": 173600
+			},
+			"text": " E é uma ciência natural"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,600",
+				"to": "00:02:56,040"
+			},
+			"offsets": {
+				"from": 173600,
+				"to": 176040
+			},
+			"text": " Eu acredito muito no universo"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,040",
+				"to": "00:02:57,060"
+			},
+			"offsets": {
+				"from": 176040,
+				"to": 177060
+			},
+			"text": " Acredito muito em Deus"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,060",
+				"to": "00:02:58,240"
+			},
+			"offsets": {
+				"from": 177060,
+				"to": 178240
+			},
+			"text": " Acredito muito em energia"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,240",
+				"to": "00:03:01,140"
+			},
+			"offsets": {
+				"from": 178240,
+				"to": 181140
+			},
+			"text": " E acho que se você já viu algum vídeo meu"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,140",
+				"to": "00:03:02,680"
+			},
+			"offsets": {
+				"from": 181140,
+				"to": 182680
+			},
+			"text": " Você já viu o meu quadro dos sonhos"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:02,680",
+				"to": "00:03:03,420"
+			},
+			"offsets": {
+				"from": 182680,
+				"to": 183420
+			},
+			"text": " Aqui do momento"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,420",
+				"to": "00:03:06,000"
+			},
+			"offsets": {
+				"from": 183420,
+				"to": 186000
+			},
+			"text": " Então aqui tem várias paradas"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,000",
+				"to": "00:03:08,920"
+			},
+			"offsets": {
+				"from": 186000,
+				"to": 188920
+			},
+			"text": " Tem lugares que eu quero ir"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:08,920",
+				"to": "00:03:12,960"
+			},
+			"offsets": {
+				"from": 188920,
+				"to": 192960
+			},
+			"text": " Aqui é o lugar onde eu quero pedir minha namorada em casamento"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:12,960",
+				"to": "00:03:13,580"
+			},
+			"offsets": {
+				"from": 192960,
+				"to": 193580
+			},
+			"text": " Tem o carro"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,580",
+				"to": "00:03:14,880"
+			},
+			"offsets": {
+				"from": 193580,
+				"to": 194880
+			},
+			"text": " Eu tenho um carro exatamente igual"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,880",
+				"to": "00:03:16,420"
+			},
+			"offsets": {
+				"from": 194880,
+				"to": 196420
+			},
+			"text": " Mas ele é branco"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,420",
+				"to": "00:03:17,040"
+			},
+			"offsets": {
+				"from": 196420,
+				"to": 197040
+			},
+			"text": " Ele é 2020"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,040",
+				"to": "00:03:18,260"
+			},
+			"offsets": {
+				"from": 197040,
+				"to": 198260
+			},
+			"text": " Eu quero um mais novo"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:18,260",
+				"to": "00:03:21,960"
+			},
+			"offsets": {
+				"from": 198260,
+				"to": 201960
+			},
+			"text": " Não tenho pira em Porsche"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,960",
+				"to": "00:03:23,060"
+			},
+			"offsets": {
+				"from": 201960,
+				"to": 203060
+			},
+			"text": " Sei lá o que"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,060",
+				"to": "00:03:26,060"
+			},
+			"offsets": {
+				"from": 203060,
+				"to": 206060
+			},
+			"text": " Tem os lugares que eu quero ir"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,060",
+				"to": "00:03:27,380"
+			},
+			"offsets": {
+				"from": 206060,
+				"to": 207380
+			},
+			"text": " Tem a casa que eu quero ter"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,380",
+				"to": "00:03:29,840"
+			},
+			"offsets": {
+				"from": 207380,
+				"to": 209840
+			},
+			"text": " Tem uma estante de livro gigantesco"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,840",
+				"to": "00:03:31,200"
+			},
+			"offsets": {
+				"from": 209840,
+				"to": 211200
+			},
+			"text": " Eu gosto bastante de ler"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,200",
+				"to": "00:03:32,280"
+			},
+			"offsets": {
+				"from": 211200,
+				"to": 212280
+			},
+			"text": " Tem IA"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,280",
+				"to": "00:03:33,940"
+			},
+			"offsets": {
+				"from": 212280,
+				"to": 213940
+			},
+			"text": " Tem o meu canal no YouTube"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,940",
+				"to": "00:03:35,420"
+			},
+			"offsets": {
+				"from": 213940,
+				"to": 215420
+			},
+			"text": " Com 125 mil inscritos"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,420",
+				"to": "00:03:36,160"
+			},
+			"offsets": {
+				"from": 215420,
+				"to": 216160
+			},
+			"text": " Tem Disney"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,160",
+				"to": "00:03:37,500"
+			},
+			"offsets": {
+				"from": 216160,
+				"to": 217500
+			},
+			"text": " Tem um quarto bonito"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,500",
+				"to": "00:03:39,780"
+			},
+			"offsets": {
+				"from": 217500,
+				"to": 219780
+			},
+			"text": " Tem o lugar que minha namorada quer casar"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,780",
+				"to": "00:03:40,160"
+			},
+			"offsets": {
+				"from": 219780,
+				"to": 220160
+			},
+			"text": " Ixi"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:40,160",
+				"to": "00:03:41,520"
+			},
+			"offsets": {
+				"from": 220160,
+				"to": 221520
+			},
+			"text": " Tem bastante coisa aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,520",
+				"to": "00:03:42,620"
+			},
+			"offsets": {
+				"from": 221520,
+				"to": 222620
+			},
+			"text": " Mas"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,620",
+				"to": "00:03:43,540"
+			},
+			"offsets": {
+				"from": 222620,
+				"to": 223540
+			},
+			"text": " Bom"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,540",
+				"to": "00:03:45,500"
+			},
+			"offsets": {
+				"from": 223540,
+				"to": 225500
+			},
+			"text": " O que você tá falando né cara"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,500",
+				"to": "00:03:46,460"
+			},
+			"offsets": {
+				"from": 225500,
+				"to": 226460
+			},
+			"text": " Seis da manhã"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,460",
+				"to": "00:03:48,920"
+			},
+			"offsets": {
+				"from": 226460,
+				"to": 228920
+			},
+			"text": " Primeira aula da parada"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,920",
+				"to": "00:03:50,300"
+			},
+			"offsets": {
+				"from": 228920,
+				"to": 230300
+			},
+			"text": " Você falando tudo isso"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,300",
+				"to": "00:03:52,080"
+			},
+			"offsets": {
+				"from": 230300,
+				"to": 232080
+			},
+			"text": " O que eu quero te dizer é o seguinte"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,080",
+				"to": "00:03:54,540"
+			},
+			"offsets": {
+				"from": 232080,
+				"to": 234540
+			},
+			"text": " Não adianta você ter o sistema de IA"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,540",
+				"to": "00:03:55,920"
+			},
+			"offsets": {
+				"from": 234540,
+				"to": 235920
+			},
+			"text": " Mais pica do momento"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:55,920",
+				"to": "00:03:58,480"
+			},
+			"offsets": {
+				"from": 235920,
+				"to": 238480
+			},
+			"text": " Não adianta você ter dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,480",
+				"to": "00:03:59,820"
+			},
+			"offsets": {
+				"from": 238480,
+				"to": 239820
+			},
+			"text": " Não adianta você ter nada"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,820",
+				"to": "00:04:02,700"
+			},
+			"offsets": {
+				"from": 239820,
+				"to": 242700
+			},
+			"text": " Se você não tem energia e gás"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,700",
+				"to": "00:04:04,080"
+			},
+			"offsets": {
+				"from": 242700,
+				"to": 244080
+			},
+			"text": " Pra fazer o que você quer fazer"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,080",
+				"to": "00:04:06,600"
+			},
+			"offsets": {
+				"from": 244080,
+				"to": 246600
+			},
+			"text": " Use isso que eu vou te passar nas próximas aulas"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,600",
+				"to": "00:04:08,460"
+			},
+			"offsets": {
+				"from": 246600,
+				"to": 248460
+			},
+			"text": " Construir coisas que realmente"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,460",
+				"to": "00:04:10,020"
+			},
+			"offsets": {
+				"from": 248460,
+				"to": 250020
+			},
+			"text": " Agregue na vida das pessoas"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,020",
+				"to": "00:04:12,780"
+			},
+			"offsets": {
+				"from": 250020,
+				"to": 252780
+			},
+			"text": " Agregue nas empresas das pessoas"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,780",
+				"to": "00:04:14,960"
+			},
+			"offsets": {
+				"from": 252780,
+				"to": 254960
+			},
+			"text": " Use de uma maneira inteligente"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,960",
+				"to": "00:04:16,160"
+			},
+			"offsets": {
+				"from": 254960,
+				"to": 256160
+			},
+			"text": " Pra você ganhar dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,160",
+				"to": "00:04:18,680"
+			},
+			"offsets": {
+				"from": 256160,
+				"to": 258680
+			},
+			"text": " Pra você se libertar desse sistema"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,680",
+				"to": "00:04:19,920"
+			},
+			"offsets": {
+				"from": 258680,
+				"to": 259920
+			},
+			"text": " Que te prende muitas vezes"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,920",
+				"to": "00:04:21,660"
+			},
+			"offsets": {
+				"from": 259920,
+				"to": 261660
+			},
+			"text": " A maioria das pessoas que vão assistir isso daqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,660",
+				"to": "00:04:23,900"
+			},
+			"offsets": {
+				"from": 261660,
+				"to": 263900
+			},
+			"text": " Devem estar num trabalho que não gosta"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,900",
+				"to": "00:04:25,020"
+			},
+			"offsets": {
+				"from": 263900,
+				"to": 265020
+			},
+			"text": " Ou ganhando pouco"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,020",
+				"to": "00:04:26,560"
+			},
+			"offsets": {
+				"from": 265020,
+				"to": 266560
+			},
+			"text": " No trabalho"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,560",
+				"to": "00:04:27,980"
+			},
+			"offsets": {
+				"from": 266560,
+				"to": 267980
+			},
+			"text": " Ou na empresa que toca"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,980",
+				"to": "00:04:28,660"
+			},
+			"offsets": {
+				"from": 267980,
+				"to": 268660
+			},
+			"text": " E"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,660",
+				"to": "00:04:30,860"
+			},
+			"offsets": {
+				"from": 268660,
+				"to": 270860
+			},
+			"text": " Eu larguei as outras coisas que eu fazia"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,860",
+				"to": "00:04:32,360"
+			},
+			"offsets": {
+				"from": 270860,
+				"to": 272360
+			},
+			"text": " Faz um mês mais ou menos"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,360",
+				"to": "00:04:33,100"
+			},
+			"offsets": {
+				"from": 272360,
+				"to": 273100
+			},
+			"text": " Um mês e pouco"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,100",
+				"to": "00:04:34,100"
+			},
+			"offsets": {
+				"from": 273100,
+				"to": 274100
+			},
+			"text": " Larguei tudo"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,100",
+				"to": "00:04:34,620"
+			},
+			"offsets": {
+				"from": 274100,
+				"to": 274620
+			},
+			"text": " Larguei"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,620",
+				"to": "00:04:36,020"
+			},
+			"offsets": {
+				"from": 274620,
+				"to": 276020
+			},
+			"text": " Literalmente tudo"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,020",
+				"to": "00:04:37,360"
+			},
+			"offsets": {
+				"from": 276020,
+				"to": 277360
+			},
+			"text": " Todos meus outros projetos"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,360",
+				"to": "00:04:38,960"
+			},
+			"offsets": {
+				"from": 277360,
+				"to": 278960
+			},
+			"text": " Pra focar 100% em IA"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,960",
+				"to": "00:04:40,440"
+			},
+			"offsets": {
+				"from": 278960,
+				"to": 280440
+			},
+			"text": " E seguir o meu propósito"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,440",
+				"to": "00:04:41,600"
+			},
+			"offsets": {
+				"from": 280440,
+				"to": 281600
+			},
+			"text": " De ajudar pessoas"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,600",
+				"to": "00:04:43,440"
+			},
+			"offsets": {
+				"from": 281600,
+				"to": 283440
+			},
+			"text": " A ganharem dinheiro com IA"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,440",
+				"to": "00:04:45,660"
+			},
+			"offsets": {
+				"from": 283440,
+				"to": 285660
+			},
+			"text": " A estudarem algo que eu realmente sei"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,660",
+				"to": "00:04:47,700"
+			},
+			"offsets": {
+				"from": 285660,
+				"to": 287700
+			},
+			"text": " Que não é só mais uma onda"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,700",
+				"to": "00:04:48,980"
+			},
+			"offsets": {
+				"from": 287700,
+				"to": 288980
+			},
+			"text": " Do mercado digital"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,980",
+				"to": "00:04:51,700"
+			},
+			"offsets": {
+				"from": 288980,
+				"to": 291700
+			},
+			"text": " E que realmente é uma revolução industrial"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,700",
+				"to": "00:04:53,800"
+			},
+			"offsets": {
+				"from": 291700,
+				"to": 293800
+			},
+			"text": " Que vai mudar tudo"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,800",
+				"to": "00:04:55,140"
+			},
+			"offsets": {
+				"from": 293800,
+				"to": 295140
+			},
+			"text": " Como a gente enxerga"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,140",
+				"to": "00:04:56,540"
+			},
+			"offsets": {
+				"from": 295140,
+				"to": 296540
+			},
+			"text": " Então"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,540",
+				"to": "00:04:57,980"
+			},
+			"offsets": {
+				"from": 296540,
+				"to": 297980
+			},
+			"text": " Eu vou"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,980",
+				"to": "00:04:59,720"
+			},
+			"offsets": {
+				"from": 297980,
+				"to": 299720
+			},
+			"text": " Vamos ter alguns módulos"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,720",
+				"to": "00:05:02,060"
+			},
+			"offsets": {
+				"from": 299720,
+				"to": 302060
+			},
+			"text": " Eu mostrando essas teorias malucas"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,060",
+				"to": "00:05:04,260"
+			},
+			"offsets": {
+				"from": 302060,
+				"to": 304260
+			},
+			"text": " Mostrando mais sobre"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,260",
+				"to": "00:05:05,780"
+			},
+			"offsets": {
+				"from": 304260,
+				"to": 305780
+			},
+			"text": " Como o mercado"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,780",
+				"to": "00:05:07,080"
+			},
+			"offsets": {
+				"from": 305780,
+				"to": 307080
+			},
+			"text": " Tá se movendo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,080",
+				"to": "00:05:08,540"
+			},
+			"offsets": {
+				"from": 307080,
+				"to": 308540
+			},
+			"text": " Porque é muito importante você"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,540",
+				"to": "00:05:10,260"
+			},
+			"offsets": {
+				"from": 308540,
+				"to": 310260
+			},
+			"text": " Entender essas engrenagens"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,260",
+				"to": "00:05:11,600"
+			},
+			"offsets": {
+				"from": 310260,
+				"to": 311600
+			},
+			"text": " Não só"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,600",
+				"to": "00:05:13,800"
+			},
+			"offsets": {
+				"from": 311600,
+				"to": 313800
+			},
+			"text": " Ah tem uma skill que faz tal coisa"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,800",
+				"to": "00:05:15,940"
+			},
+			"offsets": {
+				"from": 313800,
+				"to": 315940
+			},
+			"text": " Ah eu sei fazer um carrossel"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,940",
+				"to": "00:05:17,600"
+			},
+			"offsets": {
+				"from": 315940,
+				"to": 317600
+			},
+			"text": " Ah eu sei vender na internet"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,600",
+				"to": "00:05:18,800"
+			},
+			"offsets": {
+				"from": 317600,
+				"to": 318800
+			},
+			"text": " Isso é muito raro"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,800",
+				"to": "00:05:21,480"
+			},
+			"offsets": {
+				"from": 318800,
+				"to": 321480
+			},
+			"text": " Você precisa entender as engrenagens do sistema"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,480",
+				"to": "00:05:22,200"
+			},
+			"offsets": {
+				"from": 321480,
+				"to": 322200
+			},
+			"text": " Do mundo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,200",
+				"to": "00:05:23,380"
+			},
+			"offsets": {
+				"from": 322200,
+				"to": 323380
+			},
+			"text": " Dos países"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,380",
+				"to": "00:05:24,200"
+			},
+			"offsets": {
+				"from": 323380,
+				"to": 324200
+			},
+			"text": " Do dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,200",
+				"to": "00:05:24,800"
+			},
+			"offsets": {
+				"from": 324200,
+				"to": 324800
+			},
+			"text": " Entende?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,800",
+				"to": "00:05:26,920"
+			},
+			"offsets": {
+				"from": 324800,
+				"to": 326920
+			},
+			"text": " Se não você vai continuar travado"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,920",
+				"to": "00:05:27,960"
+			},
+			"offsets": {
+				"from": 326920,
+				"to": 327960
+			},
+			"text": " O que eu quero te dizer"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,960",
+				"to": "00:05:29,200"
+			},
+			"offsets": {
+				"from": 327960,
+				"to": 329200
+			},
+			"text": " Que eu quero te dar as boas vindas"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,200",
+				"to": "00:05:31,080"
+			},
+			"offsets": {
+				"from": 329200,
+				"to": 331080
+			},
+			"text": " Mesmo sendo 6h35 da manhã"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,080",
+				"to": "00:05:31,980"
+			},
+			"offsets": {
+				"from": 331080,
+				"to": 331980
+			},
+			"text": " Quero te dizer"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:31,980",
+				"to": "00:05:33,400"
+			},
+			"offsets": {
+				"from": 331980,
+				"to": 333400
+			},
+			"text": " Que eu vou dar meu máximo aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,400",
+				"to": "00:05:34,360"
+			},
+			"offsets": {
+				"from": 333400,
+				"to": 334360
+			},
+			"text": " Só foca cara"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:34,360",
+				"to": "00:05:35,720"
+			},
+			"offsets": {
+				"from": 334360,
+				"to": 335720
+			},
+			"text": " Só se concentra"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,720",
+				"to": "00:05:36,300"
+			},
+			"offsets": {
+				"from": 335720,
+				"to": 336300
+			},
+			"text": " Tá ligado?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,300",
+				"to": "00:05:38,380"
+			},
+			"offsets": {
+				"from": 337300,
+				"to": 338380
+			},
+			"text": " Pega esse final de semana"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:38,380",
+				"to": "00:05:39,260"
+			},
+			"offsets": {
+				"from": 338380,
+				"to": 339260
+			},
+			"text": " Mais que seus amigos"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,260",
+				"to": "00:05:40,200"
+			},
+			"offsets": {
+				"from": 339260,
+				"to": 340200
+			},
+			"text": " Estão te chamando pra beber"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,200",
+				"to": "00:05:40,920"
+			},
+			"offsets": {
+				"from": 340200,
+				"to": 340920
+			},
+			"text": " Pra sair"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,920",
+				"to": "00:05:42,200"
+			},
+			"offsets": {
+				"from": 340920,
+				"to": 342200
+			},
+			"text": " Pra fazer merda"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,200",
+				"to": "00:05:43,540"
+			},
+			"offsets": {
+				"from": 342200,
+				"to": 343540
+			},
+			"text": " Ou pra fumar maconha"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,540",
+				"to": "00:05:44,020"
+			},
+			"offsets": {
+				"from": 343540,
+				"to": 344020
+			},
+			"text": " Que seja"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,020",
+				"to": "00:05:45,940"
+			},
+			"offsets": {
+				"from": 344020,
+				"to": 345940
+			},
+			"text": " E use pra construir algo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,940",
+				"to": "00:05:46,740"
+			},
+			"offsets": {
+				"from": 345940,
+				"to": 346740
+			},
+			"text": " Que vai colocar"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,740",
+				"to": "00:05:48,000"
+			},
+			"offsets": {
+				"from": 346740,
+				"to": 348000
+			},
+			"text": " Mais dinheiro no seu bolso"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,000",
+				"to": "00:05:48,840"
+			},
+			"offsets": {
+				"from": 348000,
+				"to": 348840
+			},
+			"text": " Que vai te fazer"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,840",
+				"to": "00:05:49,480"
+			},
+			"offsets": {
+				"from": 348840,
+				"to": 349480
+			},
+			"text": " Chegar mais perto"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,480",
+				"to": "00:05:50,640"
+			},
+			"offsets": {
+				"from": 349480,
+				"to": 350640
+			},
+			"text": " Das 3 liberdades"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,640",
+				"to": "00:05:51,780"
+			},
+			"offsets": {
+				"from": 350640,
+				"to": 351780
+			},
+			"text": " Liberdade de tempo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,780",
+				"to": "00:05:53,060"
+			},
+			"offsets": {
+				"from": 351780,
+				"to": 353060
+			},
+			"text": " Liberdade geográfica"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,060",
+				"to": "00:05:54,380"
+			},
+			"offsets": {
+				"from": 353060,
+				"to": 354380
+			},
+			"text": " E liberdade financeira"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,380",
+				"to": "00:05:54,960"
+			},
+			"offsets": {
+				"from": 354380,
+				"to": 354960
+			},
+			"text": " Como eu disse"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,960",
+				"to": "00:05:55,800"
+			},
+			"offsets": {
+				"from": 354960,
+				"to": 355800
+			},
+			"text": " No último vídeo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,800",
+				"to": "00:05:56,680"
+			},
+			"offsets": {
+				"from": 355800,
+				"to": 356680
+			},
+			"text": " Que eu postei no Youtube"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,680",
+				"to": "00:05:58,020"
+			},
+			"offsets": {
+				"from": 356680,
+				"to": 358020
+			},
+			"text": " 3 anos atrás"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,020",
+				"to": "00:05:59,060"
+			},
+			"offsets": {
+				"from": 358020,
+				"to": 359060
+			},
+			"text": " Eu passei por uma"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,060",
+				"to": "00:06:01,080"
+			},
+			"offsets": {
+				"from": 359060,
+				"to": 361080
+			},
+			"text": " Parada muito absurda"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,080",
+				"to": "00:06:02,840"
+			},
+			"offsets": {
+				"from": 361080,
+				"to": 362840
+			},
+			"text": " Já fui faxineiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,840",
+				"to": "00:06:03,700"
+			},
+			"offsets": {
+				"from": 362840,
+				"to": 363700
+			},
+			"text": " Já fui pedreiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,700",
+				"to": "00:06:05,000"
+			},
+			"offsets": {
+				"from": 363700,
+				"to": 365000
+			},
+			"text": " Eu já cortei grama"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,000",
+				"to": "00:06:07,400"
+			},
+			"offsets": {
+				"from": 365000,
+				"to": 367400
+			},
+			"text": " Eu já trabalhei em restaurante"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,400",
+				"to": "00:06:10,280"
+			},
+			"offsets": {
+				"from": 367400,
+				"to": 370280
+			},
+			"text": " Já trabalhei vendendo sites"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:10,280",
+				"to": "00:06:11,040"
+			},
+			"offsets": {
+				"from": 370280,
+				"to": 371040
+			},
+			"text": " Antes da pandemia"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,040",
+				"to": "00:06:13,560"
+			},
+			"offsets": {
+				"from": 371040,
+				"to": 373560
+			},
+			"text": " Já morei 2 anos nos Estados Unidos"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,560",
+				"to": "00:06:16,120"
+			},
+			"offsets": {
+				"from": 373560,
+				"to": 376120
+			},
+			"text": " Trabalhando também"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,120",
+				"to": "00:06:18,060"
+			},
+			"offsets": {
+				"from": 376120,
+				"to": 378060
+			},
+			"text": " Já fiz muita coisa"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,060",
+				"to": "00:06:19,280"
+			},
+			"offsets": {
+				"from": 378060,
+				"to": 379280
+			},
+			"text": " Eu tô no mercado digital"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,280",
+				"to": "00:06:20,180"
+			},
+			"offsets": {
+				"from": 379280,
+				"to": 380180
+			},
+			"text": " Há mais de 8 anos"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,180",
+				"to": "00:06:22,080"
+			},
+			"offsets": {
+				"from": 380180,
+				"to": 382080
+			},
+			"text": " Então foram indas e vindas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,080",
+				"to": "00:06:22,860"
+			},
+			"offsets": {
+				"from": 382080,
+				"to": 382860
+			},
+			"text": " Ali no mercado"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,860",
+				"to": "00:06:23,620"
+			},
+			"offsets": {
+				"from": 382860,
+				"to": 383620
+			},
+			"text": " Ganhei dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,620",
+				"to": "00:06:24,600"
+			},
+			"offsets": {
+				"from": 383620,
+				"to": 384600
+			},
+			"text": " Depois parou de"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,600",
+				"to": "00:06:25,500"
+			},
+			"offsets": {
+				"from": 384600,
+				"to": 385500
+			},
+			"text": " Parei de ganhar"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,500",
+				"to": "00:06:27,180"
+			},
+			"offsets": {
+				"from": 385500,
+				"to": 387180
+			},
+			"text": " O primeiro lançamento"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,180",
+				"to": "00:06:27,520"
+			},
+			"offsets": {
+				"from": 387180,
+				"to": 387520
+			},
+			"text": " Que eu fiz"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,520",
+				"to": "00:06:28,180"
+			},
+			"offsets": {
+				"from": 387520,
+				"to": 388180
+			},
+			"text": " Deu grana"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,180",
+				"to": "00:06:29,720"
+			},
+			"offsets": {
+				"from": 388180,
+				"to": 389720
+			},
+			"text": " Mas não me repassaram"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,720",
+				"to": "00:06:30,460"
+			},
+			"offsets": {
+				"from": 389720,
+				"to": 390460
+			},
+			"text": " A minha parte"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,460",
+				"to": "00:06:31,100"
+			},
+			"offsets": {
+				"from": 390460,
+				"to": 391100
+			},
+			"text": " Cara"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,100",
+				"to": "00:06:31,960"
+			},
+			"offsets": {
+				"from": 391100,
+				"to": 391960
+			},
+			"text": " É muita coisa"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,960",
+				"to": "00:06:33,060"
+			},
+			"offsets": {
+				"from": 391960,
+				"to": 393060
+			},
+			"text": " Mas eu quero te dizer"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:33,060",
+				"to": "00:06:34,260"
+			},
+			"offsets": {
+				"from": 393060,
+				"to": 394260
+			},
+			"text": " Que se você tem"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,260",
+				"to": "00:06:35,260"
+			},
+			"offsets": {
+				"from": 394260,
+				"to": 395260
+			},
+			"text": " Um quadro dos sonhos"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,260",
+				"to": "00:06:36,080"
+			},
+			"offsets": {
+				"from": 395260,
+				"to": 396080
+			},
+			"text": " Se você sabe"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,080",
+				"to": "00:06:37,020"
+			},
+			"offsets": {
+				"from": 396080,
+				"to": 397020
+			},
+			"text": " O que você quer"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,020",
+				"to": "00:06:38,280"
+			},
+			"offsets": {
+				"from": 397020,
+				"to": 398280
+			},
+			"text": " Se você sabe"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,280",
+				"to": "00:06:39,080"
+			},
+			"offsets": {
+				"from": 398280,
+				"to": 399080
+			},
+			"text": " Onde você quer chegar"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,080",
+				"to": "00:06:40,260"
+			},
+			"offsets": {
+				"from": 399080,
+				"to": 400260
+			},
+			"text": " Se você tem um propósito"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,260",
+				"to": "00:06:41,480"
+			},
+			"offsets": {
+				"from": 400260,
+				"to": 401480
+			},
+			"text": " De ajudar as pessoas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,480",
+				"to": "00:06:42,940"
+			},
+			"offsets": {
+				"from": 401480,
+				"to": 402940
+			},
+			"text": " De criar coisas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,940",
+				"to": "00:06:43,840"
+			},
+			"offsets": {
+				"from": 402940,
+				"to": 403840
+			},
+			"text": " De ajudar empresas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,840",
+				"to": "00:06:44,480"
+			},
+			"offsets": {
+				"from": 403840,
+				"to": 404480
+			},
+			"text": " Que seja"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,480",
+				"to": "00:06:46,540"
+			},
+			"offsets": {
+				"from": 404480,
+				"to": 406540
+			},
+			"text": " Utilize o MasiOS"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,540",
+				"to": "00:06:47,180"
+			},
+			"offsets": {
+				"from": 406540,
+				"to": 407180
+			},
+			"text": " Pra isso"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,180",
+				"to": "00:06:49,160"
+			},
+			"offsets": {
+				"from": 407180,
+				"to": 409160
+			},
+			"text": " Pra chegar mais perto disso"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,160",
+				"to": "00:06:49,720"
+			},
+			"offsets": {
+				"from": 409160,
+				"to": 409720
+			},
+			"text": " Porque"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,720",
+				"to": "00:06:51,560"
+			},
+			"offsets": {
+				"from": 409720,
+				"to": 411560
+			},
+			"text": " Tem como"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,560",
+				"to": "00:06:51,860"
+			},
+			"offsets": {
+				"from": 411560,
+				"to": 411860
+			},
+			"text": " Cara"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:51,860",
+				"to": "00:06:52,540"
+			},
+			"offsets": {
+				"from": 411860,
+				"to": 412540
+			},
+			"text": " Tem como"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,540",
+				"to": "00:06:53,600"
+			},
+			"offsets": {
+				"from": 412540,
+				"to": 413600
+			},
+			"text": " Tem como"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,600",
+				"to": "00:06:54,660"
+			},
+			"offsets": {
+				"from": 413600,
+				"to": 414660
+			},
+			"text": " E você vai ver mais"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:54,660",
+				"to": "00:06:55,440"
+			},
+			"offsets": {
+				"from": 414660,
+				"to": 415440
+			},
+			"text": " Nas próximas aulas"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,440",
+				"to": "00:06:56,760"
+			},
+			"offsets": {
+				"from": 415440,
+				"to": 416760
+			},
+			"text": " Tô sendo bem franco"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,760",
+				"to": "00:06:57,420"
+			},
+			"offsets": {
+				"from": 416760,
+				"to": 417420
+			},
+			"text": " Aqui com você"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,420",
+				"to": "00:06:58,760"
+			},
+			"offsets": {
+				"from": 417420,
+				"to": 418760
+			},
+			"text": " Você já pagou"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,760",
+				"to": "00:06:59,340"
+			},
+			"offsets": {
+				"from": 418760,
+				"to": 419340
+			},
+			"text": " Você já comprou"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,340",
+				"to": "00:06:59,960"
+			},
+			"offsets": {
+				"from": 419340,
+				"to": 419960
+			},
+			"text": " Já tá dentro"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,960",
+				"to": "00:07:00,400"
+			},
+			"offsets": {
+				"from": 419960,
+				"to": 420400
+			},
+			"text": " Não tem pra que"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,400",
+				"to": "00:07:01,460"
+			},
+			"offsets": {
+				"from": 420400,
+				"to": 421460
+			},
+			"text": " Eu ficar enchendo linguiça"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,460",
+				"to": "00:07:02,520"
+			},
+			"offsets": {
+				"from": 421460,
+				"to": 422520
+			},
+			"text": " Espero do fundo"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,520",
+				"to": "00:07:03,160"
+			},
+			"offsets": {
+				"from": 422520,
+				"to": 423160
+			},
+			"text": " Do meu coração"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,160",
+				"to": "00:07:04,600"
+			},
+			"offsets": {
+				"from": 423160,
+				"to": 424600
+			},
+			"text": " Que você tenha resultado"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,600",
+				"to": "00:07:05,460"
+			},
+			"offsets": {
+				"from": 424600,
+				"to": 425460
+			},
+			"text": " Que você comece"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,460",
+				"to": "00:07:06,000"
+			},
+			"offsets": {
+				"from": 425460,
+				"to": 426000
+			},
+			"text": " A ganhar mais dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,000",
+				"to": "00:07:07,100"
+			},
+			"offsets": {
+				"from": 426000,
+				"to": 427100
+			},
+			"text": " Que você pegue clientes"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,100",
+				"to": "00:07:07,660"
+			},
+			"offsets": {
+				"from": 427100,
+				"to": 427660
+			},
+			"text": " Então"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,660",
+				"to": "00:07:09,980"
+			},
+			"offsets": {
+				"from": 427660,
+				"to": 429980
+			},
+			"text": " Vamos ganhar dinheiro com IA"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,980",
+				"to": "00:07:11,040"
+			},
+			"offsets": {
+				"from": 429980,
+				"to": 431040
+			},
+			"text": " Vamos ajudar os outros"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,040",
+				"to": "00:07:11,840"
+			},
+			"offsets": {
+				"from": 431040,
+				"to": 431840
+			},
+			"text": " Vamos casar"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,840",
+				"to": "00:07:12,900"
+			},
+			"offsets": {
+				"from": 431840,
+				"to": 432900
+			},
+			"text": " Vamos ter filho"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,900",
+				"to": "00:07:14,280"
+			},
+			"offsets": {
+				"from": 432900,
+				"to": 434280
+			},
+			"text": " Vamos voar"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,280",
+				"to": "00:07:14,700"
+			},
+			"offsets": {
+				"from": 434280,
+				"to": 434700
+			},
+			"text": " Meu amigo"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:14,700",
+				"to": "00:07:15,720"
+			},
+			"offsets": {
+				"from": 434700,
+				"to": 435720
+			},
+			"text": " Que Deus te abençoe"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,720",
+				"to": "00:07:17,340"
+			},
+			"offsets": {
+				"from": 435720,
+				"to": 437340
+			},
+			"text": " Até a próxima aula"
+		}
+	]
+}

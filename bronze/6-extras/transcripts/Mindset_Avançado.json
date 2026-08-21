@@ -1,0 +1,769 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:10,040"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 10040
+			},
+			"text": " E aí, beleza? Bom dia. Hoje eu quero te mostrar uma parada aqui no Extra que é muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,800",
+				"to": "00:00:17,760"
+			},
+			"offsets": {
+				"from": 10800,
+				"to": 17760
+			},
+			"text": " Eu acho uma das coisas mais importantes e uma coisa que me ajudou muito a ter um resultado absurdo na minha vida, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,760",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 17760,
+				"to": 25000
+			},
+			"text": " Conquistar as coisas que eu conquistei. E, bom, o que eu quero mostrar aqui pra vocês é um vídeo do Conrado Adolfo."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,120",
+				"to": "00:00:33,820"
+			},
+			"offsets": {
+				"from": 26120,
+				"to": 33820
+			},
+			"text": " Cara, eu já assisti esse vídeo aqui, não sei, umas 80 mil vezes, eu não sei nem explicar quantas vezes eu já assisti."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,600",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 34600,
+				"to": 40000
+			},
+			"text": " E tem um curso do Finch que ele lança também. Ah, tem vários caras agora que eu vi, Icaro de Carvalho."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,080",
+				"to": "00:00:48,100"
+			},
+			"offsets": {
+				"from": 42080,
+				"to": 48100
+			},
+			"text": " Mas, cara, isso daqui mudou minha vida, cara. Eu não sabia que todo mundo indicava essa bomba, mas beleza."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,800",
+				"to": "00:00:50,600"
+			},
+			"offsets": {
+				"from": 48800,
+				"to": 50600
+			},
+			"text": " Mas se todo mundo tá indicando é porque é muito bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,240",
+				"to": "00:00:57,660"
+			},
+			"offsets": {
+				"from": 52240,
+				"to": 57660
+			},
+			"text": " O Conrado Adolfo, pra quem não conhece, ele era um internet marketer, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,720",
+				"to": "00:01:01,880"
+			},
+			"offsets": {
+				"from": 57720,
+				"to": 61880
+			},
+			"text": " Um cara de marketing digital aí, das antigas."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,540",
+				"to": "00:01:05,320"
+			},
+			"offsets": {
+				"from": 62540,
+				"to": 65320
+			},
+			"text": " Ele ainda deve fazer alguma coisa ou outra, mas ele tá bem sumidão."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,800",
+				"to": "00:01:10,460"
+			},
+			"offsets": {
+				"from": 65800,
+				"to": 70460
+			},
+			"text": " E esse cara, mano, ele é referência máxima, velho. O cara é, mano, foda, tá ligado?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,320",
+				"to": "00:01:16,240"
+			},
+			"offsets": {
+				"from": 71320,
+				"to": 76240
+			},
+			"text": " Muito crânio. Mano, ele é desde o comecinho da internet, do marketing digital."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,060",
+				"to": "00:01:21,660"
+			},
+			"offsets": {
+				"from": 77060,
+				"to": 81660
+			},
+			"text": " Então, muita gente se inspirou nele, né? Pelo que eu tô vendo, até mais pessoas do que eu imaginava."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,660",
+				"to": "00:01:26,640"
+			},
+			"offsets": {
+				"from": 82660,
+				"to": 86640
+			},
+			"text": " E o que eu quero dizer pra você é o seguinte."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,740",
+				"to": "00:01:28,640"
+			},
+			"offsets": {
+				"from": 87740,
+				"to": 88640
+			},
+			"text": " Assista esse vídeo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,380",
+				"to": "00:01:31,420"
+			},
+			"offsets": {
+				"from": 89380,
+				"to": 91420
+			},
+			"text": " Coloque no fone, enquanto você estiver na academia."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,120",
+				"to": "00:01:33,640"
+			},
+			"offsets": {
+				"from": 92120,
+				"to": 93640
+			},
+			"text": " Enquanto você estiver dirigindo."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,500",
+				"to": "00:01:36,340"
+			},
+			"offsets": {
+				"from": 94500,
+				"to": 96340
+			},
+			"text": " Enquanto você estiver trabalhando, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,840",
+				"to": "00:01:41,060"
+			},
+			"offsets": {
+				"from": 96840,
+				"to": 101060
+			},
+			"text": " Eu tenho uma cena com esse vídeo muito legal que..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,060",
+				"to": "00:01:43,180"
+			},
+			"offsets": {
+				"from": 101060,
+				"to": 103180
+			},
+			"text": " Pra quem não sabe, eu morei dois anos nos Estados Unidos."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,180",
+				"to": "00:01:46,800"
+			},
+			"offsets": {
+				"from": 103180,
+				"to": 106800
+			},
+			"text": " E eu trabalhei de pedreiro, lixeiro, faxineiro, tudo, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,940",
+				"to": "00:01:49,080"
+			},
+			"offsets": {
+				"from": 106940,
+				"to": 109080
+			},
+			"text": " Numa época que eu tava com uma dívida gigantesca."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,200",
+				"to": "00:01:56,400"
+			},
+			"offsets": {
+				"from": 110200,
+				"to": 116400
+			},
+			"text": " E o legal, cara, é que eu tenho na minha mente uma época, enquanto eu tava lá,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,800",
+				"to": "00:01:57,940"
+			},
+			"offsets": {
+				"from": 116800,
+				"to": 117940
+			},
+			"text": " onde eu tava bem lascado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,680",
+				"to": "00:02:01,560"
+			},
+			"offsets": {
+				"from": 118680,
+				"to": 121560
+			},
+			"text": " E naquele trabalho braçal e me lascando."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,080",
+				"to": "00:02:05,780"
+			},
+			"offsets": {
+				"from": 122080,
+				"to": 125780
+			},
+			"text": " Eu botava no foninho, enquanto eu catava lixo, enquanto eu limpava a piscina."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,160",
+				"to": "00:02:08,520"
+			},
+			"offsets": {
+				"from": 126160,
+				"to": 128520
+			},
+			"text": " E esse vídeo, cara, me dava uma motivação."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:11,000"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 131000
+			},
+			"text": " Na verdade, acho que não é nenhuma motivação, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,380",
+				"to": "00:02:13,380"
+			},
+			"offsets": {
+				"from": 131380,
+				"to": 133380
+			},
+			"text": " Ele te ensina a mudar o seu mindset."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,200",
+				"to": "00:02:16,360"
+			},
+			"offsets": {
+				"from": 134200,
+				"to": 136360
+			},
+			"text": " Então, óbvio que eu não vou ficar explicando muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,460",
+				"to": "00:02:17,540"
+			},
+			"offsets": {
+				"from": 136460,
+				"to": 137540
+			},
+			"text": " Eu quero que você assista, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,640",
+				"to": "00:02:18,500"
+			},
+			"offsets": {
+				"from": 137640,
+				"to": 138500
+			},
+			"text": " Eu quero que você escute."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,060",
+				"to": "00:02:23,040"
+			},
+			"offsets": {
+				"from": 140060,
+				"to": 143040
+			},
+			"text": " Mas, de grosso modo, você tá no momento que você está hoje."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,780",
+				"to": "00:02:27,220"
+			},
+			"offsets": {
+				"from": 143780,
+				"to": 147220
+			},
+			"text": " E você precisa mudar primeiro a sua mente."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,440",
+				"to": "00:02:29,780"
+			},
+			"offsets": {
+				"from": 147440,
+				"to": 149780
+			},
+			"text": " Você precisa se imaginar já no novo ambiente."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,160",
+				"to": "00:02:32,120"
+			},
+			"offsets": {
+				"from": 150160,
+				"to": 152120
+			},
+			"text": " Num ambiente de riqueza, de abundância."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,640",
+				"to": "00:02:37,840"
+			},
+			"offsets": {
+				"from": 152640,
+				"to": 157840
+			},
+			"text": " E se você consegue levar a sua mente pra esse estado, você chega mais rápido nesse estado."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,100",
+				"to": "00:02:39,000"
+			},
+			"offsets": {
+				"from": 158100,
+				"to": 159000
+			},
+			"text": " É inevitável, né?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,080",
+				"to": "00:02:41,240"
+			},
+			"offsets": {
+				"from": 159080,
+				"to": 161240
+			},
+			"text": " Você já se imagina lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,380",
+				"to": "00:02:42,860"
+			},
+			"offsets": {
+				"from": 161380,
+				"to": 162860
+			},
+			"text": " Você já se imagina com aquilo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,420",
+				"to": "00:02:46,780"
+			},
+			"offsets": {
+				"from": 163420,
+				"to": 166780
+			},
+			"text": " A grosso modo é isso, mas tem muito mais coisa, muita mais informação."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,900",
+				"to": "00:02:49,720"
+			},
+			"offsets": {
+				"from": 166900,
+				"to": 169720
+			},
+			"text": " E várias maneiras de você conseguir acessar esse mindset."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,720",
+				"to": "00:02:51,720"
+			},
+			"offsets": {
+				"from": 169720,
+				"to": 171720
+			},
+			"text": " Esse mindset avançado."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,800",
+				"to": "00:02:54,300"
+			},
+			"offsets": {
+				"from": 172800,
+				"to": 174300
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,780",
+				"to": "00:02:58,260"
+			},
+			"offsets": {
+				"from": 176780,
+				"to": 178260
+			},
+			"text": " Quero muito que você assista isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,360",
+				"to": "00:02:58,780"
+			},
+			"offsets": {
+				"from": 178360,
+				"to": 178780
+			},
+			"text": " Igual eu falei."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,980",
+				"to": "00:03:04,200"
+			},
+			"offsets": {
+				"from": 178980,
+				"to": 184200
+			},
+			"text": " Se você estiver, cara, indo trabalhar, indo fazer alguma coisa, indo pra academia."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,080",
+				"to": "00:03:10,800"
+			},
+			"offsets": {
+				"from": 185080,
+				"to": 190800
+			},
+			"text": " Em vez de você ficar ouvindo música, pegue algo que vai te ajudar a mudar um pouco sua mente."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:10,920",
+				"to": "00:03:12,820"
+			},
+			"offsets": {
+				"from": 190920,
+				"to": 192820
+			},
+			"text": " Tentar evoluir mais a sua mente."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,260",
+				"to": "00:03:13,580"
+			},
+			"offsets": {
+				"from": 193260,
+				"to": 193580
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,680",
+				"to": "00:03:14,500"
+			},
+			"offsets": {
+				"from": 193680,
+				"to": 194500
+			},
+			"text": " Acho muito importante."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:14,600",
+				"to": "00:03:15,560"
+			},
+			"offsets": {
+				"from": 194600,
+				"to": 195560
+			},
+			"text": " Esse vídeo me ajudou muito."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,720",
+				"to": "00:03:18,960"
+			},
+			"offsets": {
+				"from": 195720,
+				"to": 198960
+			},
+			"text": " Eu já, em vários momentos da minha vida, eu escuto ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,860",
+				"to": "00:03:20,660"
+			},
+			"offsets": {
+				"from": 199860,
+				"to": 200660
+			},
+			"text": " Em vários momentos."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,740",
+				"to": "00:03:22,280"
+			},
+			"offsets": {
+				"from": 200740,
+				"to": 202280
+			},
+			"text": " Até antes dos Estados Unidos, eu escutei."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,560",
+				"to": "00:03:25,040"
+			},
+			"offsets": {
+				"from": 203560,
+				"to": 205040
+			},
+			"text": " Nos Estados Unidos, eu escutei."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,140",
+				"to": "00:03:26,740"
+			},
+			"offsets": {
+				"from": 205140,
+				"to": 206740
+			},
+			"text": " Em vários momentos nos Estados Unidos, eu escutei."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:26,820",
+				"to": "00:03:28,680"
+			},
+			"offsets": {
+				"from": 206820,
+				"to": 208680
+			},
+			"text": " Depois que eu cheguei dos Estados Unidos, eu escutei."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,200",
+				"to": "00:03:33,500"
+			},
+			"offsets": {
+				"from": 209200,
+				"to": 213500
+			},
+			"text": " E, graças a Deus, hoje, meu mindset é totalmente bem mais avançado."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,560",
+				"to": "00:03:35,140"
+			},
+			"offsets": {
+				"from": 213560,
+				"to": 215140
+			},
+			"text": " Não estou falando que sou o pica das galáxias."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,640",
+				"to": "00:03:38,840"
+			},
+			"offsets": {
+				"from": 215640,
+				"to": 218840
+			},
+			"text": " Mas, pô, consegui ali uma estabilidade financeira bem boa."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,200",
+				"to": "00:03:42,660"
+			},
+			"offsets": {
+				"from": 219200,
+				"to": 222660
+			},
+			"text": " Consegui conquistar várias coisas que muitas pessoas da minha idade ainda não conquistaram."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,340",
+				"to": "00:03:43,780"
+			},
+			"offsets": {
+				"from": 223340,
+				"to": 223780
+			},
+			"text": " E é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,960",
+				"to": "00:03:44,860"
+			},
+			"offsets": {
+				"from": 223960,
+				"to": 224860
+			},
+			"text": " Recomendo você assistir."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,440",
+				"to": "00:03:46,020"
+			},
+			"offsets": {
+				"from": 225440,
+				"to": 226020
+			},
+			"text": " Tamo junto."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,240",
+				"to": "00:03:46,720"
+			},
+			"offsets": {
+				"from": 226240,
+				"to": 226720
+			},
+			"text": " Até a próxima."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,920",
+				"to": "00:03:47,440"
+			},
+			"offsets": {
+				"from": 226920,
+				"to": 227440
+			},
+			"text": " Let's go!"
+		}
+	]
+}

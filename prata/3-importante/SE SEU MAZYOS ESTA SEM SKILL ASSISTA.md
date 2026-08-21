@@ -1,0 +1,24 @@
+---
+titulo: "SE SEU MAZYOS ESTA SEM SKILL ASSISTA"
+curso: MazyOS
+modulo: IMPORTANTE: detalhes que você tem que se atentar
+modulo_slug: 3-importante
+video_id: "a7a0c854-5fff-4fb6-9324-62d11b05ca6a"
+duracao: desconhecida
+camada: prata
+fonte: transcricao automatica (whisper.cpp, ggml-large-v3-turbo, local, pt)
+transcript_bronze: bronze/3-importante/transcripts/SE_SEU_MAZYOS_ESTA_SEM_SKILL_ASSISTA.json
+tags: [mazyos, transcricao]
+---
+
+# SE SEU MAZYOS ESTA SEM SKILL ASSISTA
+
+> [!info] Camada prata: transcrição integral e fiel ao áudio, em blocos com timestamp. O conhecimento destilado vive na camada ouro.
+
+**[00:00]** Se você está tentando usar skill barra atualizar ou qualquer outra skill e não está conseguindo, não aparece, é porque você não tornou o Masios a sua pasta principal. Então vamos lá. Por exemplo, hoje duas pessoas vieram com essa mesma dúvida. Então se você abrir aqui, o Davidson criou a pasta Davidson, depois Masios. Normal, no começo, quando você está instalando o Masios, ele fica com essa pasta aqui dentro. Depois, o que você precisa fazer? Aí você consegue fazer de duas maneiras. Você ou pede para o próprio Cloud transformar o Masios na sua pasta principal, ou se já é alguma pasta que você já tem outros arquivos, você joga todos esses arquivos para dentro da pasta Masios e depois transforma essa pasta Masios como sua pasta principal e já abre direto ela. Depois você pode só renomear a pasta Masios. Mas é importante você entender que quando você está abrindo esse arquivo, a pasta Masios com memória, cloud, dados, identidade, marketing e por aí vai, ela tem que ser a sua pasta principal. Se não, quando você estarta o projeto e conversa ali, pede alguma skill, ele não vai achar, porque você está abrindo a pasta Davidson e não a pasta Masios, mesmo ela estando ali dentro. Então, quando você torna o Masios a sua pasta principal com seus arquivos ali,
+
+**[01:19]** sempre que você pedir um prompt ou tentar usar uma skill, ele vai achar, porque ele vai ler o seu cloud.md dentro da pasta Masios. Se você não está entendendo isso que eu estou falando, assiste o último vídeo que eu postei no YouTube que eu mostro passo a passo, eu explico tudo como que funciona o cloud, e lá você vai entender o que é o cloud.md. Basicamente é isso. Então, quer ver? Aqui no nosso grupo de suporte, você percebe que ele estava abrindo a pasta LP Store e dentro da pasta LP Store tem a pasta Masios. Está errado. Então, o que ele fez?
+
+**[01:59]** A gente falou aqui para ele, ele jogou tudo para dentro da pasta, bonitinho, LP Store, e daí, antes era LP Store e dentro tinha Masios, ele copiou tudo aqui e jogou dentro da pasta LP Store e pronto. Na verdade, ele tornou a pasta Masios a pasta principal dele e aqui resolveu. Então, agora ele abre a pasta Masios direto e aqui então tem memória, cloud, por aí vai, tem tudo aqui. E ele já jogou as outras pastas que ele tinha criado, marcas que trabalham e por aí vai. Deu para entender? Então, agora, quando ele tentar usar alguma skill, ele vai conseguir usar. Isso é muito importante você entender que, se não, você vai estar usando o cloud normal ao invés de estar usando o cloud com Masios. Você vai estar usando o cloud code achando que está usando o Masios e está usando da maneira errada. Depois, é só você renomear a pasta Masios. Depois você coloca o nome que você quiser do seu projeto. Fechou? Aqui era o David com o problema também, mas é isso. Então, é isso. Essa era uma aula simples. Se você está com mais dúvidas e quer esclarecer suas dúvidas de uma maneira mais rápida, entra na comunidade do WhatsApp, porque aqui a gente fica conversando. Então, às vezes eu vou tirar a sua dúvida ou outra pessoa vai tirar a sua dúvida. Tem a sala resenha, tem o grupo suporte aqui, onde normalmente quem está com dúvida.
+
+**[03:15]** Então, por exemplo, aqui o Diogo já deu uma aula. Você está usando o cloud puro só. Você não está usando o Masios. O Masios é uma série de regras, skills e configurações que fazem tudo isso, que organizam. Então, você roda ali barra instalada, ele vai te entrevistar, vai fazer perguntas sobre... Ou seja, uma aula. O cara deu uma aula. Ele respondeu tudo aqui que a gente precisava. Toda dúvida que o amigo estava. Então, se você está com mais dúvidas, entra na comunidade do WhatsApp, que lá você vai ser respondido na hora. Tanto por mim, como a própria pessoa da comunidade ali, que sabe resolver o seu problema. Fechou? Muito importante. Você precisa usar da maneira correta o Masios, instalar da maneira correta. Ok? Deu para entender? Você já estava usando da maneira correta ou ainda estava uma pasta ali dentro? Na própria instalação do Masios, chega uma hora que ele mesmo fala para você isso e você fala que sim e transforma ele na pasta principal. É só você se atentar ali, ver se você já fez isso ou ainda não. Fechou? Tamo junto. Até a próxima. Tem mais aulas por vir. Aguenta aí. É nóis.

@@ -1,0 +1,4025 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/pipeline/models/ggml-large-v3-turbo.bin",
+		"language": "pt",
+		"translate": false
+	},
+	"result": {
+		"language": "pt"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7200
+			},
+			"text": " Então eu vou mostrar uma ramificação de você utilizar o MaisOS pra vender infoprodutos, produtos digitais, que você pode usar pra você ganhar dinheiro, que é algo que eu uso."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,260",
+				"to": "00:00:09,180"
+			},
+			"offsets": {
+				"from": 7260,
+				"to": 9180
+			},
+			"text": " Quem faz 950k faz um milhão também."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,680",
+				"to": "00:00:12,860"
+			},
+			"offsets": {
+				"from": 11680,
+				"to": 12860
+			},
+			"text": " Boa noite, família."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,300",
+				"to": "00:00:15,160"
+			},
+			"offsets": {
+				"from": 13300,
+				"to": 15160
+			},
+			"text": " Agora são 1h38, eu tô trabalhando."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,800",
+				"to": "00:00:22,180"
+			},
+			"offsets": {
+				"from": 15800,
+				"to": 22180
+			},
+			"text": " Eu tava criando todo o projeto do Tubalira, porque, nossa, eu vou mudar toda a estratégia dele, porque tava uma bagunça do caramba, era muita palestra, mentoria."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,200",
+				"to": "00:00:26,760"
+			},
+			"offsets": {
+				"from": 23200,
+				"to": 26760
+			},
+			"text": " Eu acabei de refazer aqui o site dele, né, vou mostrar pra vocês."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,320",
+				"to": "00:00:28,380"
+			},
+			"offsets": {
+				"from": 27320,
+				"to": 28380
+			},
+			"text": " Só usando o MaisOS e tal."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:36,660"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 36660
+			},
+			"text": " Todos os links aqui, ó, jogam pro vídeo em específico."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,800",
+				"to": "00:00:39,180"
+			},
+			"offsets": {
+				"from": 37800,
+				"to": 39180
+			},
+			"text": " Tudo funcionando bonitinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,100",
+				"to": "00:00:43,860"
+			},
+			"offsets": {
+				"from": 40100,
+				"to": 43860
+			},
+			"text": " As imagens do site dele, ele falou que tava recebendo e-mail de notificação de direito autoral."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,300",
+				"to": "00:00:46,260"
+			},
+			"offsets": {
+				"from": 44300,
+				"to": 46260
+			},
+			"text": " Então eu transformei tudo por imagens sem direito autoral."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,940",
+				"to": "00:00:49,500"
+			},
+			"offsets": {
+				"from": 47940,
+				"to": 49500
+			},
+			"text": " Aqui tudo funcionando e tal."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,260",
+				"to": "00:00:53,400"
+			},
+			"offsets": {
+				"from": 52260,
+				"to": 53400
+			},
+			"text": " Gostei dessa imagem dele aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,280",
+				"to": "00:00:59,440"
+			},
+			"offsets": {
+				"from": 58280,
+				"to": 59440
+			},
+			"text": " Acho que tá duplicado essa imagem."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,580",
+				"to": "00:01:03,480"
+			},
+			"offsets": {
+				"from": 59580,
+				"to": 63480
+			},
+			"text": " Bem bonitinho, ficou aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,300",
+				"to": "00:01:11,560"
+			},
+			"offsets": {
+				"from": 70300,
+				"to": 71560
+			},
+			"text": " Tá, ficou bem mais bonito."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,940",
+				"to": "00:01:13,860"
+			},
+			"offsets": {
+				"from": 71940,
+				"to": 73860
+			},
+			"text": " Eu também atualizei o Linktree dele."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,520",
+				"to": "00:01:16,280"
+			},
+			"offsets": {
+				"from": 74520,
+				"to": 76280
+			},
+			"text": " No caso, já até atualizei no domínio."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,780",
+				"to": "00:01:18,280"
+			},
+			"offsets": {
+				"from": 76780,
+				"to": 78280
+			},
+			"text": " O site dele eu ainda não atualizei, tá, o domínio."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,820",
+				"to": "00:01:19,520"
+			},
+			"offsets": {
+				"from": 78820,
+				"to": 79520
+			},
+			"text": " Vou atualizar ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,620",
+				"to": "00:01:21,480"
+			},
+			"offsets": {
+				"from": 79620,
+				"to": 81480
+			},
+			"text": " Tô pensando ainda aqui que eu ia fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,840",
+				"to": "00:01:23,180"
+			},
+			"offsets": {
+				"from": 81840,
+				"to": 83180
+			},
+			"text": " Mas eu tava achando muito bagunçado."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,340",
+				"to": "00:01:30,360"
+			},
+			"offsets": {
+				"from": 83340,
+				"to": 90360
+			},
+			"text": " Muita coisa, muita palestra, mentoria, curso, compra, instituto elemento, livro, quatro maneiras de comprar o livro e curso do livro e site, blogging."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,560",
+				"to": "00:01:31,380"
+			},
+			"offsets": {
+				"from": 90560,
+				"to": 91380
+			},
+			"text": " Tava achando muita coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,560",
+				"to": "00:01:37,420"
+			},
+			"offsets": {
+				"from": 92560,
+				"to": 97420
+			},
+			"text": " E daí eu decidi, conversei muito com ele aqui, conversei muito com o Vinizinho também, que tá me ajudando nesse projeto dele."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,480",
+				"to": "00:01:39,900"
+			},
+			"offsets": {
+				"from": 98480,
+				"to": 99900
+			},
+			"text": " E a gente conversou muito aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,120",
+				"to": "00:01:41,160"
+			},
+			"offsets": {
+				"from": 100120,
+				"to": 101160
+			},
+			"text": " Quantos áudios a gente foi trocando."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,260",
+				"to": "00:01:43,740"
+			},
+			"offsets": {
+				"from": 101260,
+				"to": 103740
+			},
+			"text": " Eu fiquei mais de duas horas em cálculo, Vinizinho também, estruturando, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,120",
+				"to": "00:01:45,240"
+			},
+			"offsets": {
+				"from": 104120,
+				"to": 105240
+			},
+			"text": " Aí eu escrevi um monte de coisa aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,780",
+				"to": "00:01:48,680"
+			},
+			"offsets": {
+				"from": 105780,
+				"to": 108680
+			},
+			"text": " Mas basicamente, né, eu pensei em todo um rebranding."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,000",
+				"to": "00:01:50,100"
+			},
+			"offsets": {
+				"from": 109000,
+				"to": 110100
+			},
+			"text": " O livro dele pra mim não faz muito sentido."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,200",
+				"to": "00:01:51,640"
+			},
+			"offsets": {
+				"from": 110200,
+				"to": 111640
+			},
+			"text": " Ele assim, meio ziz e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,280",
+				"to": "00:01:53,720"
+			},
+			"offsets": {
+				"from": 112280,
+				"to": 113720
+			},
+			"text": " Então, isso daqui eu fiz ali só de teste, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,820",
+				"to": "00:01:55,140"
+			},
+			"offsets": {
+				"from": 113820,
+				"to": 115140
+			},
+			"text": " Eu vou fazer a LP mesmo amanhã."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,340",
+				"to": "00:01:58,500"
+			},
+			"offsets": {
+				"from": 115340,
+				"to": 118500
+			},
+			"text": " Não é isso aqui, era só meio que um rabisco que eu tava tentando explicar pra ele, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,800",
+				"to": "00:02:01,020"
+			},
+			"offsets": {
+				"from": 118800,
+				"to": 121020
+			},
+			"text": " Ele precisava de um rebranding, precisa de um negócio mais sério, mais clean."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,640",
+				"to": "00:02:05,400"
+			},
+			"offsets": {
+				"from": 121640,
+				"to": 125400
+			},
+			"text": " E em vez dele querer vender essas mentorias de 10 mil e palestra de 10, de 15 mil."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,700",
+				"to": "00:02:07,720"
+			},
+			"offsets": {
+				"from": 125700,
+				"to": 127720
+			},
+			"text": " Falei, cara, a gente vai criar uma estratégia totalmente diferente."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,200",
+				"to": "00:02:09,880"
+			},
+			"offsets": {
+				"from": 128200,
+				"to": 129880
+			},
+			"text": " A gente vai começar pelo seu curso, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,040",
+				"to": "00:02:12,540"
+			},
+			"offsets": {
+				"from": 130040,
+				"to": 132540
+			},
+			"text": " Então eu falei pra ele, a gente vai começar com um produto low ticket, baratinho."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,540",
+				"to": "00:02:14,960"
+			},
+			"offsets": {
+				"from": 132540,
+				"to": 134960
+			},
+			"text": " E daí a gente vende esse produto mais barato pras pessoas."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,180",
+				"to": "00:02:16,980"
+			},
+			"offsets": {
+				"from": 135180,
+				"to": 136980
+			},
+			"text": " A gente começa a criar essa estrutura."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,400",
+				"to": "00:02:21,080"
+			},
+			"offsets": {
+				"from": 137400,
+				"to": 141080
+			},
+			"text": " E depois a gente vai pra venda dos seus outros produtos, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,660",
+				"to": "00:02:23,480"
+			},
+			"offsets": {
+				"from": 141660,
+				"to": 143480
+			},
+			"text": " Então amanhã eu vou criar uma página de venda pra ele."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,880",
+				"to": "00:02:27,540"
+			},
+			"offsets": {
+				"from": 143880,
+				"to": 147540
+			},
+			"text": " E vou começar a postar aqui, eu mostrando como que eu vou fazer ele ganhar dinheiro, ele faturar."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,000",
+				"to": "00:02:29,960"
+			},
+			"offsets": {
+				"from": 148000,
+				"to": 149960
+			},
+			"text": " Que tem muito a ver com venda de infoprodutos."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,260",
+				"to": "00:02:33,900"
+			},
+			"offsets": {
+				"from": 150260,
+				"to": 153900
+			},
+			"text": " Então eu vou mostrar uma ramificação de você utilizar o MassOS pra vender infoprodutos."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,200",
+				"to": "00:02:35,020"
+			},
+			"offsets": {
+				"from": 154200,
+				"to": 155020
+			},
+			"text": " Produtos digitais."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,300",
+				"to": "00:02:37,960"
+			},
+			"offsets": {
+				"from": 155300,
+				"to": 157960
+			},
+			"text": " Que você pode usar pra você ganhar dinheiro, que é algo que eu uso pra ganhar dinheiro."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,420",
+				"to": "00:02:39,760"
+			},
+			"offsets": {
+				"from": 158420,
+				"to": 159760
+			},
+			"text": " E uso há vários anos, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,760",
+				"to": "00:02:42,040"
+			},
+			"offsets": {
+				"from": 159760,
+				"to": 162040
+			},
+			"text": " Por exemplo, só o MassOS aqui, olha quanto que ele já me rendeu aqui, ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,500",
+				"to": "00:02:43,540"
+			},
+			"offsets": {
+				"from": 162500,
+				"to": 163540
+			},
+			"text": " 50 mil reais, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,100",
+				"to": "00:02:45,680"
+			},
+			"offsets": {
+				"from": 164100,
+				"to": 165680
+			},
+			"text": " Então, é um exemplo que eu tô dando, tá?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,680",
+				"to": "00:02:47,120"
+			},
+			"offsets": {
+				"from": 165680,
+				"to": 167120
+			},
+			"text": " Mas eu vendo vários outros infoprodutos."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,480",
+				"to": "00:02:47,800"
+			},
+			"offsets": {
+				"from": 167480,
+				"to": 167800
+			},
+			"text": " Eu tenho..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,800",
+				"to": "00:02:48,580"
+			},
+			"offsets": {
+				"from": 167800,
+				"to": 168580
+			},
+			"text": " Eu vou até pegar pra vocês aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,040",
+				"to": "00:02:55,720"
+			},
+			"offsets": {
+				"from": 171040,
+				"to": 175720
+			},
+			"text": " Vou deixar a tela cheia pra vocês aí."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,540",
+				"to": "00:02:59,500"
+			},
+			"offsets": {
+				"from": 178540,
+				"to": 179500
+			},
+			"text": " 340k de faturamento."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,600",
+				"to": "00:03:00,360"
+			},
+			"offsets": {
+				"from": 179600,
+				"to": 180360
+			},
+			"text": " Será que fica invertido?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,880",
+				"to": "00:03:01,460"
+			},
+			"offsets": {
+				"from": 180880,
+				"to": 181460
+			},
+			"text": " Ou vocês enxergam?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,400",
+				"to": "00:03:04,300"
+			},
+			"offsets": {
+				"from": 183400,
+				"to": 184300
+			},
+			"text": " 200k de faturamento."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:06,300",
+				"to": "00:03:06,820"
+			},
+			"offsets": {
+				"from": 186300,
+				"to": 186820
+			},
+			"text": " E essa daqui?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,600",
+				"to": "00:03:08,880"
+			},
+			"offsets": {
+				"from": 187600,
+				"to": 188880
+			},
+			"text": " Essa daqui é bonita, hein."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,340",
+				"to": "00:03:09,460"
+			},
+			"offsets": {
+				"from": 189340,
+				"to": 189460
+			},
+			"text": " Ó."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,500",
+				"to": "00:03:12,900"
+			},
+			"offsets": {
+				"from": 191500,
+				"to": 192900
+			},
+			"text": " 100 mil reais."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,360",
+				"to": "00:03:17,100"
+			},
+			"offsets": {
+				"from": 196360,
+				"to": 197100
+			},
+			"text": " Oxe, tem duas."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,360",
+				"to": "00:03:17,860"
+			},
+			"offsets": {
+				"from": 197360,
+				"to": 197860
+			},
+			"text": " Aqui outra."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,100",
+				"to": "00:03:20,380"
+			},
+			"offsets": {
+				"from": 200100,
+				"to": 200380
+			},
+			"text": " Olha lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:20,460",
+				"to": "00:03:20,820"
+			},
+			"offsets": {
+				"from": 200460,
+				"to": 200820
+			},
+			"text": " Mais uma."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,820",
+				"to": "00:03:22,840"
+			},
+			"offsets": {
+				"from": 201820,
+				"to": 202840
+			},
+			"text": " E essa daqui, tá bom pra vocês?"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,160",
+				"to": "00:03:24,440"
+			},
+			"offsets": {
+				"from": 203160,
+				"to": 204440
+			},
+			"text": " Não é todo mundo que tem essa daqui, não, hein."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,940",
+				"to": "00:03:27,180"
+			},
+			"offsets": {
+				"from": 205940,
+				"to": 207180
+			},
+			"text": " 950k de faturamento em 2024."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,500",
+				"to": "00:03:29,840"
+			},
+			"offsets": {
+				"from": 208500,
+				"to": 209840
+			},
+			"text": " Podia ter arredondado pra um milhão, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,980",
+				"to": "00:03:30,800"
+			},
+			"offsets": {
+				"from": 209980,
+				"to": 210800
+			},
+			"text": " É meio feio, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:30,840",
+				"to": "00:03:31,160"
+			},
+			"offsets": {
+				"from": 210840,
+				"to": 211160
+			},
+			"text": " Mas tá bom."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,480",
+				"to": "00:03:34,640"
+			},
+			"offsets": {
+				"from": 212480,
+				"to": 214640
+			},
+			"text": " Quem faz 950k faz uma milha, hein."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:36,320",
+				"to": "00:03:37,480"
+			},
+			"offsets": {
+				"from": 216320,
+				"to": 217480
+			},
+			"text": " Mais uma aqui de 500."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:38,340",
+				"to": "00:03:38,620"
+			},
+			"offsets": {
+				"from": 218340,
+				"to": 218620
+			},
+			"text": " Olha lá."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,020",
+				"to": "00:03:41,080"
+			},
+			"offsets": {
+				"from": 219020,
+				"to": 221080
+			},
+			"text": " Quem faz 950k faz um milhão também."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:42,380",
+				"to": "00:03:43,440"
+			},
+			"offsets": {
+				"from": 222380,
+				"to": 223440
+			},
+			"text": " É coisa, é coisa."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,760",
+				"to": "00:03:44,100"
+			},
+			"offsets": {
+				"from": 223760,
+				"to": 224100
+			},
+			"text": " Vai, mano."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:44,140",
+				"to": "00:03:45,060"
+			},
+			"offsets": {
+				"from": 224140,
+				"to": 225060
+			},
+			"text": " Não sei nem porque eu tô mostrando isso aqui."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,120",
+				"to": "00:03:45,540"
+			},
+			"offsets": {
+				"from": 225120,
+				"to": 225540
+			},
+			"text": " É legal, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,540",
+				"to": "00:03:46,080"
+			},
+			"offsets": {
+				"from": 225540,
+				"to": 226080
+			},
+			"text": " Uma conquista."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,160",
+				"to": "00:03:46,980"
+			},
+			"offsets": {
+				"from": 226160,
+				"to": 226980
+			},
+			"text": " Eu tenho outras ali ainda."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:47,480",
+				"to": "00:03:48,260"
+			},
+			"offsets": {
+				"from": 227480,
+				"to": 228260
+			},
+			"text": " Tem mais umas três ali."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:49,380",
+				"to": "00:03:50,820"
+			},
+			"offsets": {
+				"from": 229380,
+				"to": 230820
+			},
+			"text": " Mas, resumindo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,920",
+				"to": "00:03:51,860"
+			},
+			"offsets": {
+				"from": 230920,
+				"to": 231860
+			},
+			"text": " Todas essas placas aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,860",
+				"to": "00:03:54,580"
+			},
+			"offsets": {
+				"from": 231860,
+				"to": 234580
+			},
+			"text": " são placas que eu recebi"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,580",
+				"to": "00:03:56,540"
+			},
+			"offsets": {
+				"from": 234580,
+				"to": 236540
+			},
+			"text": " de faturamento por venda de infoprodutos, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,900",
+				"to": "00:03:58,320"
+			},
+			"offsets": {
+				"from": 236900,
+				"to": 238320
+			},
+			"text": " Só a comunidade exclusiva aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,320",
+				"to": "00:03:59,000"
+			},
+			"offsets": {
+				"from": 238320,
+				"to": 239000
+			},
+			"text": " que é o grupo no Discord"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,000",
+				"to": "00:04:00,880"
+			},
+			"offsets": {
+				"from": 239000,
+				"to": 240880
+			},
+			"text": " já me rendeu mais isso aqui, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,100",
+				"to": "00:04:02,580"
+			},
+			"offsets": {
+				"from": 241100,
+				"to": 242580
+			},
+			"text": " Isso daqui não deu nenhum mês de operação, tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,320",
+				"to": "00:04:03,800"
+			},
+			"offsets": {
+				"from": 243320,
+				"to": 243800
+			},
+			"text": " Mas, assim,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,940",
+				"to": "00:04:06,100"
+			},
+			"offsets": {
+				"from": 244940,
+				"to": 246100
+			},
+			"text": " o que eu quero te mostrar"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,100",
+				"to": "00:04:08,320"
+			},
+			"offsets": {
+				"from": 246100,
+				"to": 248320
+			},
+			"text": " é que eu vou montar essa operação"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,320",
+				"to": "00:04:09,360"
+			},
+			"offsets": {
+				"from": 248320,
+				"to": 249360
+			},
+			"text": " pro Tuba também"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,360",
+				"to": "00:04:10,820"
+			},
+			"offsets": {
+				"from": 249360,
+				"to": 250820
+			},
+			"text": " e vou mostrar pra vocês"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,820",
+				"to": "00:04:11,680"
+			},
+			"offsets": {
+				"from": 250820,
+				"to": 251680
+			},
+			"text": " como utilizar o MasOS"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,680",
+				"to": "00:04:13,120"
+			},
+			"offsets": {
+				"from": 251680,
+				"to": 253120
+			},
+			"text": " pra vender esses infoprodutos."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,540",
+				"to": "00:04:13,900"
+			},
+			"offsets": {
+				"from": 253540,
+				"to": 253900
+			},
+			"text": " Pra criar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,420",
+				"to": "00:04:15,860"
+			},
+			"offsets": {
+				"from": 254420,
+				"to": 255860
+			},
+			"text": " Ele já tem esse curso gravado dele"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:15,860",
+				"to": "00:04:17,000"
+			},
+			"offsets": {
+				"from": 255860,
+				"to": 257000
+			},
+			"text": " que é o Líder Presente, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:17,040",
+				"to": "00:04:17,980"
+			},
+			"offsets": {
+				"from": 257040,
+				"to": 257980
+			},
+			"text": " Hoje ele vende na Udemy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,720",
+				"to": "00:04:20,040"
+			},
+			"offsets": {
+				"from": 258720,
+				"to": 260040
+			},
+			"text": " Eu já passei pra ele o que a gente vai fazer."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,140",
+				"to": "00:04:21,140"
+			},
+			"offsets": {
+				"from": 260140,
+				"to": 261140
+			},
+			"text": " Eu vou tirar, vou colocar na Curvana"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:21,140",
+				"to": "00:04:21,940"
+			},
+			"offsets": {
+				"from": 261140,
+				"to": 261940
+			},
+			"text": " o que é que eu tô usando hoje."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,420",
+				"to": "00:04:23,560"
+			},
+			"offsets": {
+				"from": 262420,
+				"to": 263560
+			},
+			"text": " Eu vou mostrar como que eu vou deixar"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:23,560",
+				"to": "00:04:24,560"
+			},
+			"offsets": {
+				"from": 263560,
+				"to": 264560
+			},
+			"text": " esse curso dele sexy."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,700",
+				"to": "00:04:25,460"
+			},
+			"offsets": {
+				"from": 264700,
+				"to": 265460
+			},
+			"text": " Eu vou baixar esse preço"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,460",
+				"to": "00:04:27,080"
+			},
+			"offsets": {
+				"from": 265460,
+				"to": 267080
+			},
+			"text": " e vou ajudar ele a vender"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:27,080",
+				"to": "00:04:27,940"
+			},
+			"offsets": {
+				"from": 267080,
+				"to": 267940
+			},
+			"text": " isso daqui na internet."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,020",
+				"to": "00:04:28,940"
+			},
+			"offsets": {
+				"from": 268020,
+				"to": 268940
+			},
+			"text": " Então, eu vou mostrar a página de venda"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,940",
+				"to": "00:04:29,380"
+			},
+			"offsets": {
+				"from": 268940,
+				"to": 269380
+			},
+			"text": " e por aí vai."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,800",
+				"to": "00:04:31,300"
+			},
+			"offsets": {
+				"from": 269800,
+				"to": 271300
+			},
+			"text": " Como que eu vou criar order bumps,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:31,380",
+				"to": "00:04:32,680"
+			},
+			"offsets": {
+				"from": 271380,
+				"to": 272680
+			},
+			"text": " como eu vou criar upsells"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,680",
+				"to": "00:04:33,960"
+			},
+			"offsets": {
+				"from": 272680,
+				"to": 273960
+			},
+			"text": " e toda a estratégia que eu vou usar."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,220",
+				"to": "00:04:34,480"
+			},
+			"offsets": {
+				"from": 274220,
+				"to": 274480
+			},
+			"text": " Fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,980",
+				"to": "00:04:35,480"
+			},
+			"offsets": {
+				"from": 274980,
+				"to": 275480
+			},
+			"text": " O que eu quero te mostrar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,540",
+				"to": "00:04:36,640"
+			},
+			"offsets": {
+				"from": 275540,
+				"to": 276640
+			},
+			"text": " eu te mostrei essas placas aqui também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:36,820",
+				"to": "00:04:38,320"
+			},
+			"offsets": {
+				"from": 276820,
+				"to": 278320
+			},
+			"text": " é pra te mostrar que existe esse mundo."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,760",
+				"to": "00:04:40,120"
+			},
+			"offsets": {
+				"from": 278760,
+				"to": 280120
+			},
+			"text": " E outro ponto importante,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,260",
+				"to": "00:04:41,560"
+			},
+			"offsets": {
+				"from": 280260,
+				"to": 281560
+			},
+			"text": " se você quiser ir pra esse caminho"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,560",
+				"to": "00:04:42,500"
+			},
+			"offsets": {
+				"from": 281560,
+				"to": 282500
+			},
+			"text": " de infoprodutos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,240",
+				"to": "00:04:44,760"
+			},
+			"offsets": {
+				"from": 283240,
+				"to": 284760
+			},
+			"text": " se você quiser ter algum infoproduto"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,760",
+				"to": "00:04:46,720"
+			},
+			"offsets": {
+				"from": 284760,
+				"to": 286720
+			},
+			"text": " dentro da sua esteira de produtos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,220",
+				"to": "00:04:47,440"
+			},
+			"offsets": {
+				"from": 287220,
+				"to": 287440
+			},
+			"text": " lembrando,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,500",
+				"to": "00:04:48,220"
+			},
+			"offsets": {
+				"from": 287500,
+				"to": 288220
+			},
+			"text": " você não precisa vender curso"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,220",
+				"to": "00:04:49,140"
+			},
+			"offsets": {
+				"from": 288220,
+				"to": 289140
+			},
+			"text": " igual eu tô vendendo de IA, tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,260",
+				"to": "00:04:50,520"
+			},
+			"offsets": {
+				"from": 289260,
+				"to": 290520
+			},
+			"text": " Você pode vender cursos de palestras,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,880",
+				"to": "00:04:51,840"
+			},
+			"offsets": {
+				"from": 290880,
+				"to": 291840
+			},
+			"text": " você pode vender curso"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,840",
+				"to": "00:04:52,900"
+			},
+			"offsets": {
+				"from": 291840,
+				"to": 292900
+			},
+			"text": " de outra coisa que você entende,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:52,980",
+				"to": "00:04:53,840"
+			},
+			"offsets": {
+				"from": 292980,
+				"to": 293840
+			},
+			"text": " você pode vender curso de IA,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,940",
+				"to": "00:04:54,660"
+			},
+			"offsets": {
+				"from": 293940,
+				"to": 294660
+			},
+			"text": " mas de uma maneira diferente"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:55,460",
+				"to": "00:04:56,980"
+			},
+			"offsets": {
+				"from": 295460,
+				"to": 296980
+			},
+			"text": " você pode fazer de várias maneiras, tá."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:57,060",
+				"to": "00:04:57,660"
+			},
+			"offsets": {
+				"from": 297060,
+				"to": 297660
+			},
+			"text": " De várias maneiras."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:58,040",
+				"to": "00:04:59,860"
+			},
+			"offsets": {
+				"from": 298040,
+				"to": 299860
+			},
+			"text": " Você pode vender um infoproduto"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:59,860",
+				"to": "00:05:01,600"
+			},
+			"offsets": {
+				"from": 299860,
+				"to": 301600
+			},
+			"text": " que tira a dor ali"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,600",
+				"to": "00:05:02,860"
+			},
+			"offsets": {
+				"from": 301600,
+				"to": 302860
+			},
+			"text": " do seu cliente que é empresário,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:03,160",
+				"to": "00:05:03,900"
+			},
+			"offsets": {
+				"from": 303160,
+				"to": 303900
+			},
+			"text": " que é empreendedor."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:04,320",
+				"to": "00:05:04,860"
+			},
+			"offsets": {
+				"from": 304320,
+				"to": 304860
+			},
+			"text": " Ou, cara,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,040",
+				"to": "00:05:07,220"
+			},
+			"offsets": {
+				"from": 305040,
+				"to": 307220
+			},
+			"text": " vender uma mentoria em aulas, né,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,260",
+				"to": "00:05:07,880"
+			},
+			"offsets": {
+				"from": 307260,
+				"to": 307880
+			},
+			"text": " em videoaulas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,980",
+				"to": "00:05:08,440"
+			},
+			"offsets": {
+				"from": 307980,
+				"to": 308440
+			},
+			"text": " ensinando o cara"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:08,440",
+				"to": "00:05:10,160"
+			},
+			"offsets": {
+				"from": 308440,
+				"to": 310160
+			},
+			"text": " a instalar uma IA específica."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:10,320",
+				"to": "00:05:11,140"
+			},
+			"offsets": {
+				"from": 310320,
+				"to": 311140
+			},
+			"text": " Cara, tem infinitas maneiras"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,140",
+				"to": "00:05:11,740"
+			},
+			"offsets": {
+				"from": 311140,
+				"to": 311740
+			},
+			"text": " que dá pra você criar"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:11,740",
+				"to": "00:05:12,980"
+			},
+			"offsets": {
+				"from": 311740,
+				"to": 312980
+			},
+			"text": " de infinitos nichos"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:12,980",
+				"to": "00:05:14,260"
+			},
+			"offsets": {
+				"from": 312980,
+				"to": 314260
+			},
+			"text": " e infinitos tickets, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,640",
+				"to": "00:05:15,560"
+			},
+			"offsets": {
+				"from": 314640,
+				"to": 315560
+			},
+			"text": " Mas é muito importante"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:15,560",
+				"to": "00:05:16,540"
+			},
+			"offsets": {
+				"from": 315560,
+				"to": 316540
+			},
+			"text": " você estudar, né,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,700",
+				"to": "00:05:17,760"
+			},
+			"offsets": {
+				"from": 316700,
+				"to": 317760
+			},
+			"text": " e assistir esse extra"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:17,760",
+				"to": "00:05:18,580"
+			},
+			"offsets": {
+				"from": 317760,
+				"to": 318580
+			},
+			"text": " que é o Mindset Avançado."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,820",
+				"to": "00:05:19,820"
+			},
+			"offsets": {
+				"from": 318820,
+				"to": 319820
+			},
+			"text": " Se você ainda não assistiu"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,820",
+				"to": "00:05:20,840"
+			},
+			"offsets": {
+				"from": 319820,
+				"to": 320840
+			},
+			"text": " essa aula aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:21,380",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 321380,
+				"to": 322000
+			},
+			"text": " te passando a visão"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,000",
+				"to": "00:05:23,280"
+			},
+			"offsets": {
+				"from": 322000,
+				"to": 323280
+			},
+			"text": " pra assistir esse podcast aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,140",
+				"to": "00:05:25,000"
+			},
+			"offsets": {
+				"from": 324140,
+				"to": 325000
+			},
+			"text": " não tem como você"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:25,000",
+				"to": "00:05:26,420"
+			},
+			"offsets": {
+				"from": 325000,
+				"to": 326420
+			},
+			"text": " entender do que eu tô falando pra você."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,520",
+				"to": "00:05:26,960"
+			},
+			"offsets": {
+				"from": 326520,
+				"to": 326960
+			},
+			"text": " Porque eu já vivo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,960",
+				"to": "00:05:27,480"
+			},
+			"offsets": {
+				"from": 326960,
+				"to": 327480
+			},
+			"text": " desse mercado digital"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:27,480",
+				"to": "00:05:28,060"
+			},
+			"offsets": {
+				"from": 327480,
+				"to": 328060
+			},
+			"text": " há vários anos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,160",
+				"to": "00:05:29,020"
+			},
+			"offsets": {
+				"from": 328160,
+				"to": 329020
+			},
+			"text": " todas as placas que eu te mostrei"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,020",
+				"to": "00:05:29,600"
+			},
+			"offsets": {
+				"from": 329020,
+				"to": 329600
+			},
+			"text": " aqui de faturamento"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,600",
+				"to": "00:05:30,720"
+			},
+			"offsets": {
+				"from": 329600,
+				"to": 330720
+			},
+			"text": " veio do mercado digital, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:30,760",
+				"to": "00:05:31,960"
+			},
+			"offsets": {
+				"from": 330760,
+				"to": 331960
+			},
+			"text": " Já faturei alguns milhões de reais,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,100",
+				"to": "00:05:33,080"
+			},
+			"offsets": {
+				"from": 332100,
+				"to": 333080
+			},
+			"text": " eu não fico falando isso no YouTube"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,080",
+				"to": "00:05:33,460"
+			},
+			"offsets": {
+				"from": 333080,
+				"to": 333460
+			},
+			"text": " e por aí vai,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,500",
+				"to": "00:05:34,720"
+			},
+			"offsets": {
+				"from": 333500,
+				"to": 334720
+			},
+			"text": " porque eu não quero ficar falando disso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:35,280",
+				"to": "00:05:35,580"
+			},
+			"offsets": {
+				"from": 335280,
+				"to": 335580
+			},
+			"text": " Mas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:36,500",
+				"to": "00:05:37,420"
+			},
+			"offsets": {
+				"from": 336500,
+				"to": 337420
+			},
+			"text": " resumindo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,860",
+				"to": "00:05:39,640"
+			},
+			"offsets": {
+				"from": 337860,
+				"to": 339640
+			},
+			"text": " foi o caminho que eu escolhi"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,640",
+				"to": "00:05:40,320"
+			},
+			"offsets": {
+				"from": 339640,
+				"to": 340320
+			},
+			"text": " e que,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:41,200",
+				"to": "00:05:42,040"
+			},
+			"offsets": {
+				"from": 341200,
+				"to": 342040
+			},
+			"text": " desde que eu entrei no mercado digital,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,180",
+				"to": "00:05:42,820"
+			},
+			"offsets": {
+				"from": 342180,
+				"to": 342820
+			},
+			"text": " foi o único jeito"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:42,820",
+				"to": "00:05:43,460"
+			},
+			"offsets": {
+				"from": 342820,
+				"to": 343460
+			},
+			"text": " que eu consegui fazer grana,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:43,640",
+				"to": "00:05:43,980"
+			},
+			"offsets": {
+				"from": 343640,
+				"to": 343980
+			},
+			"text": " tá ligado?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,180",
+				"to": "00:05:44,900"
+			},
+			"offsets": {
+				"from": 344180,
+				"to": 344900
+			},
+			"text": " A grosso modo é isso."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,300",
+				"to": "00:05:46,560"
+			},
+			"offsets": {
+				"from": 345300,
+				"to": 346560
+			},
+			"text": " Só que logo quando eu soltei"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,560",
+				"to": "00:05:47,380"
+			},
+			"offsets": {
+				"from": 346560,
+				"to": 347380
+			},
+			"text": " e ganhei uma grana"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,380",
+				"to": "00:05:48,400"
+			},
+			"offsets": {
+				"from": 347380,
+				"to": 348400
+			},
+			"text": " no meu primeiro lançamento, né,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:48,400",
+				"to": "00:05:49,280"
+			},
+			"offsets": {
+				"from": 348400,
+				"to": 349280
+			},
+			"text": " foi com outro expert,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:49,420",
+				"to": "00:05:49,820"
+			},
+			"offsets": {
+				"from": 349420,
+				"to": 349820
+			},
+			"text": " outra parada,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:50,560",
+				"to": "00:05:51,100"
+			},
+			"offsets": {
+				"from": 350560,
+				"to": 351100
+			},
+			"text": " os caras sumiram,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,160",
+				"to": "00:05:51,660"
+			},
+			"offsets": {
+				"from": 351160,
+				"to": 351660
+			},
+			"text": " não me deram um real"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:51,660",
+				"to": "00:05:52,400"
+			},
+			"offsets": {
+				"from": 351660,
+				"to": 352400
+			},
+			"text": " daquele dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,400",
+				"to": "00:05:53,400"
+			},
+			"offsets": {
+				"from": 352400,
+				"to": 353400
+			},
+			"text": " e daí eu fui indo"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,400",
+				"to": "00:05:53,980"
+			},
+			"offsets": {
+				"from": 353400,
+				"to": 353980
+			},
+			"text": " pra outros caminhos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,120",
+				"to": "00:05:54,440"
+			},
+			"offsets": {
+				"from": 354120,
+				"to": 354440
+			},
+			"text": " tals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:54,660",
+				"to": "00:05:55,560"
+			},
+			"offsets": {
+				"from": 354660,
+				"to": 355560
+			},
+			"text": " depois eu tentei vender"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,560",
+				"to": "00:05:56,160"
+			},
+			"offsets": {
+				"from": 355560,
+				"to": 356160
+			},
+			"text": " infoprodutos também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,220",
+				"to": "00:05:56,560"
+			},
+			"offsets": {
+				"from": 356220,
+				"to": 356560
+			},
+			"text": " não consegui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:56,620",
+				"to": "00:05:57,060"
+			},
+			"offsets": {
+				"from": 356620,
+				"to": 357060
+			},
+			"text": " não deu certo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,500",
+				"to": "00:05:58,280"
+			},
+			"offsets": {
+				"from": 357500,
+				"to": 358280
+			},
+			"text": " e fiquei vários anos digital"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,280",
+				"to": "00:05:59,660"
+			},
+			"offsets": {
+				"from": 358280,
+				"to": 359660
+			},
+			"text": " e depois voltei,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,760",
+				"to": "00:06:00,520"
+			},
+			"offsets": {
+				"from": 359760,
+				"to": 360520
+			},
+			"text": " usei muitos influenciadores"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,520",
+				"to": "00:06:01,760"
+			},
+			"offsets": {
+				"from": 360520,
+				"to": 361760
+			},
+			"text": " pra vender infoprodutos também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,840",
+				"to": "00:06:02,780"
+			},
+			"offsets": {
+				"from": 361840,
+				"to": 362780
+			},
+			"text": " foi a estratégia que eu mais ganhei dinheiro"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:02,780",
+				"to": "00:06:03,800"
+			},
+			"offsets": {
+				"from": 362780,
+				"to": 363800
+			},
+			"text": " e hoje, por exemplo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:03,860",
+				"to": "00:06:04,480"
+			},
+			"offsets": {
+				"from": 363860,
+				"to": 364480
+			},
+			"text": " com meu canal no YouTube,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,140",
+				"to": "00:06:05,520"
+			},
+			"offsets": {
+				"from": 365140,
+				"to": 365520
+			},
+			"text": " aqui ó,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,580",
+				"to": "00:06:06,480"
+			},
+			"offsets": {
+				"from": 365580,
+				"to": 366480
+			},
+			"text": " eu tava até vendo aqui ó,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:06,820",
+				"to": "00:06:07,380"
+			},
+			"offsets": {
+				"from": 366820,
+				"to": 367380
+			},
+			"text": " meu canal no YouTube"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:07,380",
+				"to": "00:06:08,740"
+			},
+			"offsets": {
+				"from": 367380,
+				"to": 368740
+			},
+			"text": " foi uma estratégia orgânica"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,740",
+				"to": "00:06:11,060"
+			},
+			"offsets": {
+				"from": 368740,
+				"to": 371060
+			},
+			"text": " pra venda de um infoproduto, né."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:11,420",
+				"to": "00:06:11,880"
+			},
+			"offsets": {
+				"from": 371420,
+				"to": 371880
+			},
+			"text": " Então aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:12,100",
+				"to": "00:06:13,620"
+			},
+			"offsets": {
+				"from": 372100,
+				"to": 373620
+			},
+			"text": " foi tudo pra ruminar"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,620",
+				"to": "00:06:14,280"
+			},
+			"offsets": {
+				"from": 373620,
+				"to": 374280
+			},
+			"text": " no Masio S"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,280",
+				"to": "00:06:15,420"
+			},
+			"offsets": {
+				"from": 374280,
+				"to": 375420
+			},
+			"text": " e gerar essas vendas."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:15,700",
+				"to": "00:06:16,540"
+			},
+			"offsets": {
+				"from": 375700,
+				"to": 376540
+			},
+			"text": " Óbvio que eu estou sendo"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,540",
+				"to": "00:06:17,200"
+			},
+			"offsets": {
+				"from": 376540,
+				"to": 377200
+			},
+			"text": " 100% eu,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:17,260",
+				"to": "00:06:18,380"
+			},
+			"offsets": {
+				"from": 377260,
+				"to": 378380
+			},
+			"text": " estou soltando o ouro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:18,700",
+				"to": "00:06:19,240"
+			},
+			"offsets": {
+				"from": 378700,
+				"to": 379240
+			},
+			"text": " tô passando,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,520",
+				"to": "00:06:20,420"
+			},
+			"offsets": {
+				"from": 379520,
+				"to": 380420
+			},
+			"text": " tudo isso aqui é verdade, tá,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:20,540",
+				"to": "00:06:21,480"
+			},
+			"offsets": {
+				"from": 380540,
+				"to": 381480
+			},
+			"text": " não é só pra vender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,880",
+				"to": "00:06:22,360"
+			},
+			"offsets": {
+				"from": 381880,
+				"to": 382360
+			},
+			"text": " é verdade,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:22,660",
+				"to": "00:06:23,080"
+			},
+			"offsets": {
+				"from": 382660,
+				"to": 383080
+			},
+			"text": " isso daqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,240",
+				"to": "00:06:23,940"
+			},
+			"offsets": {
+				"from": 383240,
+				"to": 383940
+			},
+			"text": " eu estou vendendo carne"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:23,940",
+				"to": "00:06:24,480"
+			},
+			"offsets": {
+				"from": 383940,
+				"to": 384480
+			},
+			"text": " com cloud code,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:24,560",
+				"to": "00:06:25,080"
+			},
+			"offsets": {
+				"from": 384560,
+				"to": 385080
+			},
+			"text": " eu mostro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,680",
+				"to": "00:06:27,080"
+			},
+			"offsets": {
+				"from": 385680,
+				"to": 387080
+			},
+			"text": " eu fiz essa cal, né,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:27,100",
+				"to": "00:06:28,200"
+			},
+			"offsets": {
+				"from": 387100,
+				"to": 388200
+			},
+			"text": " fiz 13 mil reais com uma cal"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:28,200",
+				"to": "00:06:29,320"
+			},
+			"offsets": {
+				"from": 388200,
+				"to": 389320
+			},
+			"text": " e vou mostrar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,460",
+				"to": "00:06:30,380"
+			},
+			"offsets": {
+				"from": 389460,
+				"to": 390380
+			},
+			"text": " tanto que é o projeto do Tuba"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:30,380",
+				"to": "00:06:31,380"
+			},
+			"offsets": {
+				"from": 390380,
+				"to": 391380
+			},
+			"text": " que eu tô mexendo aqui"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:31,380",
+				"to": "00:06:32,420"
+			},
+			"offsets": {
+				"from": 391380,
+				"to": 392420
+			},
+			"text": " e realmente fazendo"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,420",
+				"to": "00:06:33,240"
+			},
+			"offsets": {
+				"from": 392420,
+				"to": 393240
+			},
+			"text": " com que ele tenha resultado."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:34,060",
+				"to": "00:06:35,020"
+			},
+			"offsets": {
+				"from": 394060,
+				"to": 395020
+			},
+			"text": " Estou vendendo apartamentos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,140",
+				"to": "00:06:35,240"
+			},
+			"offsets": {
+				"from": 395140,
+				"to": 395240
+			},
+			"text": " pô,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,300",
+				"to": "00:06:36,280"
+			},
+			"offsets": {
+				"from": 395300,
+				"to": 396280
+			},
+			"text": " eu trouxe minha mãe no vídeo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:36,380",
+				"to": "00:06:37,380"
+			},
+			"offsets": {
+				"from": 396380,
+				"to": 397380
+			},
+			"text": " eu sei fazer a parada real,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:37,880",
+				"to": "00:06:38,700"
+			},
+			"offsets": {
+				"from": 397880,
+				"to": 398700
+			},
+			"text": " eu sou verdadeiro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,740",
+				"to": "00:06:38,980"
+			},
+			"offsets": {
+				"from": 398740,
+				"to": 398980
+			},
+			"text": " entende?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,500",
+				"to": "00:06:40,620"
+			},
+			"offsets": {
+				"from": 399500,
+				"to": 400620
+			},
+			"text": " E é isso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:40,740",
+				"to": "00:06:40,960"
+			},
+			"offsets": {
+				"from": 400740,
+				"to": 400960
+			},
+			"text": " então,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,200",
+				"to": "00:06:41,540"
+			},
+			"offsets": {
+				"from": 401200,
+				"to": 401540
+			},
+			"text": " resumindo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:42,200",
+				"to": "00:06:42,980"
+			},
+			"offsets": {
+				"from": 402200,
+				"to": 402980
+			},
+			"text": " tô até falando demais,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,100",
+				"to": "00:06:43,820"
+			},
+			"offsets": {
+				"from": 403100,
+				"to": 403820
+			},
+			"text": " mas espero que você pegue"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,820",
+				"to": "00:06:44,720"
+			},
+			"offsets": {
+				"from": 403820,
+				"to": 404720
+			},
+			"text": " isso que eu tô querendo"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:44,720",
+				"to": "00:06:45,420"
+			},
+			"offsets": {
+				"from": 404720,
+				"to": 405420
+			},
+			"text": " transparecer pra você,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:45,540",
+				"to": "00:06:46,620"
+			},
+			"offsets": {
+				"from": 405540,
+				"to": 406620
+			},
+			"text": " mas isso é mindset avançado,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:46,860",
+				"to": "00:06:48,340"
+			},
+			"offsets": {
+				"from": 406860,
+				"to": 408340
+			},
+			"text": " é você saber vender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:48,500",
+				"to": "00:06:49,300"
+			},
+			"offsets": {
+				"from": 408500,
+				"to": 409300
+			},
+			"text": " saber se expressar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:49,620",
+				"to": "00:06:50,040"
+			},
+			"offsets": {
+				"from": 409620,
+				"to": 410040
+			},
+			"text": " saber vender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,300",
+				"to": "00:06:52,260"
+			},
+			"offsets": {
+				"from": 410300,
+				"to": 412260
+			},
+			"text": " eu tô vendendo serviços,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:52,360",
+				"to": "00:06:53,300"
+			},
+			"offsets": {
+				"from": 412360,
+				"to": 413300
+			},
+			"text": " mostrei vendendo serviços,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:53,600",
+				"to": "00:06:54,980"
+			},
+			"offsets": {
+				"from": 413600,
+				"to": 414980
+			},
+			"text": " eu sei criar várias fontes de renda,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,220",
+				"to": "00:06:56,160"
+			},
+			"offsets": {
+				"from": 415220,
+				"to": 416160
+			},
+			"text": " eu vivo na internet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:56,360",
+				"to": "00:06:57,680"
+			},
+			"offsets": {
+				"from": 416360,
+				"to": 417680
+			},
+			"text": " eu sei fazer renda com a internet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:57,960",
+				"to": "00:06:59,320"
+			},
+			"offsets": {
+				"from": 417960,
+				"to": 419320
+			},
+			"text": " eu sei vender carne na internet,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:59,580",
+				"to": "00:07:00,460"
+			},
+			"offsets": {
+				"from": 419580,
+				"to": 420460
+			},
+			"text": " eu sei vender palestras,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:00,680",
+				"to": "00:07:01,380"
+			},
+			"offsets": {
+				"from": 420680,
+				"to": 421380
+			},
+			"text": " eu sei vender curso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:01,680",
+				"to": "00:07:02,580"
+			},
+			"offsets": {
+				"from": 421680,
+				"to": 422580
+			},
+			"text": " eu sei vender produto físico,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,680",
+				"to": "00:07:03,220"
+			},
+			"offsets": {
+				"from": 422680,
+				"to": 423220
+			},
+			"text": " produto digital,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:03,740",
+				"to": "00:07:04,840"
+			},
+			"offsets": {
+				"from": 423740,
+				"to": 424840
+			},
+			"text": " e sei vender serviço,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:05,120",
+				"to": "00:07:06,100"
+			},
+			"offsets": {
+				"from": 425120,
+				"to": 426100
+			},
+			"text": " e tô provando isso pra vocês,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:06,240",
+				"to": "00:07:06,760"
+			},
+			"offsets": {
+				"from": 426240,
+				"to": 426760
+			},
+			"text": " mas resumindo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:07,660",
+				"to": "00:07:08,380"
+			},
+			"offsets": {
+				"from": 427660,
+				"to": 428380
+			},
+			"text": " com o mindset avançado,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:08,440",
+				"to": "00:07:10,180"
+			},
+			"offsets": {
+				"from": 428440,
+				"to": 430180
+			},
+			"text": " você vai ver que uma das maneiras,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:10,300",
+				"to": "00:07:11,700"
+			},
+			"offsets": {
+				"from": 430300,
+				"to": 431700
+			},
+			"text": " até que o Conrado Adolfo utiliza,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,800",
+				"to": "00:07:12,340"
+			},
+			"offsets": {
+				"from": 431800,
+				"to": 432340
+			},
+			"text": " que é esse cara aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:12,620",
+				"to": "00:07:13,600"
+			},
+			"offsets": {
+				"from": 432620,
+				"to": 433600
+			},
+			"text": " é o infoproduto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,880",
+				"to": "00:07:15,180"
+			},
+			"offsets": {
+				"from": 433880,
+				"to": 435180
+			},
+			"text": " é você criar um produto digital,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,360",
+				"to": "00:07:16,400"
+			},
+			"offsets": {
+				"from": 435360,
+				"to": 436400
+			},
+			"text": " é muito fácil você vender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:16,760",
+				"to": "00:07:18,300"
+			},
+			"offsets": {
+				"from": 436760,
+				"to": 438300
+			},
+			"text": " e você pode vender pra vários outros países,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,540",
+				"to": "00:07:18,920"
+			},
+			"offsets": {
+				"from": 438540,
+				"to": 438920
+			},
+			"text": " e por aí vai,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,020",
+				"to": "00:07:19,360"
+			},
+			"offsets": {
+				"from": 439020,
+				"to": 439360
+			},
+			"text": " resumindo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:19,460",
+				"to": "00:07:20,300"
+			},
+			"offsets": {
+				"from": 439460,
+				"to": 440300
+			},
+			"text": " aí é algo que você tem que estudar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,340",
+				"to": "00:07:20,740"
+			},
+			"offsets": {
+				"from": 440340,
+				"to": 440740
+			},
+			"text": " ao longo dos anos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,820",
+				"to": "00:07:22,040"
+			},
+			"offsets": {
+				"from": 440820,
+				"to": 442040
+			},
+			"text": " eu estudo essa porra mais de oito anos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:22,100",
+				"to": "00:07:22,880"
+			},
+			"offsets": {
+				"from": 442100,
+				"to": 442880
+			},
+			"text": " pra conseguir fazer dar certo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,360",
+				"to": "00:07:23,700"
+			},
+			"offsets": {
+				"from": 443360,
+				"to": 443700
+			},
+			"text": " e é isso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,940",
+				"to": "00:07:24,220"
+			},
+			"offsets": {
+				"from": 443940,
+				"to": 444220
+			},
+			"text": " fechou?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:24,640",
+				"to": "00:07:25,400"
+			},
+			"offsets": {
+				"from": 444640,
+				"to": 445400
+			},
+			"text": " Espero que você tenha entendido,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:25,500",
+				"to": "00:07:26,120"
+			},
+			"offsets": {
+				"from": 445500,
+				"to": 446120
+			},
+			"text": " tudo isso que eu falei,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,320",
+				"to": "00:07:26,580"
+			},
+			"offsets": {
+				"from": 446320,
+				"to": 446580
+			},
+			"text": " mas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:26,760",
+				"to": "00:07:27,980"
+			},
+			"offsets": {
+				"from": 446760,
+				"to": 447980
+			},
+			"text": " então,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,080",
+				"to": "00:07:28,800"
+			},
+			"offsets": {
+				"from": 448080,
+				"to": 448800
+			},
+			"text": " eu meio que abri já,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:29,020",
+				"to": "00:07:30,120"
+			},
+			"offsets": {
+				"from": 449020,
+				"to": 450120
+			},
+			"text": " essa ramificação,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:30,160",
+				"to": "00:07:31,000"
+			},
+			"offsets": {
+				"from": 450160,
+				"to": 451000
+			},
+			"text": " dentro do nosso curso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,060",
+				"to": "00:07:31,420"
+			},
+			"offsets": {
+				"from": 451060,
+				"to": 451420
+			},
+			"text": " MasOS,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,620",
+				"to": "00:07:32,600"
+			},
+			"offsets": {
+				"from": 451620,
+				"to": 452600
+			},
+			"text": " de infoprodutos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:32,880",
+				"to": "00:07:33,760"
+			},
+			"offsets": {
+				"from": 452880,
+				"to": 453760
+			},
+			"text": " mostrar como que eu faço,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:33,840",
+				"to": "00:07:34,560"
+			},
+			"offsets": {
+				"from": 453840,
+				"to": 454560
+			},
+			"text": " pra vender infoprodutos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:34,640",
+				"to": "00:07:35,460"
+			},
+			"offsets": {
+				"from": 454640,
+				"to": 455460
+			},
+			"text": " seja de maneira orgânica,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,560",
+				"to": "00:07:35,720"
+			},
+			"offsets": {
+				"from": 455560,
+				"to": 455720
+			},
+			"text": " por exemplo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,760",
+				"to": "00:07:36,300"
+			},
+			"offsets": {
+				"from": 455760,
+				"to": 456300
+			},
+			"text": " meu canal ali,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:36,560",
+				"to": "00:07:37,140"
+			},
+			"offsets": {
+				"from": 456560,
+				"to": 457140
+			},
+			"text": " eu investi um real,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:37,380",
+				"to": "00:07:38,300"
+			},
+			"offsets": {
+				"from": 457380,
+				"to": 458300
+			},
+			"text": " e eu já fiz mais de 50 mil reais,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,380",
+				"to": "00:07:38,980"
+			},
+			"offsets": {
+				"from": 458380,
+				"to": 458980
+			},
+			"text": " vendendo infoprodutos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:39,220",
+				"to": "00:07:40,200"
+			},
+			"offsets": {
+				"from": 459220,
+				"to": 460200
+			},
+			"text": " e vou mostrar aqui o Tuba,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:40,540",
+				"to": "00:07:41,160"
+			},
+			"offsets": {
+				"from": 460540,
+				"to": 461160
+			},
+			"text": " como que eu vou fazer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:41,260",
+				"to": "00:07:42,240"
+			},
+			"offsets": {
+				"from": 461260,
+				"to": 462240
+			},
+			"text": " pra vender o curso dele,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,320",
+				"to": "00:07:43,480"
+			},
+			"offsets": {
+				"from": 462320,
+				"to": 463480
+			},
+			"text": " que provavelmente eu vou usar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:44,040",
+				"to": "00:07:44,880"
+			},
+			"offsets": {
+				"from": 464040,
+				"to": 464880
+			},
+			"text": " tráfego pago,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,040",
+				"to": "00:07:45,140"
+			},
+			"offsets": {
+				"from": 465040,
+				"to": 465140
+			},
+			"text": " tá,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:45,360",
+				"to": "00:07:45,600"
+			},
+			"offsets": {
+				"from": 465360,
+				"to": 465600
+			},
+			"text": " porque,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,280",
+				"to": "00:07:46,920"
+			},
+			"offsets": {
+				"from": 466280,
+				"to": 466920
+			},
+			"text": " o nicho dele,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:46,980",
+				"to": "00:07:47,880"
+			},
+			"offsets": {
+				"from": 466980,
+				"to": 467880
+			},
+			"text": " é mais difícil ele viralizar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:48,140",
+				"to": "00:07:49,060"
+			},
+			"offsets": {
+				"from": 468140,
+				"to": 469060
+			},
+			"text": " é mais difícil,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:49,140",
+				"to": "00:07:50,180"
+			},
+			"offsets": {
+				"from": 469140,
+				"to": 470180
+			},
+			"text": " então a gente vai ter que usar tráfego,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:50,440",
+				"to": "00:07:51,240"
+			},
+			"offsets": {
+				"from": 470440,
+				"to": 471240
+			},
+			"text": " e eu vou mostrar o passo a passo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,280",
+				"to": "00:07:52,080"
+			},
+			"offsets": {
+				"from": 471280,
+				"to": 472080
+			},
+			"text": " pra fazer o cara ganhar dinheiro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,220",
+				"to": "00:07:52,740"
+			},
+			"offsets": {
+				"from": 472220,
+				"to": 472740
+			},
+			"text": " vou mostrar aqui pra vocês,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,780",
+				"to": "00:07:53,520"
+			},
+			"offsets": {
+				"from": 472780,
+				"to": 473520
+			},
+			"text": " com venda de infoproduto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:53,860",
+				"to": "00:07:54,480"
+			},
+			"offsets": {
+				"from": 473860,
+				"to": 474480
+			},
+			"text": " e todos os caminhos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,560",
+				"to": "00:07:54,880"
+			},
+			"offsets": {
+				"from": 474560,
+				"to": 474880
+			},
+			"text": " de ramificação,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:54,940",
+				"to": "00:07:55,680"
+			},
+			"offsets": {
+				"from": 474940,
+				"to": 475680
+			},
+			"text": " que dá pra levar depois disso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,320",
+				"to": "00:07:56,520"
+			},
+			"offsets": {
+				"from": 476320,
+				"to": 476520
+			},
+			"text": " ok,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:56,620",
+				"to": "00:07:57,100"
+			},
+			"offsets": {
+				"from": 476620,
+				"to": 477100
+			},
+			"text": " falei muito,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,200",
+				"to": "00:07:57,540"
+			},
+			"offsets": {
+				"from": 477200,
+				"to": 477540
+			},
+			"text": " deu pra você entender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:57,620",
+				"to": "00:07:58,000"
+			},
+			"offsets": {
+				"from": 477620,
+				"to": 478000
+			},
+			"text": " você curtiu,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:58,220",
+				"to": "00:07:59,080"
+			},
+			"offsets": {
+				"from": 478220,
+				"to": 479080
+			},
+			"text": " deu pra pegar um ouro aqui,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,140",
+				"to": "00:07:59,340"
+			},
+			"offsets": {
+				"from": 479140,
+				"to": 479340
+			},
+			"text": " não deu,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,440",
+				"to": "00:08:00,660"
+			},
+			"offsets": {
+				"from": 480440,
+				"to": 480660
+			},
+			"text": " e é isso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:00,720",
+				"to": "00:08:01,320"
+			},
+			"offsets": {
+				"from": 480720,
+				"to": 481320
+			},
+			"text": " também eu posso trazer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:01,700",
+				"to": "00:08:03,000"
+			},
+			"offsets": {
+				"from": 481700,
+				"to": 483000
+			},
+			"text": " algumas estratégias que eu tô usando,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:03,080",
+				"to": "00:08:04,220"
+			},
+			"offsets": {
+				"from": 483080,
+				"to": 484220
+			},
+			"text": " pra venda do MasOS em si também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,300",
+				"to": "00:08:04,780"
+			},
+			"offsets": {
+				"from": 484300,
+				"to": 484780
+			},
+			"text": " como que eu vendo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,140",
+				"to": "00:08:05,680"
+			},
+			"offsets": {
+				"from": 485140,
+				"to": 485680
+			},
+			"text": " quais outros produtos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:05,720",
+				"to": "00:08:06,680"
+			},
+			"offsets": {
+				"from": 485720,
+				"to": 486680
+			},
+			"text": " eu poderia criar pra vender,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,980",
+				"to": "00:08:07,220"
+			},
+			"offsets": {
+				"from": 486980,
+				"to": 487220
+			},
+			"text": " também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:07,480",
+				"to": "00:08:07,940"
+			},
+			"offsets": {
+				"from": 487480,
+				"to": 487940
+			},
+			"text": " e por aí vai,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,160",
+				"to": "00:08:08,260"
+			},
+			"offsets": {
+				"from": 488160,
+				"to": 488260
+			},
+			"text": " tá,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:08,840",
+				"to": "00:08:09,240"
+			},
+			"offsets": {
+				"from": 488840,
+				"to": 489240
+			},
+			"text": " então é isso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:09,540",
+				"to": "00:08:10,120"
+			},
+			"offsets": {
+				"from": 489540,
+				"to": 490120
+			},
+			"text": " amanhã no YouTube,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,260",
+				"to": "00:08:11,040"
+			},
+			"offsets": {
+				"from": 490260,
+				"to": 491040
+			},
+			"text": " sai uma aula,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,580",
+				"to": "00:08:12,680"
+			},
+			"offsets": {
+				"from": 491580,
+				"to": 492680
+			},
+			"text": " um vídeo muito foda,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:12,920",
+				"to": "00:08:13,740"
+			},
+			"offsets": {
+				"from": 492920,
+				"to": 493740
+			},
+			"text": " mostrando como que eu estou vendendo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,800",
+				"to": "00:08:14,380"
+			},
+			"offsets": {
+				"from": 493800,
+				"to": 494380
+			},
+			"text": " mentorias também,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,560",
+				"to": "00:08:14,700"
+			},
+			"offsets": {
+				"from": 494560,
+				"to": 494700
+			},
+			"text": " é,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,760",
+				"to": "00:08:15,700"
+			},
+			"offsets": {
+				"from": 494760,
+				"to": 495700
+			},
+			"text": " vende minha segunda mentoria,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:15,780",
+				"to": "00:08:15,960"
+			},
+			"offsets": {
+				"from": 495780,
+				"to": 495960
+			},
+			"text": " meu amigo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,040",
+				"to": "00:08:16,520"
+			},
+			"offsets": {
+				"from": 496040,
+				"to": 496520
+			},
+			"text": " dois mil reais,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:16,580",
+				"to": "00:08:16,960"
+			},
+			"offsets": {
+				"from": 496580,
+				"to": 496960
+			},
+			"text": " duas horas,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:17,300",
+				"to": "00:08:18,940"
+			},
+			"offsets": {
+				"from": 497300,
+				"to": 498940
+			},
+			"text": " e você pode também ter no seu leque,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,200",
+				"to": "00:08:19,660"
+			},
+			"offsets": {
+				"from": 499200,
+				"to": 499660
+			},
+			"text": " mentorias,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,800",
+				"to": "00:08:20,040"
+			},
+			"offsets": {
+				"from": 499800,
+				"to": 500040
+			},
+			"text": " sabe,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,360",
+				"to": "00:08:20,560"
+			},
+			"offsets": {
+				"from": 500360,
+				"to": 500560
+			},
+			"text": " cara,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,740",
+				"to": "00:08:21,300"
+			},
+			"offsets": {
+				"from": 500740,
+				"to": 501300
+			},
+			"text": " é muita coisa,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:21,500",
+				"to": "00:08:22,320"
+			},
+			"offsets": {
+				"from": 501500,
+				"to": 502320
+			},
+			"text": " eu sei que sua cabeça está explodindo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:22,420",
+				"to": "00:08:23,160"
+			},
+			"offsets": {
+				"from": 502420,
+				"to": 503160
+			},
+			"text": " esse moleque é meio doido,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:23,260",
+				"to": "00:08:23,980"
+			},
+			"offsets": {
+				"from": 503260,
+				"to": 503980
+			},
+			"text": " mas eu tô fazendo dinheiro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,060",
+				"to": "00:08:24,660"
+			},
+			"offsets": {
+				"from": 504060,
+				"to": 504660
+			},
+			"text": " e tô mostrando pra vocês,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:24,700",
+				"to": "00:08:25,680"
+			},
+			"offsets": {
+				"from": 504700,
+				"to": 505680
+			},
+			"text": " todas as maneiras que eu tô fazendo dinheiro,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:25,960",
+				"to": "00:08:26,620"
+			},
+			"offsets": {
+				"from": 505960,
+				"to": 506620
+			},
+			"text": " e como você replicar,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,880",
+				"to": "00:08:27,160"
+			},
+			"offsets": {
+				"from": 506880,
+				"to": 507160
+			},
+			"text": " fechou,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:27,360",
+				"to": "00:08:27,820"
+			},
+			"offsets": {
+				"from": 507360,
+				"to": 507820
+			},
+			"text": " tamo junto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,000",
+				"to": "00:08:28,440"
+			},
+			"offsets": {
+				"from": 508000,
+				"to": 508440
+			},
+			"text": " vem comigo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,580",
+				"to": "00:08:29,920"
+			},
+			"offsets": {
+				"from": 508580,
+				"to": 509920
+			},
+			"text": " vou mostrar pra vocês como vender infoprodutos,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:30,000",
+				"to": "00:08:30,580"
+			},
+			"offsets": {
+				"from": 510000,
+				"to": 510580
+			},
+			"text": " e estudem isso,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,020",
+				"to": "00:08:32,080"
+			},
+			"offsets": {
+				"from": 511020,
+				"to": 512080
+			},
+			"text": " troquem ideia com o MasOS de vocês,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,200",
+				"to": "00:08:33,720"
+			},
+			"offsets": {
+				"from": 512200,
+				"to": 513720
+			},
+			"text": " fala que você quer ter na sua operação um infoproduto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,800",
+				"to": "00:08:34,520"
+			},
+			"offsets": {
+				"from": 513800,
+				"to": 514520
+			},
+			"text": " como que você pode fazer,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,800",
+				"to": "00:08:35,200"
+			},
+			"offsets": {
+				"from": 514800,
+				"to": 515200
+			},
+			"text": " e por aí vai,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,280",
+				"to": "00:08:35,680"
+			},
+			"offsets": {
+				"from": 515280,
+				"to": 515680
+			},
+			"text": " trabalhe,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,740",
+				"to": "00:08:36,800"
+			},
+			"offsets": {
+				"from": 515740,
+				"to": 516800
+			},
+			"text": " tenha produtos diferentes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:36,900",
+				"to": "00:08:37,700"
+			},
+			"offsets": {
+				"from": 516900,
+				"to": 517700
+			},
+			"text": " ramificações diferentes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:37,900",
+				"to": "00:08:38,900"
+			},
+			"offsets": {
+				"from": 517900,
+				"to": 518900
+			},
+			"text": " pra você vender pro seu cliente,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,520",
+				"to": "00:08:39,800"
+			},
+			"offsets": {
+				"from": 519520,
+				"to": 519800
+			},
+			"text": " é nóis,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:39,860",
+				"to": "00:08:40,100"
+			},
+			"offsets": {
+				"from": 519860,
+				"to": 520100
+			},
+			"text": " tamo junto,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:40,160",
+				"to": "00:08:40,420"
+			},
+			"offsets": {
+				"from": 520160,
+				"to": 520420
+			},
+			"text": " até a próxima."
+		}
+	]
+}
