@@ -1,6 +1,6 @@
 # MazyOS Brain — Base de Conhecimento (Arquitetura Medalhão)
 
-Todo o conteúdo em vídeo do curso [MazyOS](https://app.kirvano.com) (23 aulas, ~10h) extraído, transcrito e organizado em três camadas, da mais crua à mais inteligente. Abra esta pasta como vault no Obsidian para navegar com links e busca.
+Todo o conteúdo em vídeo do curso [MazyOS](https://app.kirvano.com) (25 aulas, ~12h) extraído, transcrito e organizado em três camadas, da mais crua à mais inteligente. Abra esta pasta como vault no Obsidian para navegar com links e busca.
 
 MazyOS é um sistema de trabalho (skills + memória de projeto) que roda em cima do Claude Code para criar sites, carrosséis, propostas e automatizar prospecção/vendas para clientes de agência e serviços digitais.
 
@@ -45,24 +45,30 @@ Um markdown por aula em `prata/<modulo>/`, com:
 | `2-kaptar` | KAPTAR: seus clientes no automático | 3 |
 | `3-importante` | IMPORTANTE: detalhes que você tem que se atentar | 1 (+2 aulas em texto, sem vídeo) |
 | `4-como-vender-infoprodutos` | Como vender infoprodutos com o MazyOS | 1 |
-| `5-calls-gravadas` | Calls gravadas (ouro escondido) | 6 |
+| `5-calls-gravadas` | Calls gravadas (ouro escondido) | 7 |
 | `6-extras` | EXTRAS | 3 (+1 aula em texto, sem vídeo) |
+| `7-hall-da-fama` | Hall da Fama | 1 |
 
-23 aulas em vídeo no total. 3 aulas do curso são só texto (sem vídeo) e por isso não têm bronze/prata/ouro: "FAQ com as Dúvidas Frequentes", "MazyOS com Antigravity de Graça!" e "Pegue seu cargo de MazyOS Member no Discord".
+25 aulas em vídeo no total. 3 aulas do curso são só texto (sem vídeo) e por isso não têm bronze/prata/ouro: "FAQ com as Dúvidas Frequentes", "MazyOS com Antigravity de Graça!" e "Pegue seu cargo de MazyOS Member no Discord". (Na Kirvano, o módulo Hall da Fama aparece entre as Calls gravadas e o EXTRAS; aqui ele é a pasta `7-` pra não renumerar as pastas antigas.)
 
 ## Status
 
 | Camada | Estado |
 |---|---|
-| Bronze | ✅ 23 áudios baixados, 23 transcrições locais |
-| Prata | ✅ 23 notas |
-| Ouro por aula | ✅ 23/23 notas (paridade 1:1 com a prata) |
+| Bronze | ✅ 25 áudios baixados, 25 transcrições locais |
+| Prata | ✅ 25 notas |
+| Ouro por aula | ✅ 25/25 notas (paridade 1:1 com a prata) |
 | Índice mestre | ✅ INDICE.md |
 
 ## Como foi feito
 
-1. **Descoberta**: navegação manual pela Kirvano (via Claude in Chrome) pra mapear módulos, aulas e os `video_id` da Bunny CDN de cada uma, salvos em `bronze/catalogo/lessons.json`.
+1. **Descoberta**: navegação pela Kirvano (área de membros em `app.kirvano.com/lessons/<course_uuid>`) pra mapear módulos, aulas e os `video_id` da Bunny CDN de cada uma, salvos em `bronze/catalogo/lessons.json`. Hoje a checagem de aulas novas é automatizada por `bronze/pipeline/check_new.py` (CDP no Chrome do pipeline, perfil `~/.chrome-edj` com a sessão da Kirvano salva).
 2. **Download**: `bronze/pipeline/download.py` monta a URL HLS (`https://<cdn_host>/<video_id>/playlist.m3u8`) e baixa o áudio com ffmpeg, passando o header `Referer: https://app.kirvano.com/` exigido pela proteção de hotlink da Bunny.
 3. **Transcrição**: `bronze/pipeline/transcribe.py` roda `whisper-cli` localmente (modelo `ggml-large-v3-turbo`, português, aceleração Metal) sobre cada áudio.
 4. **Prata**: geração determinística a partir dos JSONs (`bronze/pipeline/gen_prata.py`).
 5. **Ouro**: leitura e destilação aula a aula com agentes de IA em paralelo, cada um lendo a transcrição completa da sua aula e escrevendo a nota estruturada.
+
+## Mantendo atualizado
+
+- `bronze/pipeline/check_new.py` compara a Kirvano com o catálogo local e avisa se saiu aula nova (`--notify` manda notificação do macOS). Um cron semanal roda essa checagem.
+- Quando houver aula nova, o comando `/atualizar` do Claude Code (definido em `.claude/commands/atualizar.md`) executa o fluxo completo: captura de `video_id`, download, transcrição, prata, ouro, índice, site e push.

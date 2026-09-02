@@ -1,11 +1,11 @@
 ---
 tags: [indice, mazyos, navegacao]
-atualizado: 2026-08-01
+atualizado: 2026-09-02
 ---
 
 # Índice da Base de Conhecimento do MazyOS
 
-Esta é a porta de entrada do vault: as 23 aulas em vídeo do curso MazyOS (~10h) transcritas e destiladas em notas navegáveis. Os links abaixo apontam sempre pra camada ouro, a versão inteligente de cada aula; a transcrição integral fica em `prata/` e o dado cru em `bronze/`. Abra esta pasta como vault no Obsidian: os links se tornam clicáveis, o grafo conecta as aulas e a busca alcança tudo.
+Esta é a porta de entrada do vault: as 25 aulas em vídeo do curso MazyOS (~12h) transcritas e destiladas em notas navegáveis. Os links abaixo apontam sempre pra camada ouro, a versão inteligente de cada aula; a transcrição integral fica em `prata/` e o dado cru em `bronze/`. Abra esta pasta como vault no Obsidian: os links se tornam clicáveis, o grafo conecta as aulas e a busca alcança tudo.
 
 ## 🚀 Comece por aqui
 
@@ -62,6 +62,13 @@ Lives reais com o convidado JP e outros especialistas — o conteúdo mais denso
 - [[ouro/aulas/5-calls-gravadas/Live JP Como Montar uma Estrutura Comercial para Captação|Live JP: Como Montar uma Estrutura Comercial para Captação]]
 - [[ouro/aulas/5-calls-gravadas/Live com Gustavo Barbosa (Simplu) QUENTE|Live com Gustavo Barbosa (Simplu)]]
 - [[ouro/aulas/5-calls-gravadas/Live como foi feito o MazyoHUB|Live: Como Foi Feito o MazyoHUB]]
+- [[ouro/aulas/5-calls-gravadas/Live JP - Agentes de IA como Serviço|Live JP - Agentes de I.A como Serviço]] (1:21:34)
+
+### 🏆 Hall da Fama
+
+Cases de alunos que fecharam vendas grandes com o MazyOS.
+
+- [[ouro/aulas/7-hall-da-fama/Ele vendeu um sistema para agência de viagens por 12k|Ele Vendeu um Sistema para Agência de Viagens por 12k]] (32:20)
 
 ### 🧩 EXTRAS
 
@@ -82,6 +89,8 @@ Um mapa rápido dos frameworks nomeados que atravessam as aulas (detalhes em cad
 - **Pipeline de 7 etapas + cadência de 6 toques em 14 dias (categorias A/B/C/D)**: [[ouro/aulas/5-calls-gravadas/Live JP - Parte 2 CRM TÁTICO & CADÊNCIAS DE CONVERSÃO|Live JP Parte 2]]
 - **Funil invertido (fricção intencional > volume)**: [[ouro/aulas/5-calls-gravadas/Live JP Como Montar uma Estrutura Comercial para Captação|Live JP: Como Montar Estrutura Comercial]]
 - **Esteira de infoprodutos e tráfego orgânico vs pago**: [[ouro/aulas/4-como-vender-infoprodutos/INFOPRODUTO + MAZYOS = OURO|Infoproduto + MazyOS = Ouro]]
+- **Agentes de I.A como Serviço (matriz funções × canais, nichos âncora, 4 modelos de monetização, máquina de 5 fases)**: [[ouro/aulas/5-calls-gravadas/Live JP - Agentes de IA como Serviço|Live JP - Agentes de I.A como Serviço]]
+- **Venda de sistema fechado + produtização em SaaS (regra dos 50% adiantado)**: [[ouro/aulas/7-hall-da-fama/Ele vendeu um sistema para agência de viagens por 12k|case da agência de viagens]]
 
 ## 🔍 Como esta base foi construída
 

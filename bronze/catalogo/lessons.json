@@ -8,68 +8,196 @@
       "module": "0-introducao",
       "title": "Introdução (opcional)",
       "lessons": [
-        {"order": 1, "title": "Obrigado...", "video_id": "9bc9d9d0-77a5-4b05-8cb0-890a473895d6"}
+        {
+          "order": 1,
+          "title": "Obrigado...",
+          "video_id": "9bc9d9d0-77a5-4b05-8cb0-890a473895d6"
+        }
       ]
     },
     {
       "module": "1-lets-go",
       "title": "LETS GO! Tudo na prática",
       "lessons": [
-        {"order": 1, "title": "PREPARANDO O TERRENO PARA O MAZYOS", "video_id": "f52c37e7-059f-4b12-873b-c1bd55fa1bdc", "duration": "07:31"},
-        {"order": 2, "title": "Coisinhas importantes que você precisa saber", "video_id": "54e27b62-86de-4412-aa28-c3bdb42111dd", "duration": "08:54"},
-        {"order": 3, "title": "ACESSO AO MAZYOS + INSTALAÇÃO", "video_id": "baa06054-a5c6-4174-bde2-6974e35bcf3a", "duration": "18:58"},
-        {"order": 4, "title": "CRIANDO SITE COM MAZYOS", "video_id": "93f196a4-45ba-4966-b031-9c14fedc3ce6"},
-        {"order": 5, "title": "CRIANDO CARROSSEL COM MAZYOS + PDF DE PROPOSTA", "video_id": "bb4a6fe3-d22c-48d2-bdd9-0e5ae465e578"},
-        {"order": 6, "title": "COMO USAR O MAZYOS NO DIA A DIA / SKILLS", "video_id": "c6602107-0e2b-408b-9f21-f1b731d7851a"},
-        {"order": 7, "title": "COMO EU COBRO MEUS CLIENTES - FAZENDO 1 VENDA AO VIVO", "video_id": "447c59b6-b1ee-4ec1-92ff-c81ea1486fe3"},
-        {"order": 8, "title": "CLIENTES INFINITOS PARTE 1", "video_id": "65d1b380-7a98-496c-9b99-e45014aa391c"}
+        {
+          "order": 1,
+          "title": "PREPARANDO O TERRENO PARA O MAZYOS",
+          "video_id": "f52c37e7-059f-4b12-873b-c1bd55fa1bdc",
+          "duration": "07:31"
+        },
+        {
+          "order": 2,
+          "title": "Coisinhas importantes que você precisa saber",
+          "video_id": "54e27b62-86de-4412-aa28-c3bdb42111dd",
+          "duration": "08:54"
+        },
+        {
+          "order": 3,
+          "title": "ACESSO AO MAZYOS + INSTALAÇÃO",
+          "video_id": "baa06054-a5c6-4174-bde2-6974e35bcf3a",
+          "duration": "18:58"
+        },
+        {
+          "order": 4,
+          "title": "CRIANDO SITE COM MAZYOS",
+          "video_id": "93f196a4-45ba-4966-b031-9c14fedc3ce6"
+        },
+        {
+          "order": 5,
+          "title": "CRIANDO CARROSSEL COM MAZYOS + PDF DE PROPOSTA",
+          "video_id": "bb4a6fe3-d22c-48d2-bdd9-0e5ae465e578"
+        },
+        {
+          "order": 6,
+          "title": "COMO USAR O MAZYOS NO DIA A DIA / SKILLS",
+          "video_id": "c6602107-0e2b-408b-9f21-f1b731d7851a"
+        },
+        {
+          "order": 7,
+          "title": "COMO EU COBRO MEUS CLIENTES - FAZENDO 1 VENDA AO VIVO",
+          "video_id": "447c59b6-b1ee-4ec1-92ff-c81ea1486fe3"
+        },
+        {
+          "order": 8,
+          "title": "CLIENTES INFINITOS PARTE 1",
+          "video_id": "65d1b380-7a98-496c-9b99-e45014aa391c"
+        }
       ]
     },
     {
       "module": "2-kaptar",
       "title": "KAPTAR: seus clientes no automático",
       "lessons": [
-        {"order": 1, "title": "Introdução Ferramenta Kaptar", "video_id": "6a5778b2-c3fc-4dbf-b907-9c5d57b7b0f0"},
-        {"order": 2, "title": "Como funciona a ferramenta Kaptar", "video_id": "f8268a46-aa2e-42aa-958d-d265bfb58528"},
-        {"order": 3, "title": "Como fazer disparos com o S-Zap", "video_id": "9c717f32-94c3-4de2-9f6f-9e47c28aa745"}
+        {
+          "order": 1,
+          "title": "Introdução Ferramenta Kaptar",
+          "video_id": "6a5778b2-c3fc-4dbf-b907-9c5d57b7b0f0"
+        },
+        {
+          "order": 2,
+          "title": "Como funciona a ferramenta Kaptar",
+          "video_id": "f8268a46-aa2e-42aa-958d-d265bfb58528"
+        },
+        {
+          "order": 3,
+          "title": "Como fazer disparos com o S-Zap",
+          "video_id": "9c717f32-94c3-4de2-9f6f-9e47c28aa745"
+        }
       ]
     },
     {
       "module": "3-importante",
       "title": "IMPORTANTE: detalhes que você tem que se atentar",
       "lessons": [
-        {"order": 1, "title": "SE SEU MAZYOS ESTA SEM SKILL ASSISTA", "video_id": "a7a0c854-5fff-4fb6-9324-62d11b05ca6a"},
-        {"order": 2, "title": "FAQ COM AS DÚVIDAS FREQUENTES", "type": "texto", "video_id": null},
-        {"order": 3, "title": "MazyOS com Antigravity de GRAÇA!", "type": "texto", "video_id": null}
+        {
+          "order": 1,
+          "title": "SE SEU MAZYOS ESTA SEM SKILL ASSISTA",
+          "video_id": "a7a0c854-5fff-4fb6-9324-62d11b05ca6a"
+        },
+        {
+          "order": 2,
+          "title": "FAQ COM AS DÚVIDAS FREQUENTES",
+          "type": "texto",
+          "video_id": null
+        },
+        {
+          "order": 3,
+          "title": "MazyOS com Antigravity de GRAÇA!",
+          "type": "texto",
+          "video_id": null
+        }
       ]
     },
     {
       "module": "4-como-vender-infoprodutos",
       "title": "Como vender infoprodutos com o MazyOS",
       "lessons": [
-        {"order": 1, "title": "INFOPRODUTO + MAZYOS = OURO", "video_id": "2a695498-6b45-4538-90dd-54e9184e840f"}
+        {
+          "order": 1,
+          "title": "INFOPRODUTO + MAZYOS = OURO",
+          "video_id": "2a695498-6b45-4538-90dd-54e9184e840f"
+        }
       ]
     },
     {
       "module": "5-calls-gravadas",
       "title": "Calls gravadas (ouro escondido)",
       "lessons": [
-        {"order": 1, "title": "Live JP: Estrutura Comercial que Capta Clientes", "video_id": "e9394e17-1f1f-4621-92af-32fc79ceb27e"},
-        {"order": 2, "title": "Live JP - Parte 1: Tráfego + Prospecção | Enchendo o Funil", "video_id": "8ddce8e1-2723-4a97-bb33-fafe6f2ddb0d"},
-        {"order": 3, "title": "Live JP - Parte 2: CRM TÁTICO & CADÊNCIAS DE CONVERSÃO", "video_id": "8f5e38e9-3ef6-42c6-8b7c-219b0d093cea"},
-        {"order": 4, "title": "Live JP: Como Montar uma Estrutura Comercial para Captação", "video_id": "203650fc-c1c6-400b-8942-11ea41750fca"},
-        {"order": 5, "title": "Live com Gustavo Barbosa (Simplu): QUENTE!! 🔥", "video_id": "f10b9c0f-78ba-4ecb-b231-25e00ee58549"},
-        {"order": 6, "title": "Live como foi feito o MazyoHUB!", "video_id": "8d22abef-38c7-442e-b76f-55004092d90e"}
+        {
+          "order": 1,
+          "title": "Live JP: Estrutura Comercial que Capta Clientes",
+          "video_id": "e9394e17-1f1f-4621-92af-32fc79ceb27e"
+        },
+        {
+          "order": 2,
+          "title": "Live JP - Parte 1: Tráfego + Prospecção | Enchendo o Funil",
+          "video_id": "8ddce8e1-2723-4a97-bb33-fafe6f2ddb0d"
+        },
+        {
+          "order": 3,
+          "title": "Live JP - Parte 2: CRM TÁTICO & CADÊNCIAS DE CONVERSÃO",
+          "video_id": "8f5e38e9-3ef6-42c6-8b7c-219b0d093cea"
+        },
+        {
+          "order": 4,
+          "title": "Live JP: Como Montar uma Estrutura Comercial para Captação",
+          "video_id": "203650fc-c1c6-400b-8942-11ea41750fca"
+        },
+        {
+          "order": 5,
+          "title": "Live com Gustavo Barbosa (Simplu): QUENTE!! 🔥",
+          "video_id": "f10b9c0f-78ba-4ecb-b231-25e00ee58549"
+        },
+        {
+          "order": 6,
+          "title": "Live como foi feito o MazyoHUB!",
+          "video_id": "8d22abef-38c7-442e-b76f-55004092d90e"
+        },
+        {
+          "order": 7,
+          "title": "Live JP - Agentes de I.A como Serviço",
+          "video_id": "03e00ee3-6201-4148-81b2-2832ef48692e",
+          "duration": "1:21:34"
+        }
       ]
     },
     {
       "module": "6-extras",
       "title": "EXTRAS",
       "lessons": [
-        {"order": 1, "title": "Pegue seu cargo de MazyOS Member no Discord", "type": "texto", "video_id": null},
-        {"order": 2, "title": "Mindset Avançado", "video_id": "25612cdb-ca4b-41e1-96eb-dbf05e980e89"},
-        {"order": 3, "title": "Ferramenta de áudio para falar com a IA", "video_id": "3d52575e-d60b-435f-917a-405e85f32f0e"},
-        {"order": 4, "title": "SISTEMA PARA LOJA DE CARRO + SITES QUENTES", "video_id": "bcce64ce-5a78-49e0-b982-b82749888083"}
+        {
+          "order": 1,
+          "title": "Pegue seu cargo de MazyOS Member no Discord",
+          "type": "texto",
+          "video_id": null
+        },
+        {
+          "order": 2,
+          "title": "Mindset Avançado",
+          "video_id": "25612cdb-ca4b-41e1-96eb-dbf05e980e89"
+        },
+        {
+          "order": 3,
+          "title": "Ferramenta de áudio para falar com a IA",
+          "video_id": "3d52575e-d60b-435f-917a-405e85f32f0e"
+        },
+        {
+          "order": 4,
+          "title": "SISTEMA PARA LOJA DE CARRO + SITES QUENTES",
+          "video_id": "bcce64ce-5a78-49e0-b982-b82749888083"
+        }
+      ]
+    },
+    {
+      "module": "7-hall-da-fama",
+      "title": "Hall da Fama",
+      "lessons": [
+        {
+          "order": 1,
+          "title": "Ele vendeu um sistema para agência de viagens por 12k",
+          "video_id": "f32c2e6d-7977-4441-8d4a-7ca38d34d777",
+          "duration": "32:20"
+        }
       ]
     }
   ]

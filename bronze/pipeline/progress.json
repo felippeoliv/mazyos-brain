@@ -182,5 +182,21 @@
     "audio_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/6-extras/audio/SISTEMA_PARA_LOJA_DE_CARRO__SITES_QUENTES.mp3",
     "transcribed": true,
     "transcript_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/6-extras/transcripts/SISTEMA_PARA_LOJA_DE_CARRO__SITES_QUENTES.json"
+  },
+  "03e00ee3-6201-4148-81b2-2832ef48692e": {
+    "downloaded": true,
+    "module": "5-calls-gravadas",
+    "title": "Live JP - Agentes de I.A como Serviço",
+    "audio_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/5-calls-gravadas/audio/Live_JP_-_Agentes_de_IA_como_Serviço.mp3",
+    "transcribed": true,
+    "transcript_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/5-calls-gravadas/transcripts/Live_JP_-_Agentes_de_IA_como_Serviço.json"
+  },
+  "f32c2e6d-7977-4441-8d4a-7ca38d34d777": {
+    "downloaded": true,
+    "module": "7-hall-da-fama",
+    "title": "Ele vendeu um sistema para agência de viagens por 12k",
+    "audio_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/7-hall-da-fama/audio/Ele_vendeu_um_sistema_para_agência_de_viagens_por_12k.mp3",
+    "transcribed": true,
+    "transcript_path": "/Users/felippeoliveira/Projects/Personal/mazyos-brain/bronze/7-hall-da-fama/transcripts/Ele_vendeu_um_sistema_para_agência_de_viagens_por_12k.json"
   }
 }
